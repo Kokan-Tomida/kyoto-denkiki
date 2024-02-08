@@ -1,0 +1,324 @@
+2014-03-18 12:43:19 220.99.124.46
+SELECT * FROM kdn_baseinfo WHERE admin_id = BINARY 'kdn' and admin_password = BINARY 'kdn24w375s'
+
+2014-03-18 12:43:19 220.99.124.46
+
+
+2014-03-18 12:43:20 220.99.124.46
+SELECT id,large_category_name FROM kdn_large_category ORDER BY  id asc
+
+2014-03-18 12:43:20 220.99.124.46
+
+
+2014-03-18 12:43:20 220.99.124.46
+SELECT  M.id,L.large_category_name,M.middle_category_name,M.series_name,M.image_path,M.order_of_row  FROM kdn_middle_category M left outer join kdn_large_category L on M.large_category_id=L.id ORDER BY  M.large_category_id ASC,M.order_of_row ASC
+
+2014-03-18 12:43:20 220.99.124.46
+
+
+2014-03-18 12:43:20 220.99.124.46
+SELECT  M.id,L.large_category_name,M.middle_category_name,M.series_name,M.image_path,M.order_of_row  FROM kdn_middle_category M left outer join kdn_large_category L on M.large_category_id=L.id ORDER BY  M.large_category_id ASC,M.order_of_row ASC LIMIT 0 , 15
+
+2014-03-18 12:43:20 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id ORDER BY  H.generate_date desc, H.generate_time desc
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:22 220.99.124.46
+SELECT * FROM kdn_member WHERE id=44
+
+2014-03-18 12:43:22 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT H.id,H.generate_date,H.generate_time,H.kdn_member_id,M.company_name,M.charge_name,M.pref,H.note1,H.note2,H.note3,H.history_id FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE type='sample' ORDER BY  H.generate_date desc, H.generate_time desc
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT H.id,H.generate_date,H.generate_time,H.kdn_member_id,M.company_name,M.charge_name,M.pref,H.note1,H.note2,H.note3,H.history_id FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE type='sample' ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=44
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=42
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=38
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=38
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=38
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=38
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=31
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=31
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=31
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=31
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:43:49 220.99.124.46
+SELECT * FROM kdn_member WHERE id=36
+
+2014-03-18 12:43:49 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id WHERE type='inquiry' and H.kdn_member_id <> 0 and M.status = 2 ORDER BY  H.generate_date desc, H.generate_time desc
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id WHERE type='inquiry' and H.kdn_member_id <> 0 and M.status = 2 ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=43
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=19
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=19
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=41
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=35
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=20
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=19
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=20
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=20
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=18
+
+2014-03-18 12:44:05 220.99.124.46
+
+
+2014-03-18 12:44:05 220.99.124.46
+SELECT * FROM kdn_member WHERE id=19
+
+2014-03-18 12:44:05 220.99.124.46
+
+

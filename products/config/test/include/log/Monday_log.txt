@@ -1,0 +1,439 @@
+2014-01-06 10:28:49 220.99.124.46
+
+
+2014-01-06 10:28:49 220.99.124.46
+
+
+2014-01-06 10:28:49 220.99.124.46
+935
+
+2014-01-06 10:31:09 220.99.124.46
+
+
+2014-01-06 10:31:09 220.99.124.46
+
+
+2014-01-06 10:31:09 220.99.124.46
+935
+
+2014-01-06 12:51:34 123.255.153.115
+exec_INSERT INTO kdn_inquiry_history (company_name,zip,pref,address1,telno,faxno,section,charge_name,email_address,inquiry_select,inquiry_check,inquiry_note,created,modified ) VALUES ( '<a href='sssss'>eee</a>','131-0033','13','墨田区向島','03-2222-2222','','','name','dee@stage.rdy.jp','1','4','<a href="sssss'>eee</a>
+<
+<
+&','2014-01-06 12:51:34','2014-01-06 12:51:34')
+
+2014-01-06 12:51:34 123.255.153.115
+exec_You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sssss'>eee</a>','131-0033','13','墨田区向島','03-2222-2222','','','name','d' at line 1
+
+2014-01-06 12:51:34 123.255.153.115
+exec_INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,note3,history_id,type,created,modified ) VALUES ( '','2014-01-06','12:51:34','パワーエレクトロニクス製品に関するお問い合わせ その他のお問い合わせ','<a href="sssss'>eee</a>
+<
+<
+&','','0','inquiry','2014-01-06 12:51:34','2014-01-06 12:51:34')
+
+2014-01-06 12:51:34 123.255.153.115
+exec_You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/a>
+<
+<
+&','','0','inquiry','2014-01-06 12:51:34','2014-01-06 12:51:34')' at line 1
+
+2014-01-06 14:25:09 220.99.124.46
+
+
+2014-01-06 14:25:09 220.99.124.46
+
+
+2014-01-06 14:25:09 220.99.124.46
+935
+
+2014-01-06 14:25:30 220.99.124.46
+
+
+2014-01-06 14:25:30 220.99.124.46
+
+
+2014-01-06 14:25:30 220.99.124.46
+935
+
+2014-01-06 14:26:29 220.99.124.46
+
+
+2014-01-06 14:26:29 220.99.124.46
+
+
+2014-01-06 14:26:29 220.99.124.46
+935
+
+2014-03-03 00:06:46 27.122.96.67
+
+
+2014-03-03 00:06:46 27.122.96.67
+
+
+2014-03-03 00:06:46 27.122.96.67
+935
+
+2014-03-03 00:07:06 27.122.96.67
+
+
+2014-03-03 00:07:06 27.122.96.67
+
+
+2014-03-03 00:07:06 27.122.96.67
+935
+
+2014-03-03 00:10:34 27.122.96.67
+
+
+2014-03-03 00:10:34 27.122.96.67
+
+
+2014-03-03 00:10:34 27.122.96.67
+935
+
+2014-03-03 00:27:30 27.122.96.67
+
+
+2014-03-03 00:27:30 27.122.96.67
+
+
+2014-03-03 00:27:30 27.122.96.67
+935
+
+2014-03-03 00:28:46 27.122.96.67
+
+
+2014-03-03 00:28:46 27.122.96.67
+
+
+2014-03-03 00:28:46 27.122.96.67
+935
+
+2014-03-17 08:31:14 220.99.124.46
+array (
+  'privacy' => '',
+  'kdn_member_id' => '18',
+  'model1' => 'a',
+  'model2' => 'a',
+  'company_name' => '株式会社会員登録１３１２１２',
+  'charge_name' => 'ご担当者名です。。',
+  'power_needs' => '1',
+  'power_type' => '',
+  'cable_needs' => '1',
+  'cable_length' => '',
+  'cable_length_other' => '',
+  'cable_count' => '<span class="fs_crimson">延長ケーブルで「必要」をチェックしている場合は、本数をご入力ください.</span>',
+  'lent_start_date' => '<span class="fs_crimson">貸し出し希望日の日付けが不正です.</span>',
+  'return_date' => '',
+  'lent_start_date_year' => '',
+  'lent_start_date_month' => '',
+  'lent_start_date_day' => '',
+  'return_date_month' => '',
+  'return_date_year' => '',
+  'return_date_day' => '',
+  'target_work' => '',
+  'work_size' => '',
+  'distance_camera' => '',
+  'distance_light' => '',
+  'sample_note' => '',
+  'ime_style' => 'style="ime-mode:disabled;"',
+  'validate_msg' => '',
+  'mode' => 'CONFIRM',
+  'header_link' => '',
+  'this_root_url_opt' => 'http://kdn-products.com/opt_test',
+  'this_root_url_power' => 'http://kdn-products.com/power_test',
+  'this_root_url_contact' => 'http://kdn-products.com/contact_test',
+)
+
+2014-03-17 08:31:14 220.99.124.46
+array (
+  'privacy' => '',
+  'kdn_member_id' => '18',
+  'model1' => 'a',
+  'model2' => 'a',
+  'company_name' => '株式会社会員登録１３１２１２',
+  'charge_name' => 'ご担当者名です。。',
+  'power_needs' => '1',
+  'power_type' => '',
+  'cable_needs' => '1',
+  'cable_length' => '',
+  'cable_length_other' => '',
+  'cable_count' => '',
+  'lent_start_date' => '',
+  'return_date' => '',
+  'lent_start_date_year' => '',
+  'lent_start_date_month' => '',
+  'lent_start_date_day' => '',
+  'return_date_month' => '',
+  'return_date_year' => '',
+  'return_date_day' => '',
+  'target_work' => '',
+  'work_size' => '',
+  'distance_camera' => '',
+  'distance_light' => '',
+  'sample_note' => '',
+  'ime_style' => 'style="ime-mode:disabled;"',
+  'validate_msg' => '',
+  'mode' => 'CONFIRM',
+  'header_link' => '',
+  'this_root_url_opt' => 'http://kdn-products.com/opt_test',
+  'this_root_url_power' => 'http://kdn-products.com/power_test',
+  'this_root_url_contact' => 'http://kdn-products.com/contact_test',
+  'this_root_url_member' => 'http://kdn-products.com/member_test',
+  'this_registration_url' => 'http://kdn-products.com/member_test/this_registration.php',
+  'member_edit_url' => 'http://kdn-products.com/member_test/edit.php',
+  'member_withdraw_url' => 'http://kdn-products.com/member_test/confirm_withdraw.php',
+  'member_login_url' => 'http://kdn-products.com/member_test',
+  'member_regist_url' => 'http://kdn-products.com/member_test/addnew.php',
+  'this_root_url_contact_guest' => 'http://kdn-products.com/contact_test/inquiry_guest.php',
+  'this_root_url_opt_sample' => 'http://kdn-products.com/opt_test/sample',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt_test/download',
+  'this_root_url_power_download' => 'http://kdn-products.com/power_test/download',
+)
+
+2014-03-17 09:03:20 36.2.132.127
+array (
+  'privacy' => '',
+  'kdn_member_id' => '18',
+  'model1' => '',
+  'model2' => '',
+  'company_name' => '株式会社会員登録１３１２１２',
+  'charge_name' => 'ご担当者名です。。',
+  'power_needs' => '1',
+  'power_type' => '',
+  'cable_needs' => '1',
+  'cable_length' => '',
+  'cable_length_other' => '',
+  'cable_count' => '<span class="fs_crimson">延長ケーブルで「必要」をチェックしている場合は、本数をご入力ください.</span>',
+  'lent_start_date' => '<span class="fs_crimson">貸し出し希望日の日付けが不正です.</span>',
+  'return_date' => '',
+  'lent_start_date_year' => '',
+  'lent_start_date_month' => '',
+  'lent_start_date_day' => '',
+  'return_date_month' => '',
+  'return_date_year' => '',
+  'return_date_day' => '',
+  'target_work' => '',
+  'work_size' => '',
+  'distance_camera' => '',
+  'distance_light' => '',
+  'sample_note' => '',
+  'ime_style' => 'style="ime-mode:disabled;"',
+  'validate_msg' => '',
+  'mode' => 'CONFIRM',
+  'header_link' => '',
+  'this_root_url_opt' => 'http://kdn-products.com/opt_test',
+  'this_root_url_power' => 'http://kdn-products.com/power_test',
+  'this_root_url_contact' => 'http://kdn-products.com/contact_test',
+)
+
+2014-03-17 09:03:20 36.2.132.127
+array (
+  'privacy' => '',
+  'kdn_member_id' => '18',
+  'model1' => '',
+  'model2' => '',
+  'company_name' => '株式会社会員登録１３１２１２',
+  'charge_name' => 'ご担当者名です。。',
+  'power_needs' => '1',
+  'power_type' => '',
+  'cable_needs' => '1',
+  'cable_length' => '',
+  'cable_length_other' => '',
+  'cable_count' => '',
+  'lent_start_date' => '',
+  'return_date' => '',
+  'lent_start_date_year' => '',
+  'lent_start_date_month' => '',
+  'lent_start_date_day' => '',
+  'return_date_month' => '',
+  'return_date_year' => '',
+  'return_date_day' => '',
+  'target_work' => '',
+  'work_size' => '',
+  'distance_camera' => '',
+  'distance_light' => '',
+  'sample_note' => '',
+  'ime_style' => 'style="ime-mode:disabled;"',
+  'validate_msg' => '',
+  'mode' => 'CONFIRM',
+  'header_link' => '',
+  'this_root_url_opt' => 'http://kdn-products.com/opt_test',
+  'this_root_url_power' => 'http://kdn-products.com/power_test',
+  'this_root_url_contact' => 'http://kdn-products.com/contact_test',
+  'this_root_url_member' => 'http://kdn-products.com/member_test',
+  'this_registration_url' => 'http://kdn-products.com/member_test/this_registration.php',
+  'member_edit_url' => 'http://kdn-products.com/member_test/edit.php',
+  'member_withdraw_url' => 'http://kdn-products.com/member_test/confirm_withdraw.php',
+  'member_login_url' => 'http://kdn-products.com/member_test',
+  'member_regist_url' => 'http://kdn-products.com/member_test/addnew.php',
+  'this_root_url_contact_guest' => 'http://kdn-products.com/contact_test/inquiry_guest.php',
+  'this_root_url_opt_sample' => 'http://kdn-products.com/opt_test/sample',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt_test/download',
+  'this_root_url_power_download' => 'http://kdn-products.com/power_test/download',
+)
+
+2014-03-17 09:03:31 36.2.132.127
+array (
+  'privacy' => '',
+  'kdn_member_id' => '18',
+  'model1' => '',
+  'model2' => '',
+  'company_name' => '株式会社会員登録１３１２１２',
+  'charge_name' => 'ご担当者名です。。',
+  'power_needs' => '1',
+  'power_type' => '',
+  'cable_needs' => '1',
+  'cable_length' => '',
+  'cable_length_other' => '',
+  'cable_count' => '<span class="fs_crimson">延長ケーブルで「必要」をチェックしている場合は、本数をご入力ください.</span>',
+  'lent_start_date' => '<span class="fs_crimson">貸し出し希望日の日付けが不正です.</span>',
+  'return_date' => '',
+  'lent_start_date_year' => '',
+  'lent_start_date_month' => '',
+  'lent_start_date_day' => '',
+  'return_date_month' => '',
+  'return_date_year' => '',
+  'return_date_day' => '',
+  'target_work' => '',
+  'work_size' => '',
+  'distance_camera' => '2000',
+  'distance_light' => '100',
+  'sample_note' => '',
+  'ime_style' => 'style="ime-mode:disabled;"',
+  'validate_msg' => '',
+  'mode' => 'CONFIRM',
+  'header_link' => '',
+  'this_root_url_opt' => 'http://kdn-products.com/opt_test',
+  'this_root_url_power' => 'http://kdn-products.com/power_test',
+  'this_root_url_contact' => 'http://kdn-products.com/contact_test',
+)
+
+2014-03-17 09:03:31 36.2.132.127
+array (
+  'privacy' => '',
+  'kdn_member_id' => '18',
+  'model1' => '',
+  'model2' => '',
+  'company_name' => '株式会社会員登録１３１２１２',
+  'charge_name' => 'ご担当者名です。。',
+  'power_needs' => '1',
+  'power_type' => '',
+  'cable_needs' => '1',
+  'cable_length' => '',
+  'cable_length_other' => '',
+  'cable_count' => '',
+  'lent_start_date' => '',
+  'return_date' => '',
+  'lent_start_date_year' => '',
+  'lent_start_date_month' => '',
+  'lent_start_date_day' => '',
+  'return_date_month' => '',
+  'return_date_year' => '',
+  'return_date_day' => '',
+  'target_work' => '',
+  'work_size' => '',
+  'distance_camera' => '2000',
+  'distance_light' => '100',
+  'sample_note' => '',
+  'ime_style' => 'style="ime-mode:disabled;"',
+  'validate_msg' => '',
+  'mode' => 'CONFIRM',
+  'header_link' => '',
+  'this_root_url_opt' => 'http://kdn-products.com/opt_test',
+  'this_root_url_power' => 'http://kdn-products.com/power_test',
+  'this_root_url_contact' => 'http://kdn-products.com/contact_test',
+  'this_root_url_member' => 'http://kdn-products.com/member_test',
+  'this_registration_url' => 'http://kdn-products.com/member_test/this_registration.php',
+  'member_edit_url' => 'http://kdn-products.com/member_test/edit.php',
+  'member_withdraw_url' => 'http://kdn-products.com/member_test/confirm_withdraw.php',
+  'member_login_url' => 'http://kdn-products.com/member_test',
+  'member_regist_url' => 'http://kdn-products.com/member_test/addnew.php',
+  'this_root_url_contact_guest' => 'http://kdn-products.com/contact_test/inquiry_guest.php',
+  'this_root_url_opt_sample' => 'http://kdn-products.com/opt_test/sample',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt_test/download',
+  'this_root_url_power_download' => 'http://kdn-products.com/power_test/download',
+)
+
+2014-03-17 09:03:43 36.2.132.127
+array (
+  'privacy' => '',
+  'kdn_member_id' => '18',
+  'model1' => '型式が入ります。',
+  'model2' => '',
+  'company_name' => '株式会社会員登録１３１２１２',
+  'charge_name' => 'ご担当者名です。。',
+  'power_needs' => '1',
+  'power_type' => '',
+  'cable_needs' => '1',
+  'cable_length' => '',
+  'cable_length_other' => '',
+  'cable_count' => '<span class="fs_crimson">延長ケーブルで「必要」をチェックしている場合は、本数をご入力ください.</span>',
+  'lent_start_date' => '<span class="fs_crimson">貸し出し希望日の日付けが不正です.</span>',
+  'return_date' => '',
+  'lent_start_date_year' => '',
+  'lent_start_date_month' => '',
+  'lent_start_date_day' => '',
+  'return_date_month' => '',
+  'return_date_year' => '',
+  'return_date_day' => '',
+  'target_work' => '',
+  'work_size' => '',
+  'distance_camera' => '2000',
+  'distance_light' => '100',
+  'sample_note' => '',
+  'ime_style' => 'style="ime-mode:disabled;"',
+  'validate_msg' => '',
+  'mode' => 'CONFIRM',
+  'header_link' => '',
+  'this_root_url_opt' => 'http://kdn-products.com/opt_test',
+  'this_root_url_power' => 'http://kdn-products.com/power_test',
+  'this_root_url_contact' => 'http://kdn-products.com/contact_test',
+)
+
+2014-03-17 09:03:43 36.2.132.127
+array (
+  'privacy' => '',
+  'kdn_member_id' => '18',
+  'model1' => '型式が入ります。',
+  'model2' => '',
+  'company_name' => '株式会社会員登録１３１２１２',
+  'charge_name' => 'ご担当者名です。。',
+  'power_needs' => '1',
+  'power_type' => '',
+  'cable_needs' => '1',
+  'cable_length' => '',
+  'cable_length_other' => '',
+  'cable_count' => '',
+  'lent_start_date' => '',
+  'return_date' => '',
+  'lent_start_date_year' => '',
+  'lent_start_date_month' => '',
+  'lent_start_date_day' => '',
+  'return_date_month' => '',
+  'return_date_year' => '',
+  'return_date_day' => '',
+  'target_work' => '',
+  'work_size' => '',
+  'distance_camera' => '2000',
+  'distance_light' => '100',
+  'sample_note' => '',
+  'ime_style' => 'style="ime-mode:disabled;"',
+  'validate_msg' => '',
+  'mode' => 'CONFIRM',
+  'header_link' => '',
+  'this_root_url_opt' => 'http://kdn-products.com/opt_test',
+  'this_root_url_power' => 'http://kdn-products.com/power_test',
+  'this_root_url_contact' => 'http://kdn-products.com/contact_test',
+  'this_root_url_member' => 'http://kdn-products.com/member_test',
+  'this_registration_url' => 'http://kdn-products.com/member_test/this_registration.php',
+  'member_edit_url' => 'http://kdn-products.com/member_test/edit.php',
+  'member_withdraw_url' => 'http://kdn-products.com/member_test/confirm_withdraw.php',
+  'member_login_url' => 'http://kdn-products.com/member_test',
+  'member_regist_url' => 'http://kdn-products.com/member_test/addnew.php',
+  'this_root_url_contact_guest' => 'http://kdn-products.com/contact_test/inquiry_guest.php',
+  'this_root_url_opt_sample' => 'http://kdn-products.com/opt_test/sample',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt_test/download',
+  'this_root_url_power_download' => 'http://kdn-products.com/power_test/download',
+)
+

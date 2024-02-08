@@ -1,0 +1,1254 @@
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+
+
+2024-02-07 09:02:09 122.103.191.82
+INSERT INTO kdn_login_history (kdn_member_id,member_id,login_date,login_time,ip_address,url,created,modified ) VALUES ( '3647','kawamura@eternal-epm.com','2024-02-07','09:02:09','122.103.191.82','/member/index.php','2024-02-07 09:02:09','2024-02-07 09:02:09')
+
+2024-02-07 09:02:09 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:09 122.103.191.82
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,note3,history_id,type,created,modified ) VALUES ( '3647','2024-02-07','09:02:09','[1]製品使用中\n[2]情報収集','/member/index.php','122.103.191.82','6919','login','2024-02-07 09:02:09','2024-02-07 09:02:09')
+
+2024-02-07 09:02:09 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 09:02:09 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 09:02:09 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+
+
+2024-02-07 09:02:09 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:09 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_large_category WHERE top_category_id=1 ORDER BY id asc
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_middle_category WHERE large_category_id=1 ORDER BY order_of_row asc
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=49 ORDER BY order_of_row asc
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=50 ORDER BY order_of_row asc
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=51 ORDER BY order_of_row asc
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_middle_category WHERE large_category_id=2 ORDER BY order_of_row asc
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_products WHERE large_category_id=2 and middle_category_id=52 ORDER BY order_of_row asc
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_middle_category WHERE large_category_id=3 ORDER BY order_of_row asc
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_products WHERE large_category_id=3 and middle_category_id=53 ORDER BY order_of_row asc
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:11 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:11 122.103.191.82
+
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:18 122.103.191.82
+
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:18 122.103.191.82
+
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:18 122.103.191.82
+
+
+2024-02-07 09:02:18 122.103.191.82
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '3647','2024-02-07','09:02:18','264','contents30','2024-02-07 09:02:18','2024-02-07 09:02:18')
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=264
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '3647','2024-02-07','09:02:18','ID:264/P:瞬時電圧低下保護装置/KDP/series/KDP-1S001','取扱説明書PDF','0','download','2024-02-07 09:02:18','2024-02-07 09:02:18')
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:02:18 122.103.191.82
+SELECT * FROM kdn_products WHERE id=264
+
+2024-02-07 09:02:18 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:21:29 122.103.191.82
+
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:21:29 122.103.191.82
+
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:21:29 122.103.191.82
+
+
+2024-02-07 09:21:29 122.103.191.82
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '3647','2024-02-07','09:21:29','264','contents30','2024-02-07 09:21:29','2024-02-07 09:21:29')
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=264
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '3647','2024-02-07','09:21:29','ID:264/P:瞬時電圧低下保護装置/KDP/series/KDP-1S001','取扱説明書PDF','0','download','2024-02-07 09:21:29','2024-02-07 09:21:29')
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:21:29 122.103.191.82
+SELECT * FROM kdn_products WHERE id=264
+
+2024-02-07 09:21:29 122.103.191.82
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 09:22:38 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:22:38 122.103.191.82
+
+
+2024-02-07 09:22:38 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:22:38 122.103.191.82
+
+
+2024-02-07 09:24:11 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:24:11 122.103.191.82
+
+
+2024-02-07 09:24:11 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:24:11 122.103.191.82
+
+
+2024-02-07 09:27:21 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:27:21 122.103.191.82
+
+
+2024-02-07 09:27:21 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:27:21 122.103.191.82
+
+
+2024-02-07 09:27:24 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:27:24 122.103.191.82
+
+
+2024-02-07 09:27:24 122.103.191.82
+SELECT * FROM kdn_member WHERE member_id='kawamura@eternal-epm.com' and member_pwd ='2f00d034' and status='2'
+
+2024-02-07 09:27:24 122.103.191.82
+
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+
+
+2024-02-07 11:47:57 101.110.51.66
+INSERT INTO kdn_login_history (kdn_member_id,member_id,login_date,login_time,ip_address,url,created,modified ) VALUES ( '3649','kota.inoue@lasertec.co.jp','2024-02-07','11:47:57','101.110.51.66','/member/index.php','2024-02-07 11:47:57','2024-02-07 11:47:57')
+
+2024-02-07 11:47:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:47:57 101.110.51.66
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,note3,history_id,type,created,modified ) VALUES ( '3649','2024-02-07','11:47:57','[1]製品使用中\n[2]情報収集','/member/index.php','101.110.51.66','6920','login','2024-02-07 11:47:57','2024-02-07 11:47:57')
+
+2024-02-07 11:47:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 11:47:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 11:47:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+
+
+2024-02-07 11:47:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:57 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_large_category WHERE top_category_id=1 ORDER BY id asc
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_middle_category WHERE large_category_id=1 ORDER BY order_of_row asc
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=49 ORDER BY order_of_row asc
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=50 ORDER BY order_of_row asc
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=51 ORDER BY order_of_row asc
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_middle_category WHERE large_category_id=2 ORDER BY order_of_row asc
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_products WHERE large_category_id=2 and middle_category_id=52 ORDER BY order_of_row asc
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_middle_category WHERE large_category_id=3 ORDER BY order_of_row asc
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_products WHERE large_category_id=3 and middle_category_id=53 ORDER BY order_of_row asc
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:47:59 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:47:59 101.110.51.66
+
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:48:08 101.110.51.66
+
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:48:08 101.110.51.66
+
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:48:08 101.110.51.66
+
+
+2024-02-07 11:48:08 101.110.51.66
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '3649','2024-02-07','11:48:08','268','contents11','2024-02-07 11:48:08','2024-02-07 11:48:08')
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=268
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '3649','2024-02-07','11:48:08','ID:268/P:瞬時電圧低下保護装置/KDP/series/KDP-2S001','外形図DXF','0','download','2024-02-07 11:48:08','2024-02-07 11:48:08')
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 11:48:08 101.110.51.66
+SELECT * FROM kdn_products WHERE id=268
+
+2024-02-07 11:48:08 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:41 101.110.51.66
+
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:41 101.110.51.66
+
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:41 101.110.51.66
+
+
+2024-02-07 13:11:41 101.110.51.66
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '3649','2024-02-07','13:11:41','268','contents11','2024-02-07 13:11:41','2024-02-07 13:11:41')
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=268
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '3649','2024-02-07','13:11:41','ID:268/P:瞬時電圧低下保護装置/KDP/series/KDP-2S001','外形図DXF','0','download','2024-02-07 13:11:41','2024-02-07 13:11:41')
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:41 101.110.51.66
+SELECT * FROM kdn_products WHERE id=268
+
+2024-02-07 13:11:41 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:57 101.110.51.66
+
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:57 101.110.51.66
+
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:57 101.110.51.66
+
+
+2024-02-07 13:11:57 101.110.51.66
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '3649','2024-02-07','13:11:57','268','contents30','2024-02-07 13:11:57','2024-02-07 13:11:57')
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=268
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '3649','2024-02-07','13:11:57','ID:268/P:瞬時電圧低下保護装置/KDP/series/KDP-2S001','取扱説明書PDF','0','download','2024-02-07 13:11:57','2024-02-07 13:11:57')
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_baseinfo
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_member WHERE member_id='kota.inoue@lasertec.co.jp' and member_pwd ='2bbb6e94' and status='2'
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-07 13:11:57 101.110.51.66
+SELECT * FROM kdn_products WHERE id=268
+
+2024-02-07 13:11:57 101.110.51.66
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+

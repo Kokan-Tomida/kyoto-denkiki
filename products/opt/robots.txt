@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.kdn.co.jp/products/opt/sitemap.xml

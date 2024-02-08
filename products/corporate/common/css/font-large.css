@@ -1,0 +1,300 @@
+@charset "utf-8";
+
+/*-------------------------------*/
+/*    フォント大中小設定         */
+/*-------------------------------*/
+
+div#header div.right a#small{
+	width:22px;
+	height:22px;
+	padding:0 2px 0 0;
+	margin:0;
+	background: url("../images/small_off.gif");
+	background-repeat:no-repeat;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+}
+
+div#header div.right a#medium{
+	width:22px;
+	height:22px;
+	padding:0 2px 0 0;
+	margin:0;
+	background: url("../images/middle_off.gif");
+	background-repeat:no-repeat;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+}
+
+div#header div.right a#large{
+	width:22px;
+	height:22px;
+	margin:0;
+	background: url("../images/large_on.gif");
+	background-repeat:no-repeat;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+}
+
+/*-------------------------------*/
+/*       ボディ設定     　　     */
+/*-------------------------------*/
+
+div#contents_box,
+div#footer_box{
+	font-size:14px;
+	line-height:20px;
+	color:#333333;
+}
+
+div.subcontents_set{
+	font-size:14px;
+	line-height:20px;
+}
+
+div.infobar_bg{
+	/width:150px;
+	/height:36px;
+	/background-image:url(../../images/bar01.gif);
+	/background-repeat:no-repeat;
+	/padding:16px 0 0 510px;
+}
+
+div.f_space{
+	padding:0 15px 0 0;
+}
+
+div.f_space02{
+	padding:0 15px 0 0;
+}
+
+li.f_space03{
+	_padding:7px 0 0 0;
+}
+
+li.f_space04{
+	_padding:5px 0 0 0;
+}
+
+div#copyright_box{
+	width:960px;
+	margin:0 auto;
+	text-align:left;
+	color:#ffffff;
+	margin:28px auto 0 auto;
+	_margin:33px auto 0 auto;
+}
+
+.fs14{
+	font-size:16px;
+	line-height:22px;
+}
+
+/*-------------------------------*/
+/*         採用情報ページ        */
+/*-------------------------------*/
+
+div.careers_text01{
+	font-size:18px;
+	padding:17px 0 0 25px;
+}
+
+div.careers_text02{
+	font-size:18px;
+	line-height:24px;
+	padding:1px 0 0 25px;
+}
+
+div.cbottom{
+	padding-bottom:70px;
+}
+
+div.careers_text03{
+	width:960px;
+	height:38px;
+	margin:50px 0 0 0;
+	padding:24px 0 0 0;
+	font-size:24px;
+	color:#ff6600;
+	font-weight:bold;
+	text-align:center;
+	background-image:url(../../careers/images/careers_text_bg.gif);
+	background-repeat:no-repeat;
+}
+
+/*-------------------------------*/
+/*  プライバシーポリシーページ   */
+/*-------------------------------*/
+
+p.privacy_text01{
+	font-size:16px;
+	color:#2c2e7f;
+	font-weight:bold;
+}
+
+/*-------------------------------*/
+/*  　　　　 404ページ　   　　  */
+/*-------------------------------*/
+
+p.text404{
+	font-size:16px;
+	line-height:22px;
+}
+
+/*-------------------------------*/
+/*  　　 お問い合わせページ　    */
+/*-------------------------------*/
+
+p.contact_text01{
+	font-size:14px;
+	line-height:24px;
+}
+
+p.comp_text{
+	font-size:18px;
+	line-height:26px;
+	color:#2c2e7f;
+	font-weight:bold;
+	text-align:center;
+	padding:199px 0 197px 0;
+}
+
+th{
+	font-size:16px;
+	text-align:left;
+	padding:13px 0 12px 0;
+}
+
+td{
+	font-size:16px;
+	text-align:left;
+}
+
+span.contact_text02{
+	font-size:14px;
+	font-weight:normal;
+}
+
+/*-------------------------------*/
+/*  　　 　企業情報ページ　      */
+/*-------------------------------*/
+
+.corporate_text01{
+	font-size:16px;
+	line-height:26px;
+}
+
+.about_space01{
+	height:78px;
+}
+
+.about_space02{
+	padding-bottom:70px;
+}
+
+td.about{
+	font-size:14px;
+}
+
+.about_text01{
+	font-size:16px;
+	font-weight:bold;
+	color:#003f97;
+}
+
+.quality_space01{
+	padding-top:214px;
+}
+
+.quality_space02{
+	padding-top:211px;
+}
+
+.quality_space03{
+	padding-top:22px;
+}
+
+.quality_space04{
+	padding-top:2px;
+}
+
+.quality_space05{
+	padding-top:210px;
+}
+
+.quality_space06{
+	padding-top:75px;
+}
+
+.quality_space07{
+	padding-top:34px;
+	padding-left:25px;
+}
+
+.quality_space08{
+	padding-top:25px;
+	padding-left:25px;
+}
+
+.quality_space09{
+	padding-top:22px;
+	padding-left:25px;
+}
+
+.quality_space10{
+	padding-top:20px;
+	padding-left:115px;
+}
+
+.quality_space11{
+	padding-top:35px;
+	padding-left:25px;
+}
+
+.quality_space12{
+	padding-top:23px;
+	padding-left:25px;
+}
+
+.quality_space13{
+	padding-left:15px;
+	border-left:1px solid #cccccc;
+	margin:30px 0 0 450px;
+}
+
+.relation_space01{
+	height:20px;
+}
+
+.relation_space01_1{
+	height:25px;
+}
+
+.relation_space02{
+	height:60px;
+}
+
+.relation_space04{
+	height:140px;
+}
+
+.relation_space05{
+	height:60px;
+}
+
+.relation_space03{
+	padding-bottom:200px;
+}
+
+/*-------------------------------*/
+/*  　　 　業務案内ページ　      */
+/*-------------------------------*/
+
+.business_text01{
+	font-size:22px;
+	font-weight:bold;
+	color:#333333;
+}

@@ -1,0 +1,105 @@
+<!DOCTYPE html  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="robots" content="index,follow" />
+<title>新規登録｜京都電機器 Products Admin 管理サイト</title>
+<link href="./common/css/import.css" rel="stylesheet" type="text/css" media="all" />
+<link href="<?menu_g?>" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="./common/themes/base/jquery.ui.all.css">
+<!--<script src="./common/jquery-1.9.1.js"></script>-->
+<script src="./common/ui/jquery.ui.core.js"></script>
+<script src="./common/ui/jquery.ui.widget.js"></script>
+<script src="./common/ui/jquery.ui.datepicker.js"></script>
+<script type="text/javascript" src="./common/js/smartrollover.js"></script>
+<script type="text/javascript" src="./common/js/gloval.js"></script>
+<script type="text/javascript" src="./common/js/jsf.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script src="https://ajaxzip3.github.io/ajaxzip3.js" charset="UTF-8"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+//ページトップボタンにつけたid名を入れてください 
+ var topBtn = $('#pagetop');
+ topBtn.hide();
+ 
+ //スクロールが100に達したらボタン表示
+ $(window).scroll(function () {
+if ($(this).scrollTop() > 100) {
+ topBtn.fadeIn();
+ } else {
+ topBtn.fadeOut();
+ }
+ });
+  
+ //スクロールしてトップ
+ topBtn.click(function () {
+ $('body,html').animate({
+ scrollTop: 0
+ }, 500);
+ return false;
+ });
+});
+</script>
+<script>
+//	$(function() {
+//		$( "#from" ).datepicker({
+//			defaultDate: "+1w",
+//			changeMonth: false,
+//			numberOfMonths: 1,
+//			onClose: function( selectedDate ) {
+//				$( "#to" ).datepicker( "option", "minDate", selectedDate );
+//			}
+//		});
+/*
+		$( "#to" ).datepicker({
+			defaultDate: "+1w",
+			changeMonth: false,
+			numberOfMonths: 1,
+			onClose: function( selectedDate ) {
+				$( "#from" ).datepicker( "option", "maxDate", selectedDate );
+			}
+		});
+		$( "#from2" ).datepicker({
+			defaultDate: "+1w",
+			changeMonth: false,
+			numberOfMonths: 1,
+			onClose: function( selectedDate ) {
+				$( "#to2" ).datepicker( "option", "minDate", selectedDate );
+			}
+		});
+		$( "#to2" ).datepicker({
+			defaultDate: "+1w",
+			changeMonth: false,
+			numberOfMonths: 1,
+			onClose: function( selectedDate ) {
+				$( "#from2" ).datepicker( "option", "maxDate", selectedDate );
+			}
+		});
+*/
+//		$( "#datepicker" ).datepicker();
+//		$( ".dpicker" ).datepicker();
+//	});
+	$(function() {
+		$( "#datepicker" ).datepicker();
+	});	
+</script>
+<!--[if lte IE 6]>
+<script type="text/javascript" src="common/js/DD_belatedPNG_0.0.8a.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('.png, .search_btn, .clear_btn, .edit_btn, .delete_btn, .up_btn, .down_btn, .regist_btn');
+</script>
+<![endif]-->
+</head>
+
+<body>
+
+<p>Date: <input type="text" id="datepicker"></p>
+
+<div class="demo-description">
+<p>The datepicker is tied to a standard form input field.  Focus on the input (click, or use the tab key) to open an interactive calendar in a small overlay.  Choose a date, click elsewhere on the page (blur the input), or hit the Esc key to close. If a date is chosen, feedback is shown as the input's value.</p>
+</div>
+</body>
+</html>

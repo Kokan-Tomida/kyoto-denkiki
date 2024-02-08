@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="robots" content="index,follow" />
+<title>新規登録｜京都電機器 Products Admin 管理サイト</title>
+<link href="common/css/import.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="common/js/smartrollover.js"></script>
+<script type="text/javascript" src="common/js/gloval.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+//ページトップボタンにつけたid名を入れてください 
+ var topBtn = $('#pagetop');
+ topBtn.hide();
+ 
+ //スクロールが100に達したらボタン表示
+ $(window).scroll(function () {
+if ($(this).scrollTop() > 100) {
+ topBtn.fadeIn();
+ } else {
+ topBtn.fadeOut();
+ }
+ });
+  
+ //スクロールしてトップ
+ topBtn.click(function () {
+ $('body,html').animate({
+ scrollTop: 0
+ }, 500);
+ return false;
+ });
+});
+</script>
+<!--[if lte IE 6]>
+<script type="text/javascript" src="common/js/DD_belatedPNG_0.0.8a.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('.png, .search_btn, .clear_btn, .edit_btn, .delete_btn, .up_btn, .down_btn, .regist_btn');
+</script>
+<![endif]-->
+
+<style type="text/css">
+div.g02 a:link img{
+	-moz-opacity:0.9;
+	opacity:0.9;
+	filter: alpha(opacity=90);
+}
+</style>
+</head>
+<body>
+<!-- wrapper start -->
+<div id="wrapper">
+  <!-- header_box start -->
+  <div id="header_box">
+  
+    <div id="header" class="clearfix">
+     <div class="left mg-top27 mg-left14"><img src="common/images/logo.gif" alt="Products Admin 管理サイト" width="452" height="34" /></div>
+     <div class="left mg-top27">
+      <div><a href="http://kdn-products.com/power/" target="_blank"><img src="common/images/logo_po.gif" alt="Power Electronics" width="234" height="16" /></a></div>
+      <div><a href="http://kdn-products.com/opt/" target="_blank"><img src="common/images/logo_opt.gif" alt="Opt Electronics" width="234" height="18" /></a></div>
+     </div>
+     <div class="right mg-right11">
+      <div class="pd-left60"><a href="#"><img src="common/images/logout_btn.gif" alt="ログアウト" width="119" height="32" /></a></div>
+      <div class="mg-top15"><a href="http://www.kdn.co.jp/" target="_blank"><img src="common/images/logo_kyoto.gif" alt="京都電機器株式会社" width="177" height="14" /></a></div>
+     </div>
+    </div>
+
+  </div>
+  <!-- header_box end -->
+  
+  <div id="g_menu_bg">
+  <!-- g_menu_box start -->
+  <div id="g_menu_box" class="clearfix">
+   <div class="left g01"><a href="#"><img src="common/images/gmenu_btn01.gif" alt="製品中カテゴリ画面" width="192" height="73" /></a></div>
+   <div class="left g02"><a href="#"><img src="common/images/gmenu_btn02.gif" alt="製品情報管理" width="192" height="73" /></a></div>
+   <div class="left g03"><a href="#"><img src="common/images/gmenu_btn03.gif" alt="会員情報管理" width="192" height="73" /></a></div>
+   <div class="left g04"><a href="#"><img src="common/images/gmenu_btn04.gif" alt="履歴情報管理" width="192" height="73" /></a></div>
+   <div class="left g05"><a href="#"><img src="common/images/gmenu_btn05.gif" alt="基本情報管理" width="192" height="73" /></a></div>
+  </div>
+  <!-- g_menu_box end -->
+  </div>
+  
+  <!-- contents_box start -->
+  <div id="contents_box">
+  
+   <div id="pankuzu"><a href="#">製品情報管理一覧</a> &gt; 新規登録</div>
+   
+   <form method="post" action="#">
+   <div id="search_box02">
+   
+    <div class="clearfix">
+    <div class="left text01 pd-top42">大カテゴリー</div>
+    <div class="left pd-top35 pd-left14">
+     <select class="dai">
+      <option>オプトエレクトロニクス</option>
+      <option>パワーエレクトロニクス</option>
+     </select>
+    </div>
+    <div class="left text01 pd-top42 pd-left30">O→オプトエレクトロニクス</div>
+    </div>
+    
+    <div class="clearfix mg-top20">
+     <div class="left text01 pd-top8">中カテゴリ名</div>
+     <div class="left pd-left14"><select class="cyuu">
+      <option>○○○○○○○○○○○</option>
+      <option>○○○○○○○○○○○</option>
+     </select></div>
+    </div>
+    
+    <div class="clearfix mg-top20">
+     <div class="left text01 pd-top8">製品名</div>
+     <div class="left pd-left56"><input class="lo01" type="text"></div>
+    </div>
+    
+    <div class="mg-top18">
+     <div class="text01 pd-top6">1 外形図PDF</div>
+     <div class="pd-left15"><input type="file" size="30" maxlength="30" class="pdf" /></div>
+    </div>
+    
+    <div>
+     <div class="text01 pd-top6">　外形図DXF</div>
+     <div class="pd-left15"><input type="file" size="30" maxlength="30" class="pdf" /></div>
+    </div>
+    
+    <div class="mg-top11">
+     <div class="text01 pd-top6">2 取扱説明書PDF</div>
+     <div class="pd-left15"><input type="file" size="30" maxlength="30" class="pdf" /></div>
+    </div>
+    
+    <div class="mg-top11">
+     <div class="text01 pd-top6">3 仕様書PDF</div>
+     <div class="pd-left15"><input type="file" size="30" maxlength="30" class="pdf" /></div>
+    </div>
+    
+    <div class="mg-top11">
+     <div class="text01 pd-top6">4 その他PDF</div>
+     <div class="pd-left15"><input type="file" size="30" maxlength="30" class="pdf" /></div>
+    </div>
+    
+    <div class="mg-top18 pd-left96"><input type="submit" name="submit" value=" " class="regist_btn" /></div>
+    
+   </div>
+   </form>
+  
+  </div>
+  <!-- contents_box end -->
+  <!-- footer_box start -->
+  <div id="footer_box">
+   <p id="pagetop"><a href="#wrapper"><img src="common/images/pagetop.png" alt="TOP↑" width="33" height="38" class="png" /></a></p>
+   <div id="footer">
+    <p class="txtcenter pd-top30">Copyright &copy; 2013 Kyoto Denkiki Co.,Ltd. All Rights Reserved.</p>
+   </div>
+ </div>
+  <!-- footer_box end -->
+</div>
+<!-- wrapper end -->
+</body>
+</html>

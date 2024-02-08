@@ -1,0 +1,18 @@
+<?company_name?>
+<?section?> <?charge_name?> 様
+
+いつも弊社サイトをご利用いただき、誠にありがとうございます。
+<?charge_name?>様の会員情報の変更が完了いたしました。
+
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+   Power Electronics and Opt Electronics
+   Kyoto Denkiki Co.,Ltd.
++++++++++++++++++++++++++++++++++
+   京都電機器株式会社
+   〒611-0041
+   京都府宇治市槙島町十六19-1
+   電話　0774-25-7710
+   http://www.kdn.co.jp/
+   e-mail　products@kdn.co.jp
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*

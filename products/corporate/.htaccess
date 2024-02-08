@@ -1,0 +1,10 @@
+AuthUserFile /var/www/html/products/corporate/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Input ID and Password."
+AuthType Basic
+require valid-user
+<Files ~ "^.(htpasswd|htaccess)$">
+    deny from all
+</Files>
+
+ErrorDocument 404 https://www.kdn.co.jp/products/corporate/404/index.html

@@ -1,0 +1,550 @@
+@charset "utf-8";
+
+/*-------------------------------*/
+/*    フォント大中小設定         */
+/*-------------------------------*/
+
+div#header a#small{
+	width:22px;
+	height:22px;
+	padding:0 2px 0 0;
+	margin:0;
+	background: url("../images/small_off.gif");
+	background-repeat:no-repeat;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+}
+
+div#header a#medium{
+	width:22px;
+	height:22px;
+	padding:0 2px 0 0;
+	margin:0;
+	background: url("../images/middle_off.gif");
+	background-repeat:no-repeat;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+}
+
+div#header a#large{
+	width:22px;
+	height:22px;
+	margin:0;
+	background: url("../images/large_on.gif");
+	background-repeat:no-repeat;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+}
+
+/**/
+
+div#subheader a#small{
+	width:22px;
+	height:22px;
+	padding:0 2px 0 0;
+	margin:0;
+	background: url("../images/small_off.gif");
+	background-repeat:no-repeat;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+}
+
+div#subheader a#medium{
+	width:22px;
+	height:22px;
+	padding:0 2px 0 0;
+	margin:0;
+	background: url("../images/middle_off.gif");
+	background-repeat:no-repeat;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+}
+
+div#subheader a#large{
+	width:22px;
+	height:22px;
+	margin:0;
+	background: url("../images/large_on.gif");
+	background-repeat:no-repeat;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+}
+
+/*-------------------------------*/
+/*       ボディ設定     　　     */
+/*-------------------------------*/
+
+body{
+	margin:0;
+	padding:0;
+	font-size:14px;
+	line-height:20px;
+	color:#333333;
+	text-align:center;
+ font-family:'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+}
+
+h1{
+	font-size:12px;
+	line-height:18px;
+}
+
+div.side_bnbox{
+	width:262px;
+	height:350px;
+	background-image:url(../../images/side_bnbox_bg.gif);
+	background-repeat:no-repeat;
+	background-position:bottom;
+	padding:10px 0 0 8px;
+	background-color:#f1f1f1;
+	margin:18px 0 0 0;
+	font-size:14px;
+	line-height:21px;
+}
+
+div#footer li{
+	line-height:130%;
+}
+
+div#footer ul.ful li{
+	line-height:160%;
+}
+
+.f_space02{
+	padding:0 30px 0 0;
+}
+
+.f_space05{
+	padding:0 30px 0 0;
+}
+
+.f_space13{
+	_padding:1px 0 0 0;
+}
+
+.f_space14{
+	width:100px;
+}
+
+.f_space15{
+	width:130px;
+}
+
+.fs10{
+	font-size:10px;
+	line-height:11px;
+}
+
+.fs14{
+	font-size:16px;
+	line-height:22px;
+}
+
+/*-------------------------------*/
+/*           404ページ           */
+/*-------------------------------*/
+
+p.text_404{
+	font-size:16px;
+	line-height:22px;
+}
+
+/*-------------------------------*/
+/*        　製品情報ページ       */
+/*-------------------------------*/
+
+div.kdpl_box01,
+div.kdpl_box02,
+div.kddb2_box01,
+div.kddb2_box02,
+div.kddb2_box03,
+div.kddb2_q_box01,
+div.kddb2_q_box02,
+div.kddl3_box01,
+div.kddl3_box02,
+div.kddl3_box03,
+div.kddl3_box04,
+div.kddr_p_box01,
+div.kddr_p_box02,
+div.kddr_p_box03,
+div.kddr2_box01,
+div.kddr2_box02,
+div.kddr2_la_box01,
+div.kddr2_la_box02,
+div.kdfv2_box01,
+div.kdfv2_box02,
+div.kddd2_box01,
+div.kddd2_box02,
+div.kdhm2_box01,
+div.kdhm2_box02,
+div.kdfl2_box01,
+div.kdfl2_box02,
+div.pl_plh2_plh3_box01,
+div.pl_plh2_plh3_box02,
+div.pl_plh2_plh3_box03,
+div.pl_plh2_plh3_box04,
+div.pl_plh2_plh3_box05,
+div.pls2_pls3_plsf_box01,
+div.pls2_pls3_plsf_box02,
+div.pls2_pls3_plsf_box03,
+div.pls2_pls3_plsf_box04,
+div.pls2_pls3_plsf_box05,
+div.lfm-15w_box01,
+div.lfm-15w_box02,
+div.lfm-15w_box03,
+div.lfm-15w_box04,
+div.luv_box01,
+div.luv_box02,
+div.luv_box03,
+div.luv_box04,
+div.ir_box01,
+div.ir_box02,
+div.ir_box03,
+div.uv_box01,
+div.uv_box02,
+div.r_box_box01,
+div.lek_box01,
+div.lek_box02,
+div.lda_box01,
+div.lda_box02,
+div.lda_box03,
+div.lfa_box01,
+div.lfa_box02,
+div.lfa_box03,
+div.lla_box01,
+div.lla_box02,
+div.lla_box03,
+div.lla_box04,
+div.cable_box01,
+div.plate_box01,
+div.plate02_box01,
+div.plate02_box02,
+div.fp_box01,
+div.lsj_box01,
+div.lsj_box02,
+div.lsj_box03,
+div.lsh_box01,
+div.kfs_10_15f1_box01,
+div.kfs_10_15f1_box03,
+div.kfs_10_15f1_box04,
+div.kfs_10_15f1_box05,
+div.kfs_30f1_box01,
+div.kfs_30f1_box02,
+div.kfs_30f1_box03,
+div.kfs_60f1_box01,
+div.kfs_60f1_box02,
+div.kfs_60f1_box03,
+div.kfs_l_box01{
+	font-size:12px;
+	line-height:18px;
+	/*font-size:13px;
+	line-height:16px;
+ letter-spacing:-0.1em;*/
+}
+
+div#subcontents_box div.wd-700 strong{
+	font-size:14px;
+	line-height:18px;
+ letter-spacing:-0.1em;
+}
+
+div#subcontents_box div.wd-700 h4.fs14 strong{
+	font-size:16px;
+	line-height:22px;
+}
+
+div#subcontents_box div.wd-700 .product_text01 strong{
+	font-size:15px;
+	line-height:20px;
+}
+
+div#subcontents_box div.wd-700 strong.product_text03{
+	font-size:15px;
+	line-height:20px;
+}
+
+div#subcontents_box div.wd-700 strong.product_text04{
+	font-size:15px;
+	line-height:20px;
+}
+
+.product_text01{
+	font-size:15px;
+	line-height:20px;
+	color:#0059ab;
+}
+
+.product_text03{
+	font-size:15px;
+	line-height:20px;
+	color:#2c9859;
+}
+
+.product_text04{
+	font-size:15px;
+	line-height:20px;
+	color:#cb2624;
+}
+
+.tablebg01 td{
+	color:#ffffff;
+	font-weight:bold;
+	background-color:#999999;
+	font-size:14px;
+}
+
+.tablebg02 td{
+	color:#666666;
+	background-color:#ffffff;
+	font-size:14px;
+}
+
+td.cell01{
+	background-color:#f4f5f8;
+}
+
+td.cell02{
+	background-color:#f3f8ec;
+}
+
+td.cell03{
+	background-color:#fff5ef;
+}
+
+div.product01space01{
+	padding-left:152px;
+}
+
+div.product01space02{
+	padding-left:98px;
+}
+
+.lfa_space{
+	padding-top:44px;
+}
+
+div.lsc_da1_box01{
+	width:680px;
+	height:198px;
+	margin:30px 0 0 0;
+	padding:240px 0 0 20px;
+	background-image:url(../../products/fluorescent/lsc_da1/images/item01.jpg);
+	background-repeat:no-repeat;
+}
+
+div.lsc_da1_box01 td{
+	font-size:13px;
+	line-height:19px;
+}
+
+/*-------------------------------*/
+/*      　カスタム照明ページ     */
+/*-------------------------------*/
+
+div.custom_box01,
+div.custom_box04,
+div.custom_box05,
+div.custom_box06,
+div.custom_box07{
+	font-size:13px;
+	line-height:18px;
+}
+
+/*-------------------------------*/
+/*      　　技術資料ページ       */
+/*-------------------------------*/
+
+.technical_text01{
+	font-size:22px;
+	_line-height:26px;
+	font-weight:bold;
+	color:#0059ab;
+}
+
+.technical_text03{
+	font-size:22px;
+	_line-height:26px;
+	font-weight:bold;
+	color:#2c9859;
+}
+
+.technical_text02{
+	font-size:18px;
+	color:#0059ab;
+}
+
+.technical_text04{
+	font-size:18px;
+	color:#2c9859;
+}
+
+.technical_text05{
+	font-size:22px;
+	_line-height:26px;
+	font-weight:bold;
+	color:#cb2624;
+}
+
+.technical_text06{
+	font-size:18px;
+	color:#cb2624;
+}
+
+
+.l_h01{
+	height:186px;
+}
+
+.l_h02{
+	height:400px;
+}
+
+.l_h03{
+	height:126px;
+}
+
+div.technical_led_box05{
+	width:159px;
+	height:250px;
+	background-image:url(../../technical/led/images/item05.gif);
+	background-repeat:no-repeat;
+	background-color:#eef6fb;
+	padding:33px 20px 0 360px;
+	margin:40px 0 0 0;
+}
+
+div.technical_led_box05{
+	font-size:13px;
+	line-height:18px;
+}
+
+div.technical_flu_box01 td,
+div.technical_flu_box02 td{
+	font-size:14px;
+	line-height:20px;
+}
+
+.technical_space{
+	padding-top:120px;
+}
+
+.technical_space02{
+	padding-top:100px;
+}
+
+.technical_space03{
+	padding-top:160px;
+}
+
+div.technical_flu_box04{
+	width:586px;
+	height:125px;
+	margin:40px 0 0 0;
+	padding:44px 0 0 312px;
+	background-image:url(../../technical/fluorescent/images/item13.jpg);
+	background-repeat:no-repeat;
+	font-size:13px;
+	line-height:18px;
+}
+
+/*-------------------------------*/
+/*    サンプル機貸し出しページ   */
+/*-------------------------------*/
+
+div.sample_inner_box th{
+	background-color:#f0f3f9;
+	padding-left:15px;
+	border-bottom:6px solid #ffffff;
+	font-size:16px;
+	line-height:24px;
+}
+
+div.sample_inner_box td{
+	padding:0 0 6px 20px;
+	font-size:16px;
+	line-height:24px;
+}
+
+div.sample_inner_box .input06{
+	border:1px solid #dbdbdb;
+	background-image:url(../../sample/images/input_bg.gif);
+	background-repeat:repeat-x;
+	background-position:top;
+	width:526px;
+	padding:0 0 0 5px;
+	height:28px;
+	/height:20px;
+	/padding:8px 0 0 5px;
+	height:20px\9;
+	padding:8px 0 0 5px\9;
+}
+
+div.sample_inner_box .input08{
+	border:1px solid #dbdbdb;
+	background-image:url(../../sample/images/input_bg.gif);
+	background-repeat:repeat-x;
+	background-position:top;
+	width:493px;
+	padding:0 0 0 5px;
+	height:28px;
+	/height:20px;
+	/padding:8px 0 0 5px;
+	height:20px\9;
+	padding:8px 0 0 5px\9;
+}
+
+.sample_text02{
+	font-size:16px;
+	color:#2c2e7f;
+	font-weight:bold;
+}
+
+p.comp_text{
+	font-size:18px;
+	line-height:28px;
+	color:#2c2e7f;
+	font-weight:bold;
+	text-align:center;
+	padding:199px 0 197px 0;
+}
+
+/*-------------------------------*/
+/*           2期開発             */
+/*-------------------------------*/
+
+div.dl_text01{
+	width:480px;
+	font-size:14px;
+	line-height:14px;
+	color:#cc0000;
+	padding:30px 0 0 0;
+}
+
+table.dltb td{
+	font-size:11px;
+	font-weight:bold;
+	color:#333333;
+	text-align:center;
+	padding:2px 0 2px 0;
+}
+
+.dl_text02{
+	font-size:14px;
+	line-height:16px;
+	font-weight:normal;
+}
+
+p.comp_text05{
+	font-size:18px;
+	line-height:28px;
+	color:#2c2e7f;
+	font-weight:bold;
+	text-align:center;
+	padding:86px 0 0 0;
+}

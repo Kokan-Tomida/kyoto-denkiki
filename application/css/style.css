@@ -1,0 +1,120 @@
+@charset "UTF-8";
+/*
+ * application/style.css
+ *
+ */
+
+
+/* /application/index.php
+-------------------------------------------------------------- */
+/* applicationTabTitle01 */
+.applicationTabTitle {
+    border-bottom: 3px solid #3359a4;
+    display: block;
+    min-height: 1%;
+}
+.applicationTabTitle:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+.applicationTabTitle li {
+    float: left;
+    font-size: 117%;
+    margin-right: 3px;
+    text-align: center;
+	width:224px;
+}
+.applicationTabTitle li a {
+	display: block;
+	padding: 15px 5px 10px;
+	background-color: #fff;
+	border: 1px solid #dfdfdf;
+	border-bottom: none;
+	color: #666;
+	text-decoration: none;
+}
+.applicationTabTitle li a:hover {
+	background-color: #3359a4;
+	border: 1px solid #3359a4;
+	border-bottom: none;
+	color: #fff;
+}
+.applicationTabTitle li a.active {
+	background-color: #3359a4;
+	border: 1px solid #3359a4;
+	border-bottom: none;
+	color: #fff;
+}
+
+
+/* applicationTabContents */
+
+.applicationTabContents {
+    background-color: #fff;
+    border: 1px solid #dfdfdf;
+    padding: 30px 20px;
+}
+
+.tableApplication01 {
+	width: 918px;
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.tableApplication01 .colW20per {
+	width: 20%;
+}
+
+.tableApplication01 .colW40per {
+	width: 40%;
+}
+
+.tableApplication01 {
+	border-top: 1px solid #e1e1e1;
+	border-left: 1px solid #e1e1e1;
+}
+
+.tableApplication01 .tableApplicationTitle01 {
+	background-color: #1a89d0;
+	color: #fff;
+	font-size: 115%;
+    font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	border-right: 1px solid #e1e1e1;
+	border-bottom: 1px solid #e1e1e1;
+	height: 32px;
+	padding: 0 10px;
+}
+
+.tableApplication01 .tableApplicationTitle02  {
+	background-color: #f8f8fb;
+	font-size: 115%;
+    font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	border-right: 1px solid #e1e1e1;
+	border-bottom: 1px solid #e1e1e1;
+	padding: 10px 20px;
+}
+
+.tableApplication01 td {
+	font-size: 108%;
+	vertical-align: top;
+	border-right: 1px solid #e1e1e1;
+	border-bottom: 1px solid #e1e1e1;
+	padding: 10px 20px;
+}
+
+.tableApplication01 td ul li {
+	margin-bottom: 5px;
+}
+
+.tableApplication01 td ul li:last-child {
+	margin-bottom: 0;
+}

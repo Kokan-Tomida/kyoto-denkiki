@@ -1,0 +1,102 @@
+2014-01-23 12:40:25 27.122.111.248
+''
+
+2014-01-23 12:40:25 27.122.111.248
+81
+
+2014-01-23 12:40:31 27.122.111.248
+'1'
+
+2014-01-23 12:40:31 27.122.111.248
+81
+
+2014-01-23 12:47:36 220.99.124.46
+exec_SELECT  M.id,L.large_category_name,M.middle_category_name,M.series_name,M.image_path,M.order_of_row  FROM kdn_middle_category M left outer join kdn_large_category L on M.large_category_id=L.id ORDER BY  M.large_category_id ASC,M.order_of_row ASC
+
+2014-01-23 12:47:36 220.99.124.46
+exec_Table '_kdn_system_db.kdn_middle_category' doesn't exist
+
+2014-01-23 12:47:36 220.99.124.46
+exec_SELECT  M.id,L.large_category_name,M.middle_category_name,M.series_name,M.image_path,M.order_of_row  FROM kdn_middle_category M left outer join kdn_large_category L on M.large_category_id=L.id ORDER BY  M.large_category_id ASC,M.order_of_row ASC
+
+2014-01-23 12:47:36 220.99.124.46
+exec_Table '_kdn_system_db.kdn_middle_category' doesn't exist
+
+2014-01-23 12:47:57 220.99.124.46
+exec_SELECT  M.id,L.large_category_name,M.middle_category_name,M.series_name,M.image_path,M.order_of_row  FROM kdn_middle_category M left outer join kdn_large_category L on M.large_category_id=L.id ORDER BY  M.large_category_id ASC,M.order_of_row ASC
+
+2014-01-23 12:47:57 220.99.124.46
+exec_Table '_kdn_system_db.kdn_middle_category' doesn't exist
+
+2014-02-20 19:33:02 210.172.109.86
+''
+
+2014-02-20 19:33:02 210.172.109.86
+81
+
+2014-02-20 19:33:05 210.172.109.86
+'49'
+
+2014-02-20 19:33:05 210.172.109.86
+81
+
+2014-02-20 19:33:10 210.172.109.86
+'49'
+
+2014-02-20 19:33:10 210.172.109.86
+81
+
+2014-02-20 19:33:12 210.172.109.86
+'49'
+
+2014-02-20 19:33:12 210.172.109.86
+81
+
+2014-02-20 19:33:13 210.172.109.86
+'49'
+
+2014-02-20 19:33:13 210.172.109.86
+81
+
+2014-02-20 19:33:14 210.172.109.86
+'49'
+
+2014-02-20 19:33:14 210.172.109.86
+81
+
+2014-02-20 19:33:16 210.172.109.86
+'49'
+
+2014-02-20 19:33:16 210.172.109.86
+81
+
+2014-02-20 19:33:18 210.172.109.86
+'49'
+
+2014-02-20 19:33:18 210.172.109.86
+81
+
+2014-02-20 19:33:20 210.172.109.86
+'49'
+
+2014-02-20 19:33:20 210.172.109.86
+81
+
+2014-02-20 19:33:21 210.172.109.86
+'49'
+
+2014-02-20 19:33:21 210.172.109.86
+81
+
+2014-02-20 19:33:28 210.172.109.86
+'49'
+
+2014-02-20 19:33:28 210.172.109.86
+81
+
+2014-02-20 19:33:29 210.172.109.86
+'49'
+
+2014-02-20 19:33:29 210.172.109.86
+81
+

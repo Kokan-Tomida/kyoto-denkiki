@@ -1,0 +1,1 @@
+[{"id":2,"width":207.87,"height":"8.088","x":"56.693","y":"814.637","option":0,"text":"LEDLIGHTINGPRODUCTSCATALOGKYOTODENKIKIco.,ltd."}]

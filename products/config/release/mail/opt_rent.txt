@@ -1,0 +1,44 @@
+<?company_name?>
+<?section?> <?charge_name?> 様
+
+この度はオプトエレクトロニクスのサンプル機貸出へ
+お申込みありがとうございます。
+追って弊社担当よりご連絡差し上げます。
+
+□照明
+１．型式　<?model1?>
+２．型式　<?model2?>
+□電源
+<?power_needs_view?>
+電源型式
+<?power_type?>
+□延長ケーブル
+<?cable_needs_view?>
+<?cable_count_view?>
+長さ：　<?cable_length?>
+<?cable_length_other_view?>
+□貸し出し希望日
+<?lent_start_date_view?>
+□返却予定日
+<?return_date_view?>
+□対象物ワーク
+<?target_work?>
+□ワークの大きさ
+<?work_size?>
+□距離
+カメラ　照明　<?distance_camera?>
+照明　ワーク　<?distance_light?>
+□検査内容
+<?sample_note?>
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+   Power Electronics and Opt Electronics
+   Kyoto Denkiki Co.,Ltd.
++++++++++++++++++++++++++++++++++
+   京都電機器株式会社
+   〒611-0041
+   京都府宇治市槙島町十六19-1
+   電話　0774-25-7710
+   https://www.kdn.co.jp/
+   e-mail　products@kdn.co.jp
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*

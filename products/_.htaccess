@@ -1,0 +1,3 @@
+Redirect permanent /index.html http://www.kdn.co.jp/404/index.html
+
+AddHandler php5.4-script .php

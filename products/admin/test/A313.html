@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="robots" content="index,follow" />
+<title>履歴照会｜京都電機器 Products Admin 管理サイト</title>
+<link href="common/css/import.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="common/js/smartrollover.js"></script>
+<script type="text/javascript" src="common/js/gloval.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+//ページトップボタンにつけたid名を入れてください 
+ var topBtn = $('#pagetop');
+ topBtn.hide();
+ 
+ //スクロールが100に達したらボタン表示
+ $(window).scroll(function () {
+if ($(this).scrollTop() > 100) {
+ topBtn.fadeIn();
+ } else {
+ topBtn.fadeOut();
+ }
+ });
+  
+ //スクロールしてトップ
+ topBtn.click(function () {
+ $('body,html').animate({
+ scrollTop: 0
+ }, 500);
+ return false;
+ });
+});
+</script>
+<!--[if lte IE 6]>
+<script type="text/javascript" src="common/js/DD_belatedPNG_0.0.8a.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('.png, .search_btn, .clear_btn, .edit_btn, .delete_btn, .up_btn, .down_btn, .history_btn, .withdraw_btn');
+</script>
+<![endif]-->
+
+<style type="text/css">
+div.g03 a:link img{
+	-moz-opacity:0.9;
+	opacity:0.9;
+	filter: alpha(opacity=90);
+}
+</style>
+</head>
+<body>
+<!-- wrapper start -->
+<div id="wrapper">
+  <!-- header_box start -->
+  <div id="header_box">
+  
+    <div id="header" class="clearfix">
+     <div class="left mg-top27 mg-left14"><img src="common/images/logo.gif" alt="Products Admin 管理サイト" width="452" height="34" /></div>
+     <div class="left mg-top27">
+      <div><a href="http://kdn-products.com/power/" target="_blank"><img src="common/images/logo_po.gif" alt="Power Electronics" width="234" height="16" /></a></div>
+      <div><a href="http://kdn-products.com/opt/" target="_blank"><img src="common/images/logo_opt.gif" alt="Opt Electronics" width="234" height="18" /></a></div>
+     </div>
+     <div class="right mg-right11">
+      <div class="pd-left60"><a href="#"><img src="common/images/logout_btn.gif" alt="ログアウト" width="119" height="32" /></a></div>
+      <div class="mg-top15"><a href="http://www.kdn.co.jp/" target="_blank"><img src="common/images/logo_kyoto.gif" alt="京都電機器株式会社" width="177" height="14" /></a></div>
+     </div>
+    </div>
+
+  </div>
+  <!-- header_box end -->
+  
+  <div id="g_menu_bg">
+  <!-- g_menu_box start -->
+  <div id="g_menu_box" class="clearfix">
+   <div class="left g01"><a href="#"><img src="common/images/gmenu_btn01.gif" alt="製品中カテゴリ画面" width="192" height="73" /></a></div>
+   <div class="left g02"><a href="#"><img src="common/images/gmenu_btn02.gif" alt="製品情報管理" width="192" height="73" /></a></div>
+   <div class="left g03"><a href="#"><img src="common/images/gmenu_btn03.gif" alt="会員情報管理" width="192" height="73" /></a></div>
+   <div class="left g04"><a href="#"><img src="common/images/gmenu_btn04.gif" alt="履歴情報管理" width="192" height="73" /></a></div>
+   <div class="left g05"><a href="#"><img src="common/images/gmenu_btn05.gif" alt="基本情報管理" width="192" height="73" /></a></div>
+  </div>
+  <!-- g_menu_box end -->
+  </div>
+  
+  <!-- contents_box start -->
+  <div id="contents_box">
+  
+   <div id="pankuzu"><a href="#">会員情報管理一覧</a> &gt; 履歴照会</div>
+   
+   <div id="search_box02">
+   
+   <div class="clearfix">
+    <div class="left text01 pd-top33">登録日　yyyy/mm/dd</div>
+    <div class="left text01 pd-top33 pd-left40">法人名　○○○○株式会社</div>
+    <div class="left text01 pd-top33 pd-left40">ご担当者名　山田太郎</div>
+    </div>
+   
+   <div class="clearfix">
+    <div class="left text01 pd-top25">メールアドレス　xxxxx@xx.xx</div>
+    <div class="left text01 pd-top25 pd-left40">電話番号　06-4569-6957</div>
+    </div>
+    
+   </div>
+   
+   <div class="clearfix mg-top30">
+   <div class="left btn01_on"><a href="#">全て</a></div>
+   <div class="left btn01"><a href="#">貸出履歴</a></div>
+   <div class="left btn01"><a href="#">問い合わせ履歴</a></div>
+   <div class="left btn01"><a href="#">ログイン履歴</a></div>
+   <div class="left btn01"><a href="#">ダウンロード履歴</a></div>
+   <div class="right"><input type="submit" name="submit" value=" " class="csv_btn" /></div>
+   </div>
+   
+   <!-- pagenavibox start -->
+   <div id="pagenavibox" class="mg-top20 mg-bottom15">
+    <ul>
+     <li><a href="#"><img src="common/images/head_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/previous_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pagenavi_on"><a href="#">1</a></li>
+     <li class="pagenavi_off"><a href="#">2</a></li>
+     <li class="pagenavi_off"><a href="#">3</a></li>
+     <li class="pagenavi_off"><a href="#">4</a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/next_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/last_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pd-left10 pd-top4">20/80</li>
+    </ul>
+   </div>
+   <!-- pagenavibox end -->
+   
+   <div class="tbbg01">
+    <table width="960" border="0" cellspacing="1" cellpadding="10">
+     <tr>
+       <th width="30">No</th>
+       <th width="100" class="txtleft">年月日時</th>
+       <th width="100" class="txtleft">履歴種別</th>
+       <th width="645" class="txtleft">内容</th>
+       </tr>
+     <tr>
+       <td class="txtcenter">1</td>
+       <td>yyyy/mm/dd<br />hh:mi:ss</td>
+       <td>問い合わせ</td>
+       <td>オプトエレクトロニクス<br />見積もり希望,製品購入について</td>
+       </tr>
+     </table>
+   </div>
+   
+   <!-- pagenavibox start -->
+   <div id="pagenavibox" class="mg-top20">
+    <ul>
+     <li><a href="#"><img src="common/images/head_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/previous_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pagenavi_on"><a href="#">1</a></li>
+     <li class="pagenavi_off"><a href="#">2</a></li>
+     <li class="pagenavi_off"><a href="#">3</a></li>
+     <li class="pagenavi_off"><a href="#">4</a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/next_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/last_arrow.gif" width="26" height="23" border="0" /></a></li>
+    </ul>
+   </div>
+   <!-- pagenavibox end -->
+  
+  </div>
+  <!-- contents_box end -->
+  <!-- footer_box start -->
+  <div id="footer_box">
+   <p id="pagetop"><a href="#wrapper"><img src="common/images/pagetop.png" alt="TOP↑" width="33" height="38" class="png" /></a></p>
+   <div id="footer">
+    <p class="txtcenter pd-top30">Copyright &copy; 2013 Kyoto Denkiki Co.,Ltd. All Rights Reserved.</p>
+   </div>
+ </div>
+  <!-- footer_box end -->
+</div>
+<!-- wrapper end -->
+</body>
+</html>

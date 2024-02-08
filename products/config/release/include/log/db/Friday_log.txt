@@ -1,0 +1,18 @@
+2014-08-15 12:18:47 157.14.226.70
+SELECT * FROM kdn_member WHERE email_address ='masami5183@galaxy.ocn.ne..jp' and status = 2
+
+2014-08-15 12:18:47 157.14.226.70
+
+
+2014-08-15 18:03:46 113.161.145.100
+SELECT * FROM kdn_member WHERE member_id='hungchinhkureha@kureha-vietnam.com' and member_pwd ='rambutan' and status='2'
+
+2014-08-15 18:03:46 113.161.145.100
+
+
+2014-08-15 18:04:28 113.161.145.100
+SELECT * FROM kdn_member WHERE member_id='hungchinhkureha@kureha-vietnam.com' and member_pwd ='rambutan' and status='2'
+
+2014-08-15 18:04:28 113.161.145.100
+
+

@@ -1,0 +1,830 @@
+2024-02-03 15:50:54 118.238.219.6
+SELECT * FROM kdn_member WHERE email_address ='sinakazu@disco.co.jp' and status <> 3
+
+2024-02-03 15:50:54 118.238.219.6
+
+
+2024-02-03 15:51:06 118.238.219.6
+INSERT INTO kdn_member (company_name,zip1,zip2,pref,address1,telno,faxno,section,charge_name,email_address,note,status,query_strings,temporary_registration,validity,created,modified ) VALUES ( '株式会社ディスコ','143','8580','13','大田区大森北2-13-11','03-4590-1066','','','稲員　進','sinakazu@disco.co.jp','','1','c67c9254143fe2ae57ae1d48d991bea68913dd98','2024-02-03 15:51:06','2024-02-03 16:51','2024-02-03 15:51:06','2024-02-03 15:51:06')
+
+2024-02-03 15:51:06 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 15:51:06 118.238.219.6
+SELECT * FROM kdn_baseinfo
+
+2024-02-03 15:51:06 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 15:51:06 118.238.219.6
+SELECT * FROM kdn_baseinfo
+
+2024-02-03 15:51:06 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:00:07 118.238.219.6
+SELECT * FROM kdn_member WHERE query_strings = 'c67c9254143fe2ae57ae1d48d991bea68913dd98'
+
+2024-02-03 16:00:07 118.238.219.6
+
+
+2024-02-03 16:00:07 118.238.219.6
+UPDATE kdn_member SET status='2',this_registration='2024-02-03 16:00:07',member_id='sinakazu@disco.co.jp',member_pwd='fb35545f',modified ='2024-02-03 16:00:07' WHERE id=3645
+
+2024-02-03 16:00:07 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:00:07 118.238.219.6
+SELECT * FROM kdn_baseinfo
+
+2024-02-03 16:00:07 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:00:07 118.238.219.6
+SELECT * FROM kdn_baseinfo
+
+2024-02-03 16:00:07 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+
+
+2024-02-03 16:01:46 118.238.219.6
+INSERT INTO kdn_login_history (kdn_member_id,member_id,login_date,login_time,ip_address,url,created,modified ) VALUES ( '3645','sinakazu@disco.co.jp','2024-02-03','16:01:46','118.238.219.6','/member/index.php','2024-02-03 16:01:46','2024-02-03 16:01:46')
+
+2024-02-03 16:01:46 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:01:46 118.238.219.6
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,note3,history_id,type,created,modified ) VALUES ( '3645','2024-02-03','16:01:46','[1]購入検討中\n[2]情報収集','/member/index.php','118.238.219.6','6910','login','2024-02-03 16:01:46','2024-02-03 16:01:46')
+
+2024-02-03 16:01:46 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_baseinfo
+
+2024-02-03 16:01:46 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_baseinfo
+
+2024-02-03 16:01:46 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+
+
+2024-02-03 16:01:46 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:46 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_large_category WHERE top_category_id=2 ORDER BY id asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_middle_category WHERE large_category_id=4 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=2 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=3 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=4 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=5 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=6 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=7 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=8 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=9 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=10 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=11 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=12 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=13 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=14 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=15 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=16 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=17 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=18 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=19 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=20 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=22 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=23 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=41 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=42 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=43 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=44 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_middle_category WHERE large_category_id=5 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=24 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=25 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=26 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=27 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=28 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=29 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=30 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=31 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=32 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=46 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=47 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=48 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_middle_category WHERE large_category_id=6 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=36 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=37 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=38 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=39 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=40 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_middle_category WHERE large_category_id=7 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_products WHERE large_category_id=7 and middle_category_id=54 ORDER BY order_of_row asc
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:01:53 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:01:53 118.238.219.6
+
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:12:23 118.238.219.6
+
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:12:23 118.238.219.6
+
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:12:23 118.238.219.6
+
+
+2024-02-03 16:12:23 118.238.219.6
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '3645','2024-02-03','16:12:23','63','contents10','2024-02-03 16:12:23','2024-02-03 16:12:23')
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=63
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '3645','2024-02-03','16:12:23','ID:63/O:画像処理用LED照明/フラット面照明/KDHM2 series/KDHM2-90/120*','外形図PDF','0','download','2024-02-03 16:12:23','2024-02-03 16:12:23')
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_baseinfo
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_baseinfo
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:12:23 118.238.219.6
+SELECT * FROM kdn_products WHERE id=63
+
+2024-02-03 16:12:23 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:13:11 118.238.219.6
+
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:13:11 118.238.219.6
+
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:13:11 118.238.219.6
+
+
+2024-02-03 16:13:11 118.238.219.6
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '3645','2024-02-03','16:13:11','312','contents40','2024-02-03 16:13:11','2024-02-03 16:13:11')
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=312
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '3645','2024-02-03','16:13:11','ID:312/O:その他/技術ノウハウ冊子/光読本　LED編　VOL2/LED handbook vol.2','その他PDF','0','download','2024-02-03 16:13:11','2024-02-03 16:13:11')
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_baseinfo
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_baseinfo
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_member WHERE member_id='sinakazu@disco.co.jp' and member_pwd ='fb35545f' and status='2'
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+
+2024-02-03 16:13:11 118.238.219.6
+SELECT * FROM kdn_products WHERE id=312
+
+2024-02-03 16:13:11 118.238.219.6
+array (
+  0 => '00000',
+  1 => NULL,
+  2 => NULL,
+)
+

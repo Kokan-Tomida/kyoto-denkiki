@@ -1,0 +1,133 @@
+2014-08-06 13:12:51 180.42.77.209
+array (
+  'hellow_name' => '森川俊治 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '森川俊治 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-08-06 14:08:39 203.138.242.206
+array (
+  'hellow_name' => '山下直也 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '山下直也 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-08-06 14:08:45 203.138.242.206
+array (
+  'hellow_name' => '山下直也 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '山下直也 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-08-06 14:08:48 203.138.242.206
+array (
+  'hellow_name' => '山下直也 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '山下直也 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-08-06 14:17:00 203.138.242.206
+array (
+  'hellow_name' => '山下直也 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '山下直也 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-08-06 14:38:24 203.138.242.206
+array (
+  'hellow_name' => '山下直也 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '山下直也 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-08-13 00:36:38 138.243.218.144
+array (
+  'hellow_name' => '安達 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '安達 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+

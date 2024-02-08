@@ -1,0 +1,54 @@
+<?company_name?>
+<?section?> <?charge_name?> 様
+
+この度は弊社会員登録いただき、誠にありがとうございます。
+登録を完了する為には、以下の期日までにURLに
+アクセスして頂く必要があります。
+
+有効期限 <?validity?>
+▼こちらよりアクセスしてください。
+<?access_url?>
+
+仮登録の内容は以下のとおりです。ご確認をお願いいたします。
+
+御社名：
+<?company_name?>
+
+郵便番号：
+<?zip?>
+
+都道府県：
+<?pref_name?>
+
+ご住所：
+<?address1?>
+
+電話番号：
+<?telno?>
+
+FAX番号：
+<?faxno?>
+
+担当部署：
+<?section?>
+
+ご担当者名：
+<?charge_name?>
+
+メールアドレス：
+<?email_address?>
+
+備考:
+<?note?>
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+   Power Electronics and Opt Electronics
+   Kyoto Denkiki Co.,Ltd.
++++++++++++++++++++++++++++++++++
+   京都電機器株式会社
+   〒611-0041
+   京都府宇治市槙島町十六19-1
+   電話　0774-25-7710
+   http://www.kdn.co.jp/
+   e-mail　products@kdn.co.jp
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*

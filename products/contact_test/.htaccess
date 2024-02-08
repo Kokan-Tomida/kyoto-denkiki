@@ -1,0 +1,12 @@
+AuthUserFile /home/sites/heteml/users/k/y/o/kyotodenkiki/web/kdn-products.com/contact_test/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Input ID and Password."
+AuthType Basic
+require valid-user
+<Files ~ "^.(htpasswd|htaccess)$">
+    deny from all
+</Files>
+
+ErrorDocument 404 http://kdn-products.com/opt/test/404/index.php
+
+DirectoryIndex index.php index.html 

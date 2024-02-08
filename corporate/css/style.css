@@ -1,0 +1,600 @@
+@charset "UTF-8";
+/*
+ * corporate/style.css
+ *
+ */
+
+
+/* /corporate/ common
+-------------------------------------------------------------- */
+.corporateBox01 {
+	border: 1px solid #dfdfdf;
+}
+.corporateBoxIn01 {
+	padding: 20px;
+}
+
+/* /corporate/
+-------------------------------------------------------------- */
+.indexTxt01 {
+	font-size: 153.9%;
+	font-weight: bold;
+	color: #555;
+}
+
+/* indexDetailBox01 */
+.indexDetailBox01 {
+	margin-top: 20px;
+	display: block;
+	min-height: 1%;
+}
+.indexDetailBox01:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.indexDetailBox01 p {
+	font-size: 109%;
+	line-height: 1.8;	
+}
+.indexImg01 {
+	float: right;
+	margin: 0 0 20px 20px;
+}
+.indexImg02 {
+	text-align: right;
+	margin-top: 20px;
+}
+
+/* indexDetailBox02 */
+.indexDetailBox02 {
+	margin-top: 50px;
+}
+.indexDetailBox02 p {
+	margin-top: 20px;
+}
+.indexDetailBox02 p:first-child {
+	margin-top: 0;
+}
+
+
+/* /corporate/about/
+-------------------------------------------------------------- */
+/* aboutTable01 */
+.aboutTable01 {
+	margin-top: 20px;
+}
+
+/* /corporate/business/
+-------------------------------------------------------------- */
+.businessH401 {
+    color: #555;
+    font-size: 153.9%;
+    font-weight: bold;
+}
+.businessH501 {
+	color: #2359a4;
+	font-size: 138.5%;
+	font-weight: bold;
+	border-bottom: 1px solid #dfdfdf;
+	margin: 40px 0 20px;
+}
+.businessTxt01 {
+	margin-bottom: 20px;
+}
+.businessProductBox01 ul {
+	margin-right: -9px;
+}
+.businessProductBox01 ul li {
+	float: left;
+	width: 334px;
+	margin: 0 9px 0 0;
+}
+
+.businessProductBox01 ul li figcaption {
+    background: none repeat scroll 0 0 #0058a8;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+.businessProductBox01 ul li figure img {
+	border: 1px solid #dfdfdf;
+	border-bottom: none;
+}
+.businessProductBox01 ul li a:hover figure img {
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+	zoom: 1;
+}
+.businessProductBox01 ul li a:hover figcaption,
+.businessProductBox01 ul li a:hover figcaption {
+	background: #4e79b5;
+}
+.businessBanner {
+	margin-top: 20px;
+}
+
+.businessBanner a:hover img {
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+	zoom: 1;
+}
+
+
+
+.productList02:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.productList02 ul li{
+
+	float: left;
+	margin-right: 10px;
+	width: 334px;
+		
+}
+
+.productList02 ul li:nth-child(even){
+	margin-right: 0;
+}
+.productList02 ul li a{
+
+	display: block;
+	height: 48px;
+	border: 4px solid #ebebec;
+	line-height: 48px;
+	text-align: center;
+}
+
+.productList02 ul li a figure figcaption{
+	display: inline;
+	background: url(../../images/ico_arrow03.gif) no-repeat 0 center;
+	padding-left: 18px;
+}
+
+
+
+/* /corporate/business/equipment/
+-------------------------------------------------------------- */
+.equipmentH401,
+.equipmentH402,
+.equipmentH403,
+.equipmentH404,
+.equipmentH405,
+.equipmentH406 {
+	color: #fff;
+	font-size: 138.5%;
+	font-weight: bold;
+	height: 40px;
+	line-height: 40px;
+	padding: 0 21px;
+}
+.equipmentH401 {
+	background: #2686c5;
+}
+.equipmentH402 {
+	background: #309fba;
+}
+.equipmentH403 {
+	background: #3faa8d;
+}
+.equipmentH404 {
+	background: #50a042;
+}
+.equipmentH405 {
+	background: #a9b92c;
+}
+.equipmentH406 {
+	background: #ddbd1f;
+}
+.equipmentH501 {
+	color: #666;
+	font-size: 138.5%;
+	border-bottom: 1px solid #dfdfdf;	
+	margin-bottom: 20px;
+}
+
+.equipmentH502 {
+	color: #2359a4;
+	font-size: 123.1%;
+	font-weight: bold;
+	border-bottom: 1px solid #dfdfdf;	
+	margin-bottom: 20px;
+}
+
+#equipment_main{
+    float: right;
+    width: 718px;
+}
+
+.equipmentBox01 {
+	background: #fff;
+	border: 1px solid #dfdfdf;
+	padding: 20px 20px 30px;
+	margin-bottom:20px;
+}
+
+.equipmentList01 {
+	background: url(../images/equipmentBottom01.gif) no-repeat 0 bottom #fff;
+	padding: 0 0 26px;
+}
+
+.equipmentListIn {
+	border: 1px solid #dfdfdf;
+	border-top: none;
+	border-bottom: none;
+	padding: 20px 20px 20px;
+}
+.pic_equipment01,
+.pic_equipment02 {
+	float: right;
+}
+.pic_equipment01 {
+	width: 300px;
+	margin: 0 0 0 30px;
+}
+.pic_equipment02 {
+	width: 314px;
+	margin: 0 -14px 0 30px;
+}
+.pic_equipment02 figure {
+	float: left;
+	margin-right: 14px;
+}
+.pic_equipment01 img,
+.pic_equipment02 figure img {
+	margin-bottom: 5px;
+}
+.pic_equipment01 figcaption,
+.pic_equipment02 figure figcaption {
+	color: #666;
+	font-size: 93%;
+	text-align: center;
+}
+.equipmentBox02 {
+	background: #fff;
+	border: 1px solid #dfdfdf;
+	padding: 30px 20px;
+}
+.equipmentBox02 p {
+	margin-bottom: 40px; 
+}
+.equipmentBox03 {
+	margin-bottom: 40px; 
+}
+.equipmentBox03 p.equipmentTxt01 {
+	width: 421px;
+	margin: 0;
+}
+.equipmentBox03 p#lNaviForm2 {
+	float: right;
+	margin: 0;
+}
+
+
+
+
+/* /corporate/office/
+-------------------------------------------------------------- */
+.officeH401 {
+	border-bottom: 1px solid #dfdfdf;
+	background-color: #f9f9f9;
+	padding: 12px 10px 8px;
+	font-size: 117%;
+	font-weight: bold;
+	color: #2359a4;
+}
+.officeH401 span {
+	display: block;
+	background: url(../images/ico_office01.png) left 2px no-repeat;
+	padding: 0 0 1px 16px;
+}
+
+.officeBox01 {
+	display: block;
+	min-height: 1%;
+}
+.officeBox01:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+/* officeDetail01 */
+.officeDetail01 {
+	float: left;
+	width: 334px;
+}
+.officeTxt01 {
+	margin-bottom: 7px;
+	font-size: 109%;
+	color: #666;
+}
+
+.officeDetail01 ul li {
+	margin-bottom: 5px;
+	color: #666;
+}
+.officeDetail01 ul li:last-child {
+	margin-bottom: 0;
+}
+.officeDetail01 ul li .tel01 {
+	border-top: 1px solid #dfdfdf;
+	padding-top: 3px;
+	margin-top: 2px;
+	font-size: 109%;
+}
+
+/* officeGoogleMap01 */
+.officeGoogleMap01 {
+	float: right;
+	width: 268px;
+}
+.officeGoogleMap01 iframe {
+	border: 1px solid #dfdfdf;
+}
+
+
+/* /corporate/history/
+-------------------------------------------------------------- */
+.historyH401,
+.historyH402 {
+	border-bottom: 1px solid #dfdfdf;
+	background-color: #f9f9f9;
+	padding: 12px 10px 8px;
+	font-size: 117%;
+	font-weight: bold;
+	color: #2359a4;
+}
+.historyH401 span,
+.historyH402 span {
+	display: block;
+}
+.historyH401 span {
+	background: url(../images/ico_history01.png) left 5px no-repeat;
+	padding: 0 0 1px 20px;
+}
+.historyH402 span {
+	background: url(../images/ico_history02.png) left 3px no-repeat;
+	padding: 0 0 1px 17px;
+}
+
+/* historyList01 */
+.historyList01 li {
+	padding: 12px;
+	font-size: 109%;
+	color: #666;
+	letter-spacing: -0.01em;
+	display: block;
+	min-height: 1%;	
+}
+.historyList01 li:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.historyList01 li:last-child {
+	margin-bottom: 0;
+}
+.historyList01 li:nth-child(odd) {
+	background-color: #f9f9f9;
+}
+.historyList01 li .year01 {
+	float: left;
+	display: inline;
+	margin-right: 30px;
+}
+.historyList01 li .txt01 {
+	overflow: hidden;
+}
+
+.historyImg01 {
+	text-align: center;
+}
+
+
+/* /corporate/development/
+-------------------------------------------------------------- */
+.developmentTxt01 {
+	font-size: 134%;
+	font-weight: bold;
+	letter-spacing: -0.03em;
+}
+.developmentTxt01 span {
+	color: #2359a4;
+}
+
+/* developmentList01 */
+.developmentList01 ul {
+	margin-right: -19px;
+	display: block;
+	min-height: 1%;
+}
+.developmentList01 ul:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.developmentList01 ul li {
+	float: left;
+	width: 213px;
+	margin: 30px 19px 0 0;
+}
+.developmentList01 ul li figure img {
+	border: 1px solid #dfdfdf;
+	padding: 5px;
+}
+.developmentList01 ul li figure figcaption {
+	text-align: center;
+	margin-top: 8px;
+	color: #666;
+}
+
+
+/* /corporate/quality/
+-------------------------------------------------------------- */
+.qualityH401 {
+	border-bottom: 1px solid #dfdfdf;
+	background-color: #f9f9f9;
+	padding: 12px 10px 8px;
+	font-size: 117%;
+	font-weight: bold;
+	color: #2359a4;
+	text-align: center;
+}
+.qualityH401 span {
+	display: inline-block;
+	background: url(../images/ico_quality01.png) left 2px no-repeat;
+	padding: 0 0 1px 17px;
+}
+
+.qualityH501 {
+	background: url(../images/ico_quality02.gif) left 3px no-repeat;
+	padding: 0 0 1px 22px;
+	font-size: 117%;
+	font-weight: bold;
+	color: #2359a4;
+}
+
+/* qualityBox01 */
+.qualityBox01 {
+	margin-top: 30px;
+	display: block;
+	min-height: 1%;
+}
+.qualityBox01:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.qualityBox01 ol {
+	float: left;
+	width: 490px;
+}
+.qualityBox01 ol li {
+	margin-bottom: 22px;
+	display: block;
+	min-height: 1%;
+}
+.qualityBox01 ol li:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.qualityBox01 ol li:last-child {
+	margin-bottom: 0;
+}
+.qualityBox01 ol li .number01 {
+	float: left;
+	display: inline;
+	margin-right: 15px;
+	font-size: 134%;
+	font-weight: bold;
+	color: #2359a4;
+	line-height: 1.2;
+}
+.qualityBox01 ol li .txt01 {
+	font-size: 109%;
+	color: #666;
+	overflow: hidden;
+}
+.qualityBox01 ol li .txt01 span {
+	display: block;
+	margin-top: 12px;
+	color: #2359a4;
+}
+
+.qualityImg01 {
+	float: right;
+	width: 94px;
+}
+
+/* qualityBox02 */
+.qualityBox02 {
+	margin-top: 30px;
+	display: block;
+	min-height: 1%;
+}
+.qualityBox02:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.qualityImg02 {
+	float: left;
+	width: 309px;
+}
+.qualityImg03 {
+	float: right;
+	width: 309px;
+}
+
+/* qualityTxt01 */
+.qualityTxt01 {
+	font-size: 109%;
+	color: #666;
+	margin: 25px 0;
+}
+.qualityTxt02 {
+	font-size: 109%;
+	color: #666;
+	margin-top: 20px;
+	text-align: right;
+}
+
+/* qualityList01 */
+.qualityList01 {
+	font-size: 109%;
+	color: #666;
+	overflow: hidden;
+}
+.qualityList01 .txt02 {
+	font-size: 109%;
+	color: #666;
+}
+
+.qualityList01 ul {
+	margin-top: 15px;
+}
+.qualityList01 ul li {
+	margin-bottom: 3px;
+}
+.qualityList01 ul li span {
+	margin-right: 12px;
+	color: #2359a4;
+}
+
+
+/* /corporate/group/
+-------------------------------------------------------------- */
+.groupTable01 {
+	margin-top: 20px;
+}
+.listIndent{
+	text-indent: 1em;display: inline-block;
+}
+
+.group_hr01{
+	border:0px none;
+	border-bottom: solid 1px #dfdfdf;
+	margin-bottom: 30px;
+}
+
+

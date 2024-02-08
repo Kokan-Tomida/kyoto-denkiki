@@ -1,0 +1,252 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="robots" content="index,follow" />
+<title>会員情報管理一覧｜京都電機器 Products Admin 管理サイト</title>
+<link href="common/css/import.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="common/js/smartrollover.js"></script>
+<script type="text/javascript" src="common/js/gloval.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+ 
+//ページトップボタンにつけたid名を入れてください 
+ var topBtn = $('#pagetop');
+ topBtn.hide();
+ 
+ //スクロールが100に達したらボタン表示
+ $(window).scroll(function () {
+if ($(this).scrollTop() > 100) {
+ topBtn.fadeIn();
+ } else {
+ topBtn.fadeOut();
+ }
+ });
+  
+ //スクロールしてトップ
+ topBtn.click(function () {
+ $('body,html').animate({
+ scrollTop: 0
+ }, 500);
+ return false;
+ });
+});
+</script>
+<!--[if lte IE 6]>
+<script type="text/javascript" src="common/js/DD_belatedPNG_0.0.8a.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('.png, .search_btn, .clear_btn, .edit_btn, .delete_btn, .up_btn, .down_btn, .history_btn, .withdraw_btn');
+</script>
+<![endif]-->
+
+<style type="text/css">
+div.g03 a:link img{
+	-moz-opacity:0.9;
+	opacity:0.9;
+	filter: alpha(opacity=90);
+}
+</style>
+</head>
+<body>
+<!-- wrapper start -->
+<div id="wrapper">
+  <!-- header_box start -->
+  <div id="header_box">
+  
+    <div id="header" class="clearfix">
+     <div class="left mg-top27 mg-left14"><img src="common/images/logo.gif" alt="Products Admin 管理サイト" width="452" height="34" /></div>
+     <div class="left mg-top27">
+      <div><a href="http://kdn-products.com/power/" target="_blank"><img src="common/images/logo_po.gif" alt="Power Electronics" width="234" height="16" /></a></div>
+      <div><a href="http://kdn-products.com/opt/" target="_blank"><img src="common/images/logo_opt.gif" alt="Opt Electronics" width="234" height="18" /></a></div>
+     </div>
+     <div class="right mg-right11">
+      <div class="pd-left60"><a href="#"><img src="common/images/logout_btn.gif" alt="ログアウト" width="119" height="32" /></a></div>
+      <div class="mg-top15"><a href="http://www.kdn.co.jp/" target="_blank"><img src="common/images/logo_kyoto.gif" alt="京都電機器株式会社" width="177" height="14" /></a></div>
+     </div>
+    </div>
+
+  </div>
+  <!-- header_box end -->
+  
+  <div id="g_menu_bg">
+  <!-- g_menu_box start -->
+  <div id="g_menu_box" class="clearfix">
+   <div class="left g01"><a href="#"><img src="common/images/gmenu_btn01.gif" alt="製品中カテゴリ画面" width="192" height="73" /></a></div>
+   <div class="left g02"><a href="#"><img src="common/images/gmenu_btn02.gif" alt="製品情報管理" width="192" height="73" /></a></div>
+   <div class="left g03"><a href="#"><img src="common/images/gmenu_btn03.gif" alt="会員情報管理" width="192" height="73" /></a></div>
+   <div class="left g04"><a href="#"><img src="common/images/gmenu_btn04.gif" alt="履歴情報管理" width="192" height="73" /></a></div>
+   <div class="left g05"><a href="#"><img src="common/images/gmenu_btn05.gif" alt="基本情報管理" width="192" height="73" /></a></div>
+  </div>
+  <!-- g_menu_box end -->
+  </div>
+  
+  <!-- contents_box start -->
+  <div id="contents_box">
+  
+   <div id="pankuzu"><a href="#">会員情報管理一覧</a></div>
+   
+   <div id="search_box02">
+   <form method="post" action="#">
+   <div class="clearfix">
+    <div class="left text01 pd-top42">
+    登録日
+    <select>
+     <option>2013</option>
+    </select>
+    年
+    <select>
+     <option>12</option>
+    </select>
+    月
+    <select>
+     <option>24</option>
+    </select>
+    日
+    </div>
+    <div class="left text01 pd-top42 pd-left20">法人名 <input class="txt01" type="text"></div>
+    <div class="left text01 pd-top42 pd-left20">ご担当者名 <input class="txt01" type="text"></div>
+    </div>
+   
+   <div class="clearfix">
+    <div class="left text01 pd-top20">メールアドレス <input class="txt01" type="text"></div>
+    <div class="left text01 pd-top24 pd-left20">都道府県
+    <select name="pref_id">
+    <option value="" selected>都道府県
+    <option value="1">北海道
+    <option value="2">青森県
+    <option value="3">岩手県
+    <option value="4">宮城県
+    <option value="5">秋田県
+    <option value="6">山形県
+    <option value="7">福島県
+    <option value="8">茨城県
+    <option value="9">栃木県
+    <option value="10">群馬県
+    <option value="11">埼玉県
+    <option value="12">千葉県
+    <option value="13">東京都
+    <option value="14">神奈川県
+    <option value="15">新潟県
+    <option value="16">富山県
+    <option value="17">石川県
+    <option value="18">福井県
+    <option value="19">山梨県
+    <option value="20">長野県
+    <option value="21">岐阜県
+    <option value="22">静岡県
+    <option value="23">愛知県
+    <option value="24">三重県
+    <option value="25">滋賀県
+    <option value="26">京都府
+    <option value="27">大阪府
+    <option value="28">兵庫県
+    <option value="29">奈良県
+    <option value="30">和歌山県
+    <option value="31">鳥取県
+    <option value="32">島根県
+    <option value="33">岡山県
+    <option value="34">広島県
+    <option value="35">山口県
+    <option value="36">徳島県
+    <option value="37">香川県
+    <option value="38">愛媛県
+    <option value="39">高知県
+    <option value="40">福岡県
+    <option value="41">佐賀県
+    <option value="42">長崎県
+    <option value="43">熊本県
+    <option value="44">大分県
+    <option value="45">宮崎県
+    <option value="46">鹿児島県
+    <option value="47">沖縄県
+    </select>
+    </div>
+    </div>
+
+    <div class="clearfix">
+    <div class="left text01 pd-top27">退会済みを含める <input type="checkbox" /></div>
+    <div class="right pd-top15 pd-left14 pd-right20"><input type="submit" name="submit" value=" " class="clear_btn" /></div>
+    <div class="right pd-top15"><input type="submit" name="submit" value=" " class="search_btn" /></div>
+    </div>
+    </form>
+    
+   </div>
+   
+   <div class="clearfix mg-top30">
+   <div class="left"><input type="submit" name="submit" value=" " class="shinki_btn" /></div>
+   <div class="right"><input type="submit" name="submit" value=" " class="csv_btn" /></div>
+   </div>
+   
+   <!-- pagenavibox start -->
+   <div id="pagenavibox" class="mg-top17 mg-bottom15">
+    <ul>
+     <li><a href="#"><img src="common/images/head_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/previous_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pagenavi_on"><a href="#">1</a></li>
+     <li class="pagenavi_off"><a href="#">2</a></li>
+     <li class="pagenavi_off"><a href="#">3</a></li>
+     <li class="pagenavi_off"><a href="#">4</a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/next_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/last_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pd-left10 pd-top4">20/80</li>
+    </ul>
+   </div>
+   <!-- pagenavibox end -->
+   
+   <div class="tbbg01">
+    <table width="960" border="0" cellspacing="1" cellpadding="0">
+     <tr>
+       <th width="40">No</th>
+       <th width="170" class="txtleft pd-left10">登録日</th>
+       <th width="170" class="txtleft pd-left10">法人名/ご担当者名</th>
+       <th width="140" class="txtleft pd-left10">電話番号</th>
+       <th class="txtleft pd-left10" width="191">メールアドレス</th>
+       <th width="80">&nbsp;</th>
+       <th width="80">&nbsp;</th>
+       <th width="80">&nbsp;</th>
+       </tr>
+     <tr>
+       <td class="txtcenter">1</td>
+       <td class="pd-left10">yyyy/mm/dd<br />仮登録</td>
+       <td class="pd-left10">ｘｘｘｘｘｘ株式会社<br />○○　○○</td>
+       <td class="pd-left10">0774-xx-xxxx</td>
+       <td class="pd-left10">&nbsp;</td>
+       <td><div class="pd-top10 pd-bottom7 pd-left7"><input type="submit" name="submit" value=" " class="history_btn" /></div></td>
+       <td><div class="pd-top10 pd-bottom7 pd-left7"><input type="submit" name="submit" value=" " class="edit_btn" /></div></td>
+       <td><div class="pd-top10 pd-bottom7 pd-left7"><input type="submit" name="submit" value=" " class="withdraw_btn" /></div></td>
+     </tr>
+     </table>
+   </div>
+   
+   <!-- pagenavibox start -->
+   <div id="pagenavibox" class="mg-top20">
+    <ul>
+     <li><a href="#"><img src="common/images/head_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/previous_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pagenavi_on"><a href="#">1</a></li>
+     <li class="pagenavi_off"><a href="#">2</a></li>
+     <li class="pagenavi_off"><a href="#">3</a></li>
+     <li class="pagenavi_off"><a href="#">4</a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/next_arrow.gif" width="26" height="23" border="0" /></a></li>
+     <li class="pd-left10"><a href="#"><img src="common/images/last_arrow.gif" width="26" height="23" border="0" /></a></li>
+    </ul>
+   </div>
+   <!-- pagenavibox end -->
+  
+  </div>
+  <!-- contents_box end -->
+  <!-- footer_box start -->
+  <div id="footer_box">
+   <p id="pagetop"><a href="#wrapper"><img src="common/images/pagetop.png" alt="TOP↑" width="33" height="38" class="png" /></a></p>
+   <div id="footer">
+    <p class="txtcenter pd-top30">Copyright &copy; 2013 Kyoto Denkiki Co.,Ltd. All Rights Reserved.</p>
+   </div>
+ </div>
+  <!-- footer_box end -->
+</div>
+<!-- wrapper end -->
+</body>
+</html>

@@ -1,0 +1,17 @@
+RewriteEngine on
+RewriteBase /products/opt
+
+#index.html無し
+RewriteCond %{THE_REQUEST} ^.*/index.html
+RewriteRule ^(.*)index.html$ /products/opt/$1 [R=301,L]
+
+#index.php無し
+RewriteCond %{THE_REQUEST} ^.*/index.php
+RewriteCond %{THE_REQUEST} !.*/404/index.php
+RewriteRule ^(.*)index.php$ /products/opt/$1 [R=301,L]
+
+#404
+#ErrorDocument 404 https://www.kdn.co.jp/products/opt/404/index.php
+ErrorDocument 404 /products/opt/404/index.php
+
+DirectoryIndex index.php index.html

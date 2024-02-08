@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	zoom: 70%;
+}
+
+.printHidden {
+	display:none;	
+}

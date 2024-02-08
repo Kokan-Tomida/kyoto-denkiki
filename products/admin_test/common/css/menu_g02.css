@@ -1,0 +1,5 @@
+div.g02 a:link img{
+	-moz-opacity:0.9;
+	opacity:0.9;
+	filter: alpha(opacity=90);
+}

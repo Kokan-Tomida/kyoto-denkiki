@@ -1,0 +1,305 @@
+@charset "UTF-8";
+/*
+ * corporate/history/style.css
+ *
+ */
+
+
+/* ============================================================
+   == ▼ [組織図: orgchart] ▼
+   ============================================================ */
+
+/* -- ▽ [共通設定] ▽ ---------------------------------------- */
+div.obj-orgchart {
+    /* background-color: #cfc; 座標確認用 */
+    height: 23.0em;
+    margin: 0 2em;
+    font: bold 1.2em/1.2em monospace;
+    position: relative;
+}
+div.obj-orgchart > div {
+    background-color: #dfdfdf;
+    width:  5.4em;
+    height: 1.2em;
+    padding: .4em  .8em;
+    text-align: justify;
+    text-align-last: justify;
+    text-justify:    inter-ideograph;
+    position: absolute;
+    z-index: 2;
+    white-space: nowrap;
+}
+div.obj-orgchart > span {
+    height:  2.0em;
+    width:   5.5em;
+    padding: 0;
+    position: absolute;
+    z-index: 1;
+}
+div.obj-orgchart > span > span {
+    background-color: #666;
+    top:    0;
+    bottom: 0;
+    left:   0;
+    right:  0;
+    position: absolute;
+    margin: auto;
+}
+
+/* -- ▽ [BOX座標] ▽ ----------------------------------------- */
+.obj-orgchart > div.obj-org01 {
+    top:   0;
+    left:  0;
+}
+.obj-orgchart > div.obj-org02 {
+    top:   3.0em;
+    left:  0;
+}
+.obj-orgchart > div.obj-org03 {
+    top:   6.0em;
+    left:  0;
+    width: 3.4em;
+    padding-left: 1.8em;
+    padding-right:1.8em;
+}
+.obj-orgchart > div.obj-org04 {
+    top:   9.0em;
+    left:  0;
+}
+.obj-orgchart > div.obj-org05 {
+    top:  12.0em;
+    left:  0;
+}
+.obj-orgchart > div.obj-org06 {
+    top:  15.0em;
+    left:  0;
+}
+/* ---------------------------- */
+.obj-orgchart > div.obj-org11 {
+    top:   0;
+    left: 11.0em;
+}
+.obj-orgchart > div.obj-org12 {
+    top:   3.0em;
+    left: 11.0em;
+}
+.obj-orgchart > div.obj-org13 {
+    top:   6.0em;
+    left: 11.0em;
+}
+.obj-orgchart > div.obj-org14 {
+    top:   9.0em;
+    left: 11.0em;
+}
+.obj-orgchart > div.obj-org15 {
+    top:  12.0em;
+    left: 11.0em;
+}
+.obj-orgchart > div.obj-org16 {
+    top:  15.0em;
+    left: 11.0em;
+}
+.obj-orgchart > div.obj-org17 {
+    top:  18.0em;
+    left: 11.0em;
+}
+.obj-orgchart > div.obj-org18 {
+    top:  21.0em;
+    left: 11.0em;
+}
+.obj-orgchart > div.obj-org19 {
+    top:  24.0em;
+    left: 11.0em;
+}
+/* ---------------------------- */
+.obj-orgchart > div.obj-org21 {
+    top:   0;
+    left: 22.0em;
+}
+.obj-orgchart > div.obj-org22 {
+    top:   3.0em;
+    left: 22.0em;
+}
+.obj-orgchart > div.obj-org23 {
+    top:   6.0em;
+    left: 22.0em;
+}
+.obj-orgchart > div.obj-org24 {
+    top:   9.0em;
+    left: 22.0em;
+}
+.obj-orgchart > div.obj-org25 {
+    top:  12.0em;
+    left: 22.0em;
+}
+.obj-orgchart > div.obj-org26 {
+    top:  15.0em;
+    left: 22.0em;
+}
+.obj-orgchart > div.obj-org27 {
+    top:  18.0em;
+    left: 22.0em;
+}
+.obj-orgchart > div.obj-org28 {
+    top:  21.0em;
+    left: 22.0em;
+}
+.obj-orgchart > div.obj-org29 {
+    top:  24.0em;
+    left: 22.0em;
+}
+
+/* -- ▽ [罫線座標] ▽ ---------------------------------------- */
+.obj-orgchart > span.obj-group-a {
+    top:     0;
+    left:    0;
+    width:   7.0em;
+    height:  9.0em;
+}
+.obj-orgchart > span.obj-group-b {
+    top:     1.0em;
+    left:    9.0em;
+    width:   1px;
+    height: 15.0em;
+}
+.obj-orgchart > span.obj-group-c1 {
+    top:     4.0em;
+    left:   20.0em;
+    width:   1px;
+    height: 6.0em;
+}
+.obj-orgchart > span.obj-group-c2 {
+    top:    16.0em;
+    left:   20.0em;
+    width:   1px;
+    height: 6.0em;
+}
+.obj-orgchart > span.obj-group-03l {
+    top:     6.0em;
+    left:    3.5em;
+}
+/* ---------------------------- */
+.obj-orgchart > span.obj-group-11 {
+    top:     0;
+    left:    9.0em;
+}
+.obj-orgchart > span.obj-group-12 {
+    top:     3.0em;
+    left:    9.0em;
+}
+.obj-orgchart > span.obj-group-13 {
+    top:     6.0em;
+    left:    9.0em;
+}
+.obj-orgchart > span.obj-group-14 {
+    top:     9.0em;
+    left:    9.0em;
+}
+.obj-orgchart > span.obj-group-15 {
+    top:    12.0em;
+    left:    9.0em;
+}
+.obj-orgchart > span.obj-group-16 {
+    top:    15.0em;
+    left:    9.0em;
+}
+.obj-orgchart > span.obj-group-17 {
+    top:    18.0em;
+    left:    9.0em;
+}
+.obj-orgchart > span.obj-group-18 {
+    top:    21.0em;
+    left:    9.0em;
+}
+.obj-orgchart > span.obj-group-19 {
+    top:    24.0em;
+    left:    9.0em;
+}
+/* ---------------------------- */
+.obj-orgchart > span.obj-group-21 {
+    top:     0;
+    left:   20.0em;
+}
+.obj-orgchart > span.obj-group-22 {
+    top:     3.0em;
+    left:   20.0em;
+}
+.obj-orgchart > span.obj-group-23 {
+    top:     6.0em;
+    left:   20.0em;
+}
+.obj-orgchart > span.obj-group-24 {
+    top:     9.0em;
+    left:   20.0em;
+}
+.obj-orgchart > span.obj-group-25 {
+    top:    12.0em;
+    left:   20.0em;
+}
+.obj-orgchart > span.obj-group-26 {
+    top:    15.0em;
+    left:   20.0em;
+}
+.obj-orgchart > span.obj-group-27 {
+    top:    18.0em;
+    left:   20.0em;
+}
+.obj-orgchart > span.obj-group-28 {
+    top:    21.0em;
+    left:   20.0em;
+}
+.obj-orgchart > span.obj-group-29 {
+    top:    24.0em;
+    left:   20.0em;
+}
+/* ---------------------------- */
+.obj-orgchart > span.obj-group-11l {
+    top:     0;
+    left:   14.5em;
+}
+.obj-orgchart > span.obj-group-12l {
+    top:     3.0em;
+    left:   14.5em;
+}
+.obj-orgchart > span.obj-group-13l {
+    top:     6.0em;
+    left:   14.5em;
+}
+.obj-orgchart > span.obj-group-14l {
+    top:     9.0em;
+    left:   14.5em;
+}
+.obj-orgchart > span.obj-group-15l {
+    top:    12.0em;
+    left:   14.5em;
+}
+.obj-orgchart > span.obj-group-16l {
+    top:    15.0em;
+    left:   14.5em;
+}
+.obj-orgchart > span.obj-group-17l {
+    top:    18.0em;
+    left:   14.5em;
+}
+.obj-orgchart > span.obj-group-18l {
+    top:    21.0em;
+    left:   14.5em;
+}
+.obj-orgchart > span.obj-group-19l {
+    top:    24.0em;
+    left:   14.5em;
+}
+
+/* -- ▽ [罫線] ▽ -------------------------------------------- */
+.obj-orgchart > span > span.obj-line-tate {
+    width:  2px;
+    height: 100%;
+}
+.obj-orgchart > span > span.obj-line-yoko {
+    width:  100%;
+    height: 2px;
+}
+
+/* ============================================================
+   == ▲ [組織図: orgchart] ▲
+   ============================================================ */

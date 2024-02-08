@@ -1,0 +1,1 @@
+[{"id":423,"width":14.877,"height":"12.132","x":"17.008","y":"811.519","option":0,"text":"014"},{"id":426,"width":207.87,"height":"8.088","x":"56.693","y":"814.637","option":0,"text":"LED LIGHTING PRODUCTS CATALOG      KYOTO DENKIKI co.,ltd."}]

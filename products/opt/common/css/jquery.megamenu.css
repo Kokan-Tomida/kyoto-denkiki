@@ -1,0 +1,209 @@
+img{
+	border:none;
+}
+
+div#MegaMenuContent ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+div#MegaMenuContent ul li{
+	margin:0;
+	padding:0;
+	float:left;
+}
+
+li#first ul li#m1 a:link,
+li#first ul li#m1 a:visited{
+	width:146px;
+	height:90px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn01_off.jpg);
+	background-repeat:no-repeat;
+}
+
+li#first ul li#m1 a:hover,
+li#first ul li#m1 a:active{
+	width:146px;
+	height:90px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn01_on.jpg);
+	background-repeat:no-repeat;
+}
+
+li#first ul li#m2 a:link,
+li#first ul li#m2 a:visited{
+	width:144px;
+	height:90px;
+	margin:0 0 0 14px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn02_off.jpg);
+	background-repeat:no-repeat;
+}
+
+li#first ul li#m2 a:hover,
+li#first ul li#m2 a:active{
+	width:144px;
+	height:90px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn02_on.jpg);
+	background-repeat:no-repeat;
+}
+
+li#first ul li#m3 a:link,
+li#first ul li#m3 a:visited{
+	width:144px;
+	height:90px;
+	margin:0 0 0 14px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn03_off.jpg);
+	background-repeat:no-repeat;
+}
+
+li#first ul li#m3 a:hover,
+li#first ul li#m3 a:active{
+	width:144px;
+	height:90px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn03_on.jpg);
+	background-repeat:no-repeat;
+}
+
+/**/
+
+li#first ul li#m4 a:link,
+li#first ul li#m4 a:visited{
+	width:146px;
+	height:90px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn04_off.jpg);
+	background-repeat:no-repeat;
+}
+
+li#first ul li#m4 a:hover,
+li#first ul li#m4 a:active{
+	width:146px;
+	height:90px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn04_on.jpg);
+	background-repeat:no-repeat;
+}
+
+li#first ul li#m5 a:link,
+li#first ul li#m5 a:visited{
+	width:144px;
+	height:90px;
+	margin:0 0 0 14px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn05_off.jpg);
+	background-repeat:no-repeat;
+}
+
+li#first ul li#m5 a:hover,
+li#first ul li#m5 a:active{
+	width:144px;
+	height:90px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn05_on.jpg);
+	background-repeat:no-repeat;
+}
+
+li#first ul li#m6 a:link,
+li#first ul li#m6 a:visited{
+	width:144px;
+	height:90px;
+	margin:0 0 0 14px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn06_off.jpg);
+	background-repeat:no-repeat;
+}
+
+li#first ul li#m6 a:hover,
+li#first ul li#m6 a:active{
+	width:144px;
+	height:90px;
+	display:block;
+	overflow: hidden;
+	text-indent:-10000px;
+	background-image:url(../images/mega_btn06_on.jpg);
+	background-repeat:no-repeat;
+}
+
+.MegaMenu a.MegaMenuLink:link, .MegaMenu a.MegaMenuLink:visited {
+   display: inline-block;
+   /*padding: 5px 0 9px;
+   margin: 1px 2px 0px 1px;
+   color: #FFF;
+   text-decoration: none;
+   font-size: 15px;
+   outline: none;*/
+   z-index: 1000;
+}
+
+.MegaMenu a.MegaMenuLinkOff:link, .MegaMenu a.MegaMenuLinkOff:visited {
+   display: inline-block;
+   /*padding: 5px 0 5px;
+   margin: 1px 2px 4px 1px;
+   color: #FFF;
+   text-decoration: none;
+   font-size: 15px;
+   outline: none;*/
+   z-index: 1000;
+}
+
+/*
+.MegaMenu a.MegaMenuLinkOff:hover {
+   background: #FFF;
+}
+.MegaMenu a.MegaMenuLinkActive:link, .MegaMenu a.MegaMenuLinkActive:visited {
+   background: #FFF;
+}*/
+
+.MegaMenu .MegaMenuContent{
+   display: none;
+}
+
+#MegaMenuContent, #MegaMenuContentShadow {
+	background-image:url(../images/megamenu_bg.png);
+	background-repeat:no-repeat;
+	width:481px;
+	height:110px;
+	padding:31px 0 0 14px;
+ position:absolute;
+ z-index: 10;
+}
+
+/*
+#MegaMenuContentShadow {
+   background: #111;
+   margin-left: 8px;
+   margin-top: 4px;
+   z-index: 9;
+   opacity: 0.5;
+   -moz-opacity: 0.5;
+   filter:alpha(opacity=50);
+}
+*/

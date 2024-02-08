@@ -1,0 +1,116 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="css/mediaWindow.css"/>
+<title>京都電機器 Opt Electronics 光学機器総合カタログ</title>
+<meta name="keywords" content="京都電機器 Opt Electronics 光学機器総合カタログ,電子ブック,ebook,デジタルカタログ,アクティブック,ActiBook,書籍" />
+<meta name="description" content="京都電機器 Opt Electronics 光学機器総合カタログ :: ActiBook" />
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true" />
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="AC_RunActiveContent.js" language="javascript"></script>
+<script language="javascript">
+var isIE = navigator.appName.indexOf("Microsoft") != -1;
+var isSWFActive = false;
+var lostFocusflag = true;
+function swfActivity(){
+  thisMovie("ActiBook").focus();
+  isSWFActive = true;
+  checkWindow();
+}
+
+function thisMovie(movieName) {
+  return (isIE) ? window[movieName] : document[movieName];
+}
+
+function checkWindow(){
+  if(isSWFActive == true){
+    var hf = document.hasFocus();
+    if(hf == true){
+      thisMovie("ActiBook").focus();
+      thisMovie("ActiBook").hideProtectPanel();
+      setFlagTrue();
+    }else{
+      if(lostFocusflag){
+        thisMovie("ActiBook").showProtectPanel();
+      }
+    }
+  }
+}
+
+function lostFocus(){
+  if(isSWFActive == true && lostFocusflag){
+    thisMovie("ActiBook").showProtectPanel();
+  }
+}
+
+function catchFocus(){
+  if(isSWFActive == true){
+    thisMovie("ActiBook").focus();
+    thisMovie("ActiBook").hideProtectPanel();
+    setFlagTrue();
+  }
+}
+
+function init(){
+}
+function setFlagFalse(){
+	lostFocusflag = false;	
+}
+function setFlagTrue(){
+	lostFocusflag = true;
+}
+</script>
+</head>
+<style type="text/css">
+@media print {
+    body { display: none !important; }
+}
+</style>
+<script language="javascript">
+setInterval('checkWindow()',250);
+document.write('<body bgcolor="#ffffff" onLoad="init()">');
+</script>
+<script src="js/WindowOpen.js" language="javascript"></script>
+<script language="javascript">
+  var protocol = ("https:" == document.location.protocol) ? "https" : "http";
+  if (AC_FL_RunContent == 0) {
+    alert("このページでは \"AC_RunActiveContent.js\" が必要です。");
+  } else {
+    AC_FL_RunContent(
+      'codebase', protocol + '://fpdownload.adobe.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0',
+      'width', '100%',
+      'height', '100%',
+      'src', 'ActiBook',
+      'quality', 'high',
+      'pluginspage', protocol + '://get.adobe.com/jp/flashplayer',
+      'align', 'center',
+      'play', 'true',
+      'loop', 'true',
+      'scale', 'noborder',
+      'wmode', 'window',
+      'devicefont', 'false',
+      'id', 'ActiBook',
+      'bgcolor', '#ffffff',
+      'name', 'ActiBook',
+      'menu', 'true',
+      'allowFullScreen', 'true',
+      'allowScriptAccess','sameDomain',
+      'movie', 'ActiBook',
+      'salign', ''
+      ); //end AC code
+  }
+  function sendToSwfInfo(){
+    return location.href;
+  }
+  function getUserAgentInfo(){
+  	return navigator.userAgent;
+  }
+  function getReferrer(){
+    return document.referrer;
+  }
+</script>
+
+<input type="button" id="open" name="open" value="open" style="display:none;" onClick="openMediaWindow(mediaWindow.params);" />
+
+</body>
+</html>

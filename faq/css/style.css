@@ -1,0 +1,179 @@
+@charset "UTF-8";
+/*
+ * faq/style.css
+ *
+ */
+
+
+/* /faq/
+-------------------------------------------------------------- */
+.faqAnchorBoxIn01 ul,
+.faqAnchorBoxIn01 ul li,
+.faqQuestionBox01 p,
+.faqAnswerBox01 p {
+	display: block;
+	min-height: 1%;
+}
+.faqAnchorBoxIn01 ul:after,
+.faqAnchorBoxIn01 ul li:after,
+.faqQuestionBox01 p:after,
+.faqAnswerBox01 p:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.faqAnswerBox01 p {
+	line-height: 1.6;
+}
+
+.faqAnchorBox01 {
+	background-color: #fff;
+	border: 1px solid #e1e1e1;
+	padding: 30px 20px;
+}
+
+/* faqTabTitle01 */
+.faqTabTitle:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+.faqTabTitle {
+    border-bottom: 3px solid #3359a4;
+    display: block;
+    min-height: 1%;
+}
+.faqTabTitle li {
+    float: left;
+    font-size: 117%;
+    margin-right: 3px;
+    text-align: center;
+	width:224px;
+}
+.faqTabTitle li a {
+	display: block;
+	padding: 15px 5px 10px;
+	background-color: #fff;
+	border: 1px solid #dfdfdf;
+	border-bottom: none;
+	color: #666;
+	text-decoration: none;
+}
+.faqTabTitle li a:hover {
+	background-color: #3359a4;
+	border: 1px solid #3359a4;
+	border-bottom: none;
+	color: #fff;
+}
+.faqTabTitle li a.active {
+	background-color: #3359a4;
+	border: 1px solid #3359a4;
+	border-bottom: none;
+	color: #fff;
+}
+
+/* faqAnchorBoxIn01 */
+.faqAnchorBoxIn01 ul {
+	margin: -20px -40px 0 0;
+}
+.faqAnchorBoxIn01 ul li {
+	float: left;
+	font-size: 108%;
+	width: 439px;
+	margin: 20px 40px 0 0;
+	display: inline;
+}
+.faqAnchorBoxIn01 ul li .txt1 {
+	float: left;
+	margin-right: 3px;
+}
+.faqAnchorBoxIn01 ul li .txt2 {
+	overflow: hidden;
+	display: block;
+	_zoom: 1;
+}
+
+/* faqDetailBox01 */
+.faqDetailBox01 {
+	background-color: #fff;
+	border: 1px solid #e1e1e1;
+	padding: 20px;
+	margin-top: 20px;
+}
+.faqQuestionBox01 {
+	border-bottom: 1px solid #e1e1e1;
+	padding-bottom: 7px;
+	margin-bottom: 10px;
+}
+.faqQuestionBox01 .txt1,
+.faqQuestionBox01 .txt2 {
+	font-size: 117%;
+	font-weight: bold;
+	color: #2359a4;
+}
+.faqQuestionBox01 .txt1 {
+	float: left;
+	margin-right: 3px;
+}
+.faqQuestionBox01 .txt2 {
+	overflow: hidden;
+	display: block;
+	_zoom: 1;
+}
+
+.faqAnswerBox01 .txt1,
+.faqAnswerBox01 .txt2 {
+	font-size: 117%;
+	font-weight: bold;
+}
+.faqAnswerBox01 .txt1 {
+	float: left;
+	color: #d42142;
+	margin-right: 3px;
+}
+.faqAnswerBox01 .txt2 {
+	color: #444;
+	overflow: hidden;
+	display: block;
+	_zoom: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

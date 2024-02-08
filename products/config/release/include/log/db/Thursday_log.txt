@@ -1,0 +1,198 @@
+2014-08-14 09:41:04 101.143.240.164
+SELECT * FROM kdn_member WHERE email_address ='konushi_makoto@nissin.co.jp' and status = 2
+
+2014-08-14 09:41:04 101.143.240.164
+
+
+2014-08-14 09:41:07 101.143.240.164
+INSERT INTO kdn_member (company_name,company_kana,zip1,zip2,pref,address1,address2,telno,faxno,section,charge_name,email_address,url,note,status,query_strings,temporary_registration,validity,created,modified ) VALUES ( '日新イオン機器株式会社','','528','0068','25','甲賀市水口町ひのきが丘29番地','','0748-65-0811','','','厚主　誠','konushi_makoto@nissin.co.jp','','','1','f059940c6f13f68968f44b73404915624531a176','2014-08-14 09:41:07','2014-08-15 09:41','2014-08-14 09:41:07','2014-08-14 09:41:07')
+
+2014-08-14 09:41:07 101.143.240.164
+
+
+2014-08-14 09:41:07 101.143.240.164
+SELECT * FROM kdn_baseinfo
+
+2014-08-14 09:41:07 101.143.240.164
+
+
+2014-08-14 09:41:19 101.143.240.164
+SELECT * FROM kdn_member WHERE query_strings = 'f059940c6f13f68968f44b73404915624531a176'
+
+2014-08-14 09:41:19 101.143.240.164
+
+
+2014-08-14 09:41:19 101.143.240.164
+UPDATE kdn_member SET status='2',temporary_registration='',validity='',this_registration='2014-08-14 09:41:19',member_id='konushi_makoto@nissin.co.jp',member_pwd='95a6e9a9',modified ='2014-08-14 09:41:19' WHERE id=286
+
+2014-08-14 09:41:19 101.143.240.164
+
+
+2014-08-14 09:41:19 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:41:19 101.143.240.164
+
+
+2014-08-14 09:41:19 101.143.240.164
+INSERT INTO kdn_login_history (kdn_member_id,member_id,login_date,login_time,ip_address,url,created,modified ) VALUES ( '286','konushi_makoto@nissin.co.jp','2014-08-14','09:41:19','101.143.240.164','/member/this_registration.php','2014-08-14 09:41:19','2014-08-14 09:41:19')
+
+2014-08-14 09:41:19 101.143.240.164
+
+
+2014-08-14 09:41:19 101.143.240.164
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '286','2014-08-14','09:41:19','/member/this_registration.php','101.143.240.164','622','login','2014-08-14 09:41:19','2014-08-14 09:41:19')
+
+2014-08-14 09:41:19 101.143.240.164
+
+
+2014-08-14 09:41:19 101.143.240.164
+SELECT * FROM kdn_baseinfo
+
+2014-08-14 09:41:19 101.143.240.164
+
+
+2014-08-14 09:41:19 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:41:19 101.143.240.164
+
+
+2014-08-14 09:41:19 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:41:19 101.143.240.164
+
+
+2014-08-14 09:41:26 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:41:26 101.143.240.164
+
+
+2014-08-14 09:41:26 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:41:26 101.143.240.164
+
+
+2014-08-14 09:41:27 101.143.240.164
+SELECT * FROM kdn_large_category WHERE top_category_id=1 ORDER BY id asc
+
+2014-08-14 09:41:27 101.143.240.164
+
+
+2014-08-14 09:41:27 101.143.240.164
+SELECT * FROM kdn_middle_category WHERE large_category_id=1 ORDER BY order_of_row asc
+
+2014-08-14 09:41:27 101.143.240.164
+
+
+2014-08-14 09:41:27 101.143.240.164
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=49 ORDER BY order_of_row asc
+
+2014-08-14 09:41:27 101.143.240.164
+
+
+2014-08-14 09:41:27 101.143.240.164
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=50 ORDER BY order_of_row asc
+
+2014-08-14 09:41:27 101.143.240.164
+
+
+2014-08-14 09:41:27 101.143.240.164
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=51 ORDER BY order_of_row asc
+
+2014-08-14 09:41:27 101.143.240.164
+
+
+2014-08-14 09:41:27 101.143.240.164
+SELECT * FROM kdn_middle_category WHERE large_category_id=2 ORDER BY order_of_row asc
+
+2014-08-14 09:41:27 101.143.240.164
+
+
+2014-08-14 09:41:27 101.143.240.164
+SELECT * FROM kdn_products WHERE large_category_id=2 and middle_category_id=52 ORDER BY order_of_row asc
+
+2014-08-14 09:41:27 101.143.240.164
+
+
+2014-08-14 09:41:27 101.143.240.164
+SELECT * FROM kdn_middle_category WHERE large_category_id=3 ORDER BY order_of_row asc
+
+2014-08-14 09:41:27 101.143.240.164
+
+
+2014-08-14 09:41:27 101.143.240.164
+SELECT * FROM kdn_products WHERE large_category_id=3 and middle_category_id=53 ORDER BY order_of_row asc
+
+2014-08-14 09:41:27 101.143.240.164
+
+
+2014-08-14 09:41:27 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:41:27 101.143.240.164
+
+
+2014-08-14 09:41:27 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:41:27 101.143.240.164
+
+
+2014-08-14 09:41:38 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:41:38 101.143.240.164
+
+
+2014-08-14 09:41:38 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:41:38 101.143.240.164
+
+
+2014-08-14 09:41:38 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:41:38 101.143.240.164
+
+
+2014-08-14 09:41:38 101.143.240.164
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '286','2014-08-14','09:41:38','285','contents10','2014-08-14 09:41:38','2014-08-14 09:41:38')
+
+2014-08-14 09:41:38 101.143.240.164
+
+
+2014-08-14 09:41:38 101.143.240.164
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=285
+
+2014-08-14 09:41:38 101.143.240.164
+
+
+2014-08-14 09:41:38 101.143.240.164
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '286','2014-08-14','09:41:38','ID:285/P:直流電源装置/プログラマブルDC電源/KDCシリーズ/KDC1500W','外形図PDF','0','download','2014-08-14 09:41:38','2014-08-14 09:41:38')
+
+2014-08-14 09:41:38 101.143.240.164
+
+
+2014-08-14 09:41:38 101.143.240.164
+SELECT * FROM kdn_products WHERE id=285
+
+2014-08-14 09:41:38 101.143.240.164
+
+
+2014-08-14 09:42:09 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:42:09 101.143.240.164
+
+
+2014-08-14 09:42:09 101.143.240.164
+SELECT * FROM kdn_member WHERE member_id='konushi_makoto@nissin.co.jp' and member_pwd ='95a6e9a9' and status='2'
+
+2014-08-14 09:42:09 101.143.240.164
+
+

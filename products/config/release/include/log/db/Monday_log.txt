@@ -1,0 +1,4956 @@
+2014-08-04 11:22:34 210.138.88.170
+SELECT * FROM kdn_member WHERE member_id='kawano@kirintechno.co.jp' and member_pwd ='369world' and status='2'
+
+2014-08-04 11:22:34 210.138.88.170
+
+
+2014-08-04 11:22:34 210.138.88.170
+INSERT INTO kdn_login_history (kdn_member_id,member_id,login_date,login_time,ip_address,url,created,modified ) VALUES ( '169','kawano@kirintechno.co.jp','2014-08-04','11:22:34','210.138.88.170','/opt/download/index.php','2014-08-04 11:22:34','2014-08-04 11:22:34')
+
+2014-08-04 11:22:34 210.138.88.170
+
+
+2014-08-04 11:22:34 210.138.88.170
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '169','2014-08-04','11:22:34','/opt/download/index.php','210.138.88.170','603','login','2014-08-04 11:22:34','2014-08-04 11:22:34')
+
+2014-08-04 11:22:34 210.138.88.170
+
+
+2014-08-04 11:22:34 210.138.88.170
+SELECT * FROM kdn_member WHERE member_id='kawano@kirintechno.co.jp' and member_pwd ='369world' and status='2'
+
+2014-08-04 11:22:34 210.138.88.170
+
+
+2014-08-04 11:22:34 210.138.88.170
+SELECT * FROM kdn_large_category WHERE top_category_id=2 ORDER BY id asc
+
+2014-08-04 11:22:34 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_middle_category WHERE large_category_id=4 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=1 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=2 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=3 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=4 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=5 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=6 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=7 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=8 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=9 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=10 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=11 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=12 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=13 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=14 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=15 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=16 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:35 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=17 ORDER BY order_of_row asc
+
+2014-08-04 11:22:35 210.138.88.170
+
+
+2014-08-04 11:22:36 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=18 ORDER BY order_of_row asc
+
+2014-08-04 11:22:36 210.138.88.170
+
+
+2014-08-04 11:22:36 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=19 ORDER BY order_of_row asc
+
+2014-08-04 11:22:36 210.138.88.170
+
+
+2014-08-04 11:22:36 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=20 ORDER BY order_of_row asc
+
+2014-08-04 11:22:36 210.138.88.170
+
+
+2014-08-04 11:22:36 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=22 ORDER BY order_of_row asc
+
+2014-08-04 11:22:36 210.138.88.170
+
+
+2014-08-04 11:22:36 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=23 ORDER BY order_of_row asc
+
+2014-08-04 11:22:36 210.138.88.170
+
+
+2014-08-04 11:22:36 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=41 ORDER BY order_of_row asc
+
+2014-08-04 11:22:36 210.138.88.170
+
+
+2014-08-04 11:22:36 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=42 ORDER BY order_of_row asc
+
+2014-08-04 11:22:36 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=43 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=44 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=45 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_middle_category WHERE large_category_id=5 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=24 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=25 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=26 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=27 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=28 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=29 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=30 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=31 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=32 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=46 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=47 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=48 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_middle_category WHERE large_category_id=6 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=36 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=37 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=38 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=39 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=40 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_middle_category WHERE large_category_id=7 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=7 and middle_category_id=54 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_member WHERE member_id='kawano@kirintechno.co.jp' and member_pwd ='369world' and status='2'
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_member WHERE member_id='kawano@kirintechno.co.jp' and member_pwd ='369world' and status='2'
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_member WHERE member_id='kawano@kirintechno.co.jp' and member_pwd ='369world' and status='2'
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_member WHERE member_id='kawano@kirintechno.co.jp' and member_pwd ='369world' and status='2'
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_large_category WHERE top_category_id=2 ORDER BY id asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_middle_category WHERE large_category_id=4 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=1 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=2 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=3 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=4 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=5 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=6 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=7 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=8 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=9 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=10 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=11 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=12 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=13 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=14 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=15 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=16 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=17 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=18 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=19 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=20 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=22 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=23 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=41 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=42 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=43 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=44 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=45 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_middle_category WHERE large_category_id=5 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=24 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=25 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=26 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=27 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=28 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=29 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=30 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=31 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=32 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=46 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=47 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=48 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_middle_category WHERE large_category_id=6 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=36 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=37 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=38 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=39 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=40 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_middle_category WHERE large_category_id=7 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_products WHERE large_category_id=7 and middle_category_id=54 ORDER BY order_of_row asc
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_member WHERE member_id='kawano@kirintechno.co.jp' and member_pwd ='369world' and status='2'
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:37 210.138.88.170
+SELECT * FROM kdn_member WHERE member_id='kawano@kirintechno.co.jp' and member_pwd ='369world' and status='2'
+
+2014-08-04 11:22:37 210.138.88.170
+
+
+2014-08-04 11:22:53 210.138.88.170
+SELECT * FROM kdn_member WHERE member_id='kawano@kirintechno.co.jp' and member_pwd ='369world' and status='2'
+
+2014-08-04 11:22:53 210.138.88.170
+
+
+2014-08-04 11:22:53 210.138.88.170
+SELECT * FROM kdn_member WHERE member_id='kawano@kirintechno.co.jp' and member_pwd ='369world' and status='2'
+
+2014-08-04 11:22:53 210.138.88.170
+
+
+2014-08-04 11:22:53 210.138.88.170
+SELECT * FROM kdn_member WHERE member_id='kawano@kirintechno.co.jp' and member_pwd ='369world' and status='2'
+
+2014-08-04 11:22:53 210.138.88.170
+
+
+2014-08-04 11:22:53 210.138.88.170
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '169','2014-08-04','11:22:53','104','contents10','2014-08-04 11:22:53','2014-08-04 11:22:53')
+
+2014-08-04 11:22:53 210.138.88.170
+
+
+2014-08-04 11:22:53 210.138.88.170
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=104
+
+2014-08-04 11:22:53 210.138.88.170
+
+
+2014-08-04 11:22:53 210.138.88.170
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '169','2014-08-04','11:22:53','ID:104/O:画像処理用蛍光灯照明/高周波蛍光灯点灯電源/LSH series/LSH-L40','外形図PDF','0','download','2014-08-04 11:22:53','2014-08-04 11:22:53')
+
+2014-08-04 11:22:53 210.138.88.170
+
+
+2014-08-04 11:22:53 210.138.88.170
+SELECT * FROM kdn_products WHERE id=104
+
+2014-08-04 11:22:53 210.138.88.170
+
+
+2014-08-11 08:38:51 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='4628mi' and status='2'
+
+2014-08-11 08:38:51 218.40.236.3
+
+
+2014-08-11 08:40:41 218.40.236.3
+SELECT * FROM kdn_member WHERE email_address ='miuratokkyo@gmail.com' and status = 2
+
+2014-08-11 08:40:41 218.40.236.3
+
+
+2014-08-11 08:40:48 218.40.236.3
+INSERT INTO kdn_member (company_name,company_kana,zip1,zip2,pref,address1,address2,telno,faxno,section,charge_name,email_address,url,note,status,query_strings,temporary_registration,validity,created,modified ) VALUES ( '個人','','816','0952','40','福岡県大野城市下大利３丁目８―４５','','090-2082-6421','','','三浦理明','miuratokkyo@gmail.com','','','1','3ffafb753e0b0405759e894b2afdf16ffbc639f9','2014-08-11 08:40:48','2014-08-12 08:40','2014-08-11 08:40:48','2014-08-11 08:40:48')
+
+2014-08-11 08:40:48 218.40.236.3
+
+
+2014-08-11 08:40:48 218.40.236.3
+SELECT * FROM kdn_baseinfo
+
+2014-08-11 08:40:48 218.40.236.3
+
+
+2014-08-11 08:41:48 218.40.236.3
+SELECT * FROM kdn_member WHERE query_strings = '3ffafb753e0b0405759e894b2afdf16ffbc639f9'
+
+2014-08-11 08:41:48 218.40.236.3
+
+
+2014-08-11 08:41:48 218.40.236.3
+UPDATE kdn_member SET status='2',temporary_registration='',validity='',this_registration='2014-08-11 08:41:48',member_id='miuratokkyo@gmail.com',member_pwd='fb1f3a97',modified ='2014-08-11 08:41:48' WHERE id=283
+
+2014-08-11 08:41:48 218.40.236.3
+
+
+2014-08-11 08:41:48 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:41:48 218.40.236.3
+
+
+2014-08-11 08:41:48 218.40.236.3
+INSERT INTO kdn_login_history (kdn_member_id,member_id,login_date,login_time,ip_address,url,created,modified ) VALUES ( '283','miuratokkyo@gmail.com','2014-08-11','08:41:48','218.40.236.3','/member/this_registration.php','2014-08-11 08:41:48','2014-08-11 08:41:48')
+
+2014-08-11 08:41:48 218.40.236.3
+
+
+2014-08-11 08:41:48 218.40.236.3
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '283','2014-08-11','08:41:48','/member/this_registration.php','218.40.236.3','616','login','2014-08-11 08:41:48','2014-08-11 08:41:48')
+
+2014-08-11 08:41:48 218.40.236.3
+
+
+2014-08-11 08:41:49 218.40.236.3
+SELECT * FROM kdn_baseinfo
+
+2014-08-11 08:41:49 218.40.236.3
+
+
+2014-08-11 08:41:53 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:41:53 218.40.236.3
+
+
+2014-08-11 08:41:53 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:41:53 218.40.236.3
+
+
+2014-08-11 08:42:11 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:42:11 218.40.236.3
+
+
+2014-08-11 08:42:11 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:42:11 218.40.236.3
+
+
+2014-08-11 08:42:35 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:42:35 218.40.236.3
+
+
+2014-08-11 08:42:35 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:42:35 218.40.236.3
+
+
+2014-08-11 08:42:35 218.40.236.3
+SELECT * FROM kdn_large_category WHERE top_category_id=1 ORDER BY id asc
+
+2014-08-11 08:42:35 218.40.236.3
+
+
+2014-08-11 08:42:35 218.40.236.3
+SELECT * FROM kdn_middle_category WHERE large_category_id=1 ORDER BY order_of_row asc
+
+2014-08-11 08:42:35 218.40.236.3
+
+
+2014-08-11 08:42:35 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=49 ORDER BY order_of_row asc
+
+2014-08-11 08:42:35 218.40.236.3
+
+
+2014-08-11 08:42:36 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=50 ORDER BY order_of_row asc
+
+2014-08-11 08:42:36 218.40.236.3
+
+
+2014-08-11 08:42:36 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=51 ORDER BY order_of_row asc
+
+2014-08-11 08:42:36 218.40.236.3
+
+
+2014-08-11 08:42:36 218.40.236.3
+SELECT * FROM kdn_middle_category WHERE large_category_id=2 ORDER BY order_of_row asc
+
+2014-08-11 08:42:36 218.40.236.3
+
+
+2014-08-11 08:42:36 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=2 and middle_category_id=52 ORDER BY order_of_row asc
+
+2014-08-11 08:42:36 218.40.236.3
+
+
+2014-08-11 08:42:36 218.40.236.3
+SELECT * FROM kdn_middle_category WHERE large_category_id=3 ORDER BY order_of_row asc
+
+2014-08-11 08:42:36 218.40.236.3
+
+
+2014-08-11 08:42:36 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=3 and middle_category_id=53 ORDER BY order_of_row asc
+
+2014-08-11 08:42:36 218.40.236.3
+
+
+2014-08-11 08:42:36 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:42:36 218.40.236.3
+
+
+2014-08-11 08:42:36 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:42:36 218.40.236.3
+
+
+2014-08-11 08:42:59 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:42:59 218.40.236.3
+
+
+2014-08-11 08:42:59 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:42:59 218.40.236.3
+
+
+2014-08-11 08:43:17 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:43:17 218.40.236.3
+
+
+2014-08-11 08:43:17 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:43:17 218.40.236.3
+
+
+2014-08-11 08:43:27 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:43:27 218.40.236.3
+
+
+2014-08-11 08:43:27 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:43:27 218.40.236.3
+
+
+2014-08-11 08:43:27 218.40.236.3
+SELECT * FROM kdn_large_category WHERE top_category_id=2 ORDER BY id asc
+
+2014-08-11 08:43:27 218.40.236.3
+
+
+2014-08-11 08:43:27 218.40.236.3
+SELECT * FROM kdn_middle_category WHERE large_category_id=4 ORDER BY order_of_row asc
+
+2014-08-11 08:43:27 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=1 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=2 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=3 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=4 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=5 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=6 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=7 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=8 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=9 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=10 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=11 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:28 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=12 ORDER BY order_of_row asc
+
+2014-08-11 08:43:28 218.40.236.3
+
+
+2014-08-11 08:43:29 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=13 ORDER BY order_of_row asc
+
+2014-08-11 08:43:29 218.40.236.3
+
+
+2014-08-11 08:43:29 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=14 ORDER BY order_of_row asc
+
+2014-08-11 08:43:29 218.40.236.3
+
+
+2014-08-11 08:43:29 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=15 ORDER BY order_of_row asc
+
+2014-08-11 08:43:29 218.40.236.3
+
+
+2014-08-11 08:43:29 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=16 ORDER BY order_of_row asc
+
+2014-08-11 08:43:29 218.40.236.3
+
+
+2014-08-11 08:43:29 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=17 ORDER BY order_of_row asc
+
+2014-08-11 08:43:29 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=18 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=19 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=20 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=22 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=23 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=41 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=42 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=43 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=44 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=45 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_middle_category WHERE large_category_id=5 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=24 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=25 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=26 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=27 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=28 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=29 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=30 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=31 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=32 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=46 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=47 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=48 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_middle_category WHERE large_category_id=6 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=36 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=37 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=38 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=39 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=40 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_middle_category WHERE large_category_id=7 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_products WHERE large_category_id=7 and middle_category_id=54 ORDER BY order_of_row asc
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:43:30 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:43:30 218.40.236.3
+
+
+2014-08-11 08:44:19 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:44:19 218.40.236.3
+
+
+2014-08-11 08:44:19 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:44:19 218.40.236.3
+
+
+2014-08-11 08:44:19 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:44:19 218.40.236.3
+
+
+2014-08-11 08:44:19 218.40.236.3
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '283','2014-08-11','08:44:19','312','contents40','2014-08-11 08:44:19','2014-08-11 08:44:19')
+
+2014-08-11 08:44:19 218.40.236.3
+
+
+2014-08-11 08:44:19 218.40.236.3
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=312
+
+2014-08-11 08:44:19 218.40.236.3
+
+
+2014-08-11 08:44:19 218.40.236.3
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '283','2014-08-11','08:44:19','ID:312/O:その他/技術ノウハウ冊子/光読本　LED編　VOL2/LED handbook vol.2','その他PDF','0','download','2014-08-11 08:44:19','2014-08-11 08:44:19')
+
+2014-08-11 08:44:19 218.40.236.3
+
+
+2014-08-11 08:44:19 218.40.236.3
+SELECT * FROM kdn_products WHERE id=312
+
+2014-08-11 08:44:19 218.40.236.3
+
+
+2014-08-11 08:44:39 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:44:39 218.40.236.3
+
+
+2014-08-11 08:44:39 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:44:39 218.40.236.3
+
+
+2014-08-11 08:44:39 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:44:39 218.40.236.3
+
+
+2014-08-11 08:44:39 218.40.236.3
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '283','2014-08-11','08:44:39','58','contents10','2014-08-11 08:44:39','2014-08-11 08:44:39')
+
+2014-08-11 08:44:39 218.40.236.3
+
+
+2014-08-11 08:44:39 218.40.236.3
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=58
+
+2014-08-11 08:44:39 218.40.236.3
+
+
+2014-08-11 08:44:39 218.40.236.3
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '283','2014-08-11','08:44:39','ID:58/O:画像処理用LED照明/フラット面照明/KDHM2 series/KDHM2-30/120*','外形図PDF','0','download','2014-08-11 08:44:39','2014-08-11 08:44:39')
+
+2014-08-11 08:44:39 218.40.236.3
+
+
+2014-08-11 08:44:39 218.40.236.3
+SELECT * FROM kdn_products WHERE id=58
+
+2014-08-11 08:44:39 218.40.236.3
+
+
+2014-08-11 08:44:44 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:44:44 218.40.236.3
+
+
+2014-08-11 08:44:44 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:44:44 218.40.236.3
+
+
+2014-08-11 08:44:44 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:44:44 218.40.236.3
+
+
+2014-08-11 08:44:44 218.40.236.3
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '283','2014-08-11','08:44:44','61','contents10','2014-08-11 08:44:44','2014-08-11 08:44:44')
+
+2014-08-11 08:44:44 218.40.236.3
+
+
+2014-08-11 08:44:44 218.40.236.3
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=61
+
+2014-08-11 08:44:44 218.40.236.3
+
+
+2014-08-11 08:44:44 218.40.236.3
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '283','2014-08-11','08:44:44','ID:61/O:画像処理用LED照明/フラット面照明/KDHM2 series/KDHM2-60/120*','外形図PDF','0','download','2014-08-11 08:44:44','2014-08-11 08:44:44')
+
+2014-08-11 08:44:44 218.40.236.3
+
+
+2014-08-11 08:44:44 218.40.236.3
+SELECT * FROM kdn_products WHERE id=61
+
+2014-08-11 08:44:44 218.40.236.3
+
+
+2014-08-11 08:45:12 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:12 218.40.236.3
+
+
+2014-08-11 08:45:12 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:12 218.40.236.3
+
+
+2014-08-11 08:45:12 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:12 218.40.236.3
+
+
+2014-08-11 08:45:12 218.40.236.3
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '283','2014-08-11','08:45:12','23','contents10','2014-08-11 08:45:12','2014-08-11 08:45:12')
+
+2014-08-11 08:45:12 218.40.236.3
+
+
+2014-08-11 08:45:12 218.40.236.3
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=23
+
+2014-08-11 08:45:12 218.40.236.3
+
+
+2014-08-11 08:45:12 218.40.236.3
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '283','2014-08-11','08:45:12','ID:23/O:画像処理用LED照明/反射集光型ライン照明/KDDL3 series/KDDL3-100-3000*','外形図PDF','0','download','2014-08-11 08:45:12','2014-08-11 08:45:12')
+
+2014-08-11 08:45:12 218.40.236.3
+
+
+2014-08-11 08:45:12 218.40.236.3
+SELECT * FROM kdn_products WHERE id=23
+
+2014-08-11 08:45:12 218.40.236.3
+
+
+2014-08-11 08:45:19 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:19 218.40.236.3
+
+
+2014-08-11 08:45:19 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:19 218.40.236.3
+
+
+2014-08-11 08:45:19 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:19 218.40.236.3
+
+
+2014-08-11 08:45:19 218.40.236.3
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '283','2014-08-11','08:45:19','9','contents10','2014-08-11 08:45:19','2014-08-11 08:45:19')
+
+2014-08-11 08:45:19 218.40.236.3
+
+
+2014-08-11 08:45:19 218.40.236.3
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=9
+
+2014-08-11 08:45:19 218.40.236.3
+
+
+2014-08-11 08:45:19 218.40.236.3
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '283','2014-08-11','08:45:19','ID:9/O:画像処理用LED照明/バー型照明/KDDB2 series/KDDB2-200/11*','外形図PDF','0','download','2014-08-11 08:45:19','2014-08-11 08:45:19')
+
+2014-08-11 08:45:19 218.40.236.3
+
+
+2014-08-11 08:45:19 218.40.236.3
+SELECT * FROM kdn_products WHERE id=9
+
+2014-08-11 08:45:19 218.40.236.3
+
+
+2014-08-11 08:45:21 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:21 218.40.236.3
+
+
+2014-08-11 08:45:21 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:21 218.40.236.3
+
+
+2014-08-11 08:45:21 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:21 218.40.236.3
+
+
+2014-08-11 08:45:21 218.40.236.3
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '283','2014-08-11','08:45:21','15','contents10','2014-08-11 08:45:21','2014-08-11 08:45:21')
+
+2014-08-11 08:45:21 218.40.236.3
+
+
+2014-08-11 08:45:21 218.40.236.3
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=15
+
+2014-08-11 08:45:21 218.40.236.3
+
+
+2014-08-11 08:45:22 218.40.236.3
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '283','2014-08-11','08:45:21','ID:15/O:画像処理用LED照明/バー型照明/KDDB2 series/KDDB2-200/15*','外形図PDF','0','download','2014-08-11 08:45:21','2014-08-11 08:45:21')
+
+2014-08-11 08:45:22 218.40.236.3
+
+
+2014-08-11 08:45:22 218.40.236.3
+SELECT * FROM kdn_products WHERE id=15
+
+2014-08-11 08:45:22 218.40.236.3
+
+
+2014-08-11 08:45:24 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:24 218.40.236.3
+
+
+2014-08-11 08:45:24 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:24 218.40.236.3
+
+
+2014-08-11 08:45:24 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:24 218.40.236.3
+
+
+2014-08-11 08:45:24 218.40.236.3
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '283','2014-08-11','08:45:24','19','contents10','2014-08-11 08:45:24','2014-08-11 08:45:24')
+
+2014-08-11 08:45:24 218.40.236.3
+
+
+2014-08-11 08:45:24 218.40.236.3
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=19
+
+2014-08-11 08:45:24 218.40.236.3
+
+
+2014-08-11 08:45:24 218.40.236.3
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '283','2014-08-11','08:45:24','ID:19/O:画像処理用LED照明/バー型照明/KDDB2 series/KDDB2-300/24','外形図PDF','0','download','2014-08-11 08:45:24','2014-08-11 08:45:24')
+
+2014-08-11 08:45:24 218.40.236.3
+
+
+2014-08-11 08:45:24 218.40.236.3
+SELECT * FROM kdn_products WHERE id=19
+
+2014-08-11 08:45:24 218.40.236.3
+
+
+2014-08-11 08:45:49 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:49 218.40.236.3
+
+
+2014-08-11 08:45:49 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:49 218.40.236.3
+
+
+2014-08-11 08:45:49 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:49 218.40.236.3
+
+
+2014-08-11 08:45:49 218.40.236.3
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '283','2014-08-11','08:45:49','77','contents10','2014-08-11 08:45:49','2014-08-11 08:45:49')
+
+2014-08-11 08:45:49 218.40.236.3
+
+
+2014-08-11 08:45:49 218.40.236.3
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=77
+
+2014-08-11 08:45:49 218.40.236.3
+
+
+2014-08-11 08:45:49 218.40.236.3
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '283','2014-08-11','08:45:49','ID:77/O:画像処理用LED照明/スポット照明/PLS2/PLS3/PLSF series/PLSF-25*','外形図PDF','0','download','2014-08-11 08:45:49','2014-08-11 08:45:49')
+
+2014-08-11 08:45:49 218.40.236.3
+
+
+2014-08-11 08:45:49 218.40.236.3
+SELECT * FROM kdn_products WHERE id=77
+
+2014-08-11 08:45:49 218.40.236.3
+
+
+2014-08-11 08:45:58 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:58 218.40.236.3
+
+
+2014-08-11 08:45:58 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:58 218.40.236.3
+
+
+2014-08-11 08:45:58 218.40.236.3
+SELECT * FROM kdn_member WHERE member_id='miuratokkyo@gmail.com' and member_pwd ='fb1f3a97' and status='2'
+
+2014-08-11 08:45:58 218.40.236.3
+
+
+2014-08-11 08:45:58 218.40.236.3
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '283','2014-08-11','08:45:58','85','contents10','2014-08-11 08:45:58','2014-08-11 08:45:58')
+
+2014-08-11 08:45:58 218.40.236.3
+
+
+2014-08-11 08:45:58 218.40.236.3
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=85
+
+2014-08-11 08:45:58 218.40.236.3
+
+
+2014-08-11 08:45:58 218.40.236.3
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '283','2014-08-11','08:45:58','ID:85/O:画像処理用LED照明/UVライン照明/KDUV-L series/KDUV-L300','外形図PDF','0','download','2014-08-11 08:45:58','2014-08-11 08:45:58')
+
+2014-08-11 08:45:58 218.40.236.3
+
+
+2014-08-11 08:45:58 218.40.236.3
+SELECT * FROM kdn_products WHERE id=85
+
+2014-08-11 08:45:58 218.40.236.3
+
+
+2014-08-11 09:31:04 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama.sp.hansui@gmail.com' and member_pwd ='12003523684' and status='2'
+
+2014-08-11 09:31:04 127.0.0.1
+
+
+2014-08-11 09:31:27 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama.sp.hansui@gmail.com' and member_pwd ='E4MG00352' and status='2'
+
+2014-08-11 09:31:27 127.0.0.1
+
+
+2014-08-11 09:33:28 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama.sp.hansui@gmail.com' and member_pwd ='E4NA00352' and status='2'
+
+2014-08-11 09:33:28 127.0.0.1
+
+
+2014-08-11 09:33:45 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama.sp.hansui@gmail.com' and member_pwd ='3684352' and status='2'
+
+2014-08-11 09:33:45 127.0.0.1
+
+
+2014-08-11 09:35:39 61.121.103.156
+SELECT * FROM kdn_member WHERE email_address ='aoyama-mitsunori@fujielectric.co.jp' and status = 2
+
+2014-08-11 09:35:39 61.121.103.156
+
+
+2014-08-11 09:35:42 61.121.103.156
+INSERT INTO kdn_member (company_name,company_kana,zip1,zip2,pref,address1,address2,telno,faxno,section,charge_name,email_address,url,note,status,query_strings,temporary_registration,validity,created,modified ) VALUES ( '富士電機','','141','0032','13','品川区大崎１－１１－２','','03-5435-7267','','','青山光則','aoyama-mitsunori@fujielectric.co.jp','','','1','707c17e0fa80c6d0be2232dc0379be85a877ce8d','2014-08-11 09:35:42','2014-08-12 09:35','2014-08-11 09:35:42','2014-08-11 09:35:42')
+
+2014-08-11 09:35:43 61.121.103.156
+
+
+2014-08-11 09:35:43 61.121.103.156
+SELECT * FROM kdn_baseinfo
+
+2014-08-11 09:35:43 61.121.103.156
+
+
+2014-08-11 09:36:11 61.121.103.156
+SELECT * FROM kdn_member WHERE query_strings = '707c17e0fa80c6d0be2232dc0379be85a877ce8d'
+
+2014-08-11 09:36:11 61.121.103.156
+
+
+2014-08-11 09:36:11 61.121.103.156
+UPDATE kdn_member SET status='2',temporary_registration='',validity='',this_registration='2014-08-11 09:36:11',member_id='aoyama-mitsunori@fujielectric.co.jp',member_pwd='0d0051bb',modified ='2014-08-11 09:36:11' WHERE id=284
+
+2014-08-11 09:36:11 61.121.103.156
+
+
+2014-08-11 09:36:11 61.121.103.156
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:36:11 61.121.103.156
+
+
+2014-08-11 09:36:11 61.121.103.156
+INSERT INTO kdn_login_history (kdn_member_id,member_id,login_date,login_time,ip_address,url,created,modified ) VALUES ( '284','aoyama-mitsunori@fujielectric.co.jp','2014-08-11','09:36:11','61.121.103.156','/member/this_registration.php','2014-08-11 09:36:11','2014-08-11 09:36:11')
+
+2014-08-11 09:36:11 61.121.103.156
+
+
+2014-08-11 09:36:11 61.121.103.156
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:36:11','/member/this_registration.php','61.121.103.156','617','login','2014-08-11 09:36:11','2014-08-11 09:36:11')
+
+2014-08-11 09:36:11 61.121.103.156
+
+
+2014-08-11 09:36:11 61.121.103.156
+SELECT * FROM kdn_baseinfo
+
+2014-08-11 09:36:11 61.121.103.156
+
+
+2014-08-11 09:36:12 61.121.103.156
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:36:12 61.121.103.156
+
+
+2014-08-11 09:36:12 61.121.103.156
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:36:12 61.121.103.156
+
+
+2014-08-11 09:36:28 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:36:28 127.0.0.1
+
+
+2014-08-11 09:36:29 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:36:29 127.0.0.1
+
+
+2014-08-11 09:36:29 127.0.0.1
+SELECT * FROM kdn_large_category WHERE top_category_id=1 ORDER BY id asc
+
+2014-08-11 09:36:29 127.0.0.1
+
+
+2014-08-11 09:36:29 127.0.0.1
+SELECT * FROM kdn_middle_category WHERE large_category_id=1 ORDER BY order_of_row asc
+
+2014-08-11 09:36:29 127.0.0.1
+
+
+2014-08-11 09:36:29 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=49 ORDER BY order_of_row asc
+
+2014-08-11 09:36:29 127.0.0.1
+
+
+2014-08-11 09:36:30 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=50 ORDER BY order_of_row asc
+
+2014-08-11 09:36:30 127.0.0.1
+
+
+2014-08-11 09:36:30 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=1 and middle_category_id=51 ORDER BY order_of_row asc
+
+2014-08-11 09:36:30 127.0.0.1
+
+
+2014-08-11 09:36:30 127.0.0.1
+SELECT * FROM kdn_middle_category WHERE large_category_id=2 ORDER BY order_of_row asc
+
+2014-08-11 09:36:30 127.0.0.1
+
+
+2014-08-11 09:36:30 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=2 and middle_category_id=52 ORDER BY order_of_row asc
+
+2014-08-11 09:36:30 127.0.0.1
+
+
+2014-08-11 09:36:30 127.0.0.1
+SELECT * FROM kdn_middle_category WHERE large_category_id=3 ORDER BY order_of_row asc
+
+2014-08-11 09:36:30 127.0.0.1
+
+
+2014-08-11 09:36:30 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=3 and middle_category_id=53 ORDER BY order_of_row asc
+
+2014-08-11 09:36:30 127.0.0.1
+
+
+2014-08-11 09:36:30 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:36:30 127.0.0.1
+
+
+2014-08-11 09:36:30 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:36:30 127.0.0.1
+
+
+2014-08-11 09:37:02 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:37:02 127.0.0.1
+
+
+2014-08-11 09:37:02 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:37:02 127.0.0.1
+
+
+2014-08-11 09:37:02 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:37:02 127.0.0.1
+
+
+2014-08-11 09:37:02 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:37:02','268','contents10','2014-08-11 09:37:02','2014-08-11 09:37:02')
+
+2014-08-11 09:37:02 127.0.0.1
+
+
+2014-08-11 09:37:02 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=268
+
+2014-08-11 09:37:02 127.0.0.1
+
+
+2014-08-11 09:37:02 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:37:02','ID:268/P:瞬時電圧低下保護装置/KDP/series/KDP-2S001','外形図PDF','0','download','2014-08-11 09:37:02','2014-08-11 09:37:02')
+
+2014-08-11 09:37:02 127.0.0.1
+
+
+2014-08-11 09:37:02 127.0.0.1
+SELECT * FROM kdn_products WHERE id=268
+
+2014-08-11 09:37:02 127.0.0.1
+
+
+2014-08-11 09:37:57 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:37:57 127.0.0.1
+
+
+2014-08-11 09:37:57 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:37:57 127.0.0.1
+
+
+2014-08-11 09:37:57 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:37:57 127.0.0.1
+
+
+2014-08-11 09:37:57 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:37:57','264','contents10','2014-08-11 09:37:57','2014-08-11 09:37:57')
+
+2014-08-11 09:37:57 127.0.0.1
+
+
+2014-08-11 09:37:57 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=264
+
+2014-08-11 09:37:57 127.0.0.1
+
+
+2014-08-11 09:37:57 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:37:57','ID:264/P:瞬時電圧低下保護装置/KDP/series/KDP-1S001','外形図PDF','0','download','2014-08-11 09:37:57','2014-08-11 09:37:57')
+
+2014-08-11 09:37:57 127.0.0.1
+
+
+2014-08-11 09:37:57 127.0.0.1
+SELECT * FROM kdn_products WHERE id=264
+
+2014-08-11 09:37:57 127.0.0.1
+
+
+2014-08-11 09:38:02 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:02 127.0.0.1
+
+
+2014-08-11 09:38:02 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:02 127.0.0.1
+
+
+2014-08-11 09:38:02 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:02 127.0.0.1
+
+
+2014-08-11 09:38:02 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:38:02','265','contents10','2014-08-11 09:38:02','2014-08-11 09:38:02')
+
+2014-08-11 09:38:02 127.0.0.1
+
+
+2014-08-11 09:38:02 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=265
+
+2014-08-11 09:38:02 127.0.0.1
+
+
+2014-08-11 09:38:02 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:38:02','ID:265/P:瞬時電圧低下保護装置/KDP/series/KDP-1S003','外形図PDF','0','download','2014-08-11 09:38:02','2014-08-11 09:38:02')
+
+2014-08-11 09:38:02 127.0.0.1
+
+
+2014-08-11 09:38:02 127.0.0.1
+SELECT * FROM kdn_products WHERE id=265
+
+2014-08-11 09:38:02 127.0.0.1
+
+
+2014-08-11 09:38:06 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:06 127.0.0.1
+
+
+2014-08-11 09:38:06 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:06 127.0.0.1
+
+
+2014-08-11 09:38:06 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:06 127.0.0.1
+
+
+2014-08-11 09:38:06 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:38:06','266','contents10','2014-08-11 09:38:06','2014-08-11 09:38:06')
+
+2014-08-11 09:38:06 127.0.0.1
+
+
+2014-08-11 09:38:06 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=266
+
+2014-08-11 09:38:06 127.0.0.1
+
+
+2014-08-11 09:38:06 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:38:06','ID:266/P:瞬時電圧低下保護装置/KDP/series/KDP-1S006','外形図PDF','0','download','2014-08-11 09:38:06','2014-08-11 09:38:06')
+
+2014-08-11 09:38:06 127.0.0.1
+
+
+2014-08-11 09:38:06 127.0.0.1
+SELECT * FROM kdn_products WHERE id=266
+
+2014-08-11 09:38:06 127.0.0.1
+
+
+2014-08-11 09:38:11 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:11 127.0.0.1
+
+
+2014-08-11 09:38:11 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:11 127.0.0.1
+
+
+2014-08-11 09:38:11 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:11 127.0.0.1
+
+
+2014-08-11 09:38:11 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:38:11','267','contents10','2014-08-11 09:38:11','2014-08-11 09:38:11')
+
+2014-08-11 09:38:11 127.0.0.1
+
+
+2014-08-11 09:38:11 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=267
+
+2014-08-11 09:38:11 127.0.0.1
+
+
+2014-08-11 09:38:11 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:38:11','ID:267/P:瞬時電圧低下保護装置/KDP/series/KDP-1S012','外形図PDF','0','download','2014-08-11 09:38:11','2014-08-11 09:38:11')
+
+2014-08-11 09:38:11 127.0.0.1
+
+
+2014-08-11 09:38:11 127.0.0.1
+SELECT * FROM kdn_products WHERE id=267
+
+2014-08-11 09:38:11 127.0.0.1
+
+
+2014-08-11 09:38:19 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:19 127.0.0.1
+
+
+2014-08-11 09:38:19 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:19 127.0.0.1
+
+
+2014-08-11 09:38:19 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:19 127.0.0.1
+
+
+2014-08-11 09:38:19 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:38:19','279','contents10','2014-08-11 09:38:19','2014-08-11 09:38:19')
+
+2014-08-11 09:38:19 127.0.0.1
+
+
+2014-08-11 09:38:19 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=279
+
+2014-08-11 09:38:19 127.0.0.1
+
+
+2014-08-11 09:38:19 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:38:19','ID:279/P:瞬時電圧低下保護装置/KDP/series/KDP-2S1R5','外形図PDF','0','download','2014-08-11 09:38:19','2014-08-11 09:38:19')
+
+2014-08-11 09:38:19 127.0.0.1
+
+
+2014-08-11 09:38:19 127.0.0.1
+SELECT * FROM kdn_products WHERE id=279
+
+2014-08-11 09:38:19 127.0.0.1
+
+
+2014-08-11 09:38:24 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:24 127.0.0.1
+
+
+2014-08-11 09:38:24 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:24 127.0.0.1
+
+
+2014-08-11 09:38:24 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:24 127.0.0.1
+
+
+2014-08-11 09:38:24 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:38:24','269','contents10','2014-08-11 09:38:24','2014-08-11 09:38:24')
+
+2014-08-11 09:38:24 127.0.0.1
+
+
+2014-08-11 09:38:24 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=269
+
+2014-08-11 09:38:24 127.0.0.1
+
+
+2014-08-11 09:38:24 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:38:24','ID:269/P:瞬時電圧低下保護装置/KDP/series/KDP-2S003','外形図PDF','0','download','2014-08-11 09:38:24','2014-08-11 09:38:24')
+
+2014-08-11 09:38:24 127.0.0.1
+
+
+2014-08-11 09:38:24 127.0.0.1
+SELECT * FROM kdn_products WHERE id=269
+
+2014-08-11 09:38:24 127.0.0.1
+
+
+2014-08-11 09:38:30 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:30 127.0.0.1
+
+
+2014-08-11 09:38:30 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:30 127.0.0.1
+
+
+2014-08-11 09:38:30 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:30 127.0.0.1
+
+
+2014-08-11 09:38:30 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:38:30','270','contents10','2014-08-11 09:38:30','2014-08-11 09:38:30')
+
+2014-08-11 09:38:30 127.0.0.1
+
+
+2014-08-11 09:38:30 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=270
+
+2014-08-11 09:38:30 127.0.0.1
+
+
+2014-08-11 09:38:30 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:38:30','ID:270/P:瞬時電圧低下保護装置/KDP/series/KDP-2S006','外形図PDF','0','download','2014-08-11 09:38:30','2014-08-11 09:38:30')
+
+2014-08-11 09:38:30 127.0.0.1
+
+
+2014-08-11 09:38:30 127.0.0.1
+SELECT * FROM kdn_products WHERE id=270
+
+2014-08-11 09:38:30 127.0.0.1
+
+
+2014-08-11 09:38:34 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:34 127.0.0.1
+
+
+2014-08-11 09:38:34 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:34 127.0.0.1
+
+
+2014-08-11 09:38:34 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:34 127.0.0.1
+
+
+2014-08-11 09:38:34 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:38:34','271','contents10','2014-08-11 09:38:34','2014-08-11 09:38:34')
+
+2014-08-11 09:38:34 127.0.0.1
+
+
+2014-08-11 09:38:35 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=271
+
+2014-08-11 09:38:35 127.0.0.1
+
+
+2014-08-11 09:38:35 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:38:35','ID:271/P:瞬時電圧低下保護装置/KDP/series/KDP-2S012','外形図PDF','0','download','2014-08-11 09:38:35','2014-08-11 09:38:35')
+
+2014-08-11 09:38:35 127.0.0.1
+
+
+2014-08-11 09:38:35 127.0.0.1
+SELECT * FROM kdn_products WHERE id=271
+
+2014-08-11 09:38:35 127.0.0.1
+
+
+2014-08-11 09:38:44 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:44 127.0.0.1
+
+
+2014-08-11 09:38:44 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:44 127.0.0.1
+
+
+2014-08-11 09:38:44 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:44 127.0.0.1
+
+
+2014-08-11 09:38:44 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:38:44','272','contents10','2014-08-11 09:38:44','2014-08-11 09:38:44')
+
+2014-08-11 09:38:44 127.0.0.1
+
+
+2014-08-11 09:38:44 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=272
+
+2014-08-11 09:38:44 127.0.0.1
+
+
+2014-08-11 09:38:44 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:38:44','ID:272/P:瞬時電圧低下保護装置/KDP/series/KDP-2T006','外形図PDF','0','download','2014-08-11 09:38:44','2014-08-11 09:38:44')
+
+2014-08-11 09:38:44 127.0.0.1
+
+
+2014-08-11 09:38:44 127.0.0.1
+SELECT * FROM kdn_products WHERE id=272
+
+2014-08-11 09:38:44 127.0.0.1
+
+
+2014-08-11 09:38:48 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:48 127.0.0.1
+
+
+2014-08-11 09:38:48 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:48 127.0.0.1
+
+
+2014-08-11 09:38:48 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:48 127.0.0.1
+
+
+2014-08-11 09:38:48 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:38:48','273','contents10','2014-08-11 09:38:48','2014-08-11 09:38:48')
+
+2014-08-11 09:38:48 127.0.0.1
+
+
+2014-08-11 09:38:49 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=273
+
+2014-08-11 09:38:49 127.0.0.1
+
+
+2014-08-11 09:38:49 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:38:49','ID:273/P:瞬時電圧低下保護装置/KDP/series/KDP-2T009','外形図PDF','0','download','2014-08-11 09:38:49','2014-08-11 09:38:49')
+
+2014-08-11 09:38:49 127.0.0.1
+
+
+2014-08-11 09:38:49 127.0.0.1
+SELECT * FROM kdn_products WHERE id=273
+
+2014-08-11 09:38:49 127.0.0.1
+
+
+2014-08-11 09:38:53 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:53 127.0.0.1
+
+
+2014-08-11 09:38:53 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:53 127.0.0.1
+
+
+2014-08-11 09:38:53 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='aoyama-mitsunori@fujielectric.co.jp' and member_pwd ='0d0051bb' and status='2'
+
+2014-08-11 09:38:53 127.0.0.1
+
+
+2014-08-11 09:38:53 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '284','2014-08-11','09:38:53','274','contents10','2014-08-11 09:38:53','2014-08-11 09:38:53')
+
+2014-08-11 09:38:53 127.0.0.1
+
+
+2014-08-11 09:38:53 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=274
+
+2014-08-11 09:38:53 127.0.0.1
+
+
+2014-08-11 09:38:53 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '284','2014-08-11','09:38:53','ID:274/P:瞬時電圧低下保護装置/KDP/series/KDP-2T012','外形図PDF','0','download','2014-08-11 09:38:53','2014-08-11 09:38:53')
+
+2014-08-11 09:38:53 127.0.0.1
+
+
+2014-08-11 09:38:53 127.0.0.1
+SELECT * FROM kdn_products WHERE id=274
+
+2014-08-11 09:38:53 127.0.0.1
+
+
+2014-08-18 08:31:14 27.90.200.73
+SELECT * FROM kdn_member WHERE email_address ='t.tanabe@topcon.co.jp' and status = 2
+
+2014-08-18 08:31:14 27.90.200.73
+
+
+2014-08-18 08:31:25 27.90.200.73
+SELECT * FROM kdn_member WHERE email_address ='t.tanabe@topcon.co.jp' and status = 2
+
+2014-08-18 08:31:25 27.90.200.73
+
+
+2014-08-18 08:31:34 27.90.200.73
+SELECT * FROM kdn_member WHERE email_address ='t.tanabe@topcon.co.jp' and status = 2
+
+2014-08-18 08:31:34 27.90.200.73
+
+
+2014-08-18 08:31:36 27.90.200.73
+INSERT INTO kdn_member (company_name,company_kana,zip1,zip2,pref,address1,address2,telno,faxno,section,charge_name,email_address,url,note,status,query_strings,temporary_registration,validity,created,modified ) VALUES ( '㈱トプコン','','174','8580','13','板橋区蓮沼町７５－１','','03-3558-2561','','光学技術課','田邉　貴大','t.tanabe@topcon.co.jp','','','1','c541dfb488876e7cf20c835b84ac20dbfb8c703c','2014-08-18 08:31:36','2014-08-19 08:31','2014-08-18 08:31:36','2014-08-18 08:31:36')
+
+2014-08-18 08:31:36 27.90.200.73
+
+
+2014-08-18 08:31:36 27.90.200.73
+SELECT * FROM kdn_baseinfo
+
+2014-08-18 08:31:36 27.90.200.73
+
+
+2014-08-18 08:31:50 27.90.200.73
+SELECT * FROM kdn_member WHERE query_strings = 'c541dfb488876e7cf20c835b84ac20dbfb8c703c'
+
+2014-08-18 08:31:50 27.90.200.73
+
+
+2014-08-18 08:31:50 27.90.200.73
+UPDATE kdn_member SET status='2',temporary_registration='',validity='',this_registration='2014-08-18 08:31:50',member_id='t.tanabe@topcon.co.jp',member_pwd='0aae37c3',modified ='2014-08-18 08:31:50' WHERE id=287
+
+2014-08-18 08:31:50 27.90.200.73
+
+
+2014-08-18 08:31:50 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:31:50 27.90.200.73
+
+
+2014-08-18 08:31:50 27.90.200.73
+INSERT INTO kdn_login_history (kdn_member_id,member_id,login_date,login_time,ip_address,url,created,modified ) VALUES ( '287','t.tanabe@topcon.co.jp','2014-08-18','08:31:50','27.90.200.73','/member/this_registration.php','2014-08-18 08:31:50','2014-08-18 08:31:50')
+
+2014-08-18 08:31:50 27.90.200.73
+
+
+2014-08-18 08:31:50 27.90.200.73
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '287','2014-08-18','08:31:50','/member/this_registration.php','27.90.200.73','623','login','2014-08-18 08:31:50','2014-08-18 08:31:50')
+
+2014-08-18 08:31:50 27.90.200.73
+
+
+2014-08-18 08:31:50 27.90.200.73
+SELECT * FROM kdn_baseinfo
+
+2014-08-18 08:31:50 27.90.200.73
+
+
+2014-08-18 08:31:50 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:31:50 27.90.200.73
+
+
+2014-08-18 08:31:50 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:31:50 27.90.200.73
+
+
+2014-08-18 08:32:45 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:45 27.90.200.73
+
+
+2014-08-18 08:32:45 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:45 27.90.200.73
+
+
+2014-08-18 08:32:45 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:45 27.90.200.73
+
+
+2014-08-18 08:32:45 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:45 27.90.200.73
+
+
+2014-08-18 08:32:45 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:45 27.90.200.73
+
+
+2014-08-18 08:32:45 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:45 27.90.200.73
+
+
+2014-08-18 08:32:48 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:48 27.90.200.73
+
+
+2014-08-18 08:32:48 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:48 27.90.200.73
+
+
+2014-08-18 08:32:48 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:48 27.90.200.73
+
+
+2014-08-18 08:32:48 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:48 27.90.200.73
+
+
+2014-08-18 08:32:48 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:48 27.90.200.73
+
+
+2014-08-18 08:32:48 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:48 27.90.200.73
+
+
+2014-08-18 08:32:48 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:48 27.90.200.73
+
+
+2014-08-18 08:32:55 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:55 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_large_category WHERE top_category_id=2 ORDER BY id asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_middle_category WHERE large_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=1 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=2 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=3 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=8 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=9 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=10 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=11 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=12 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=13 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=14 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=15 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=16 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:56 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=17 ORDER BY order_of_row asc
+
+2014-08-18 08:32:56 27.90.200.73
+
+
+2014-08-18 08:32:57 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=18 ORDER BY order_of_row asc
+
+2014-08-18 08:32:57 27.90.200.73
+
+
+2014-08-18 08:32:57 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=19 ORDER BY order_of_row asc
+
+2014-08-18 08:32:57 27.90.200.73
+
+
+2014-08-18 08:32:57 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=20 ORDER BY order_of_row asc
+
+2014-08-18 08:32:57 27.90.200.73
+
+
+2014-08-18 08:32:57 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=22 ORDER BY order_of_row asc
+
+2014-08-18 08:32:57 27.90.200.73
+
+
+2014-08-18 08:32:57 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=23 ORDER BY order_of_row asc
+
+2014-08-18 08:32:57 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=41 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=42 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=43 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=44 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=45 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_middle_category WHERE large_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=24 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=25 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=26 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=27 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=28 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=29 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=30 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:58 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=31 ORDER BY order_of_row asc
+
+2014-08-18 08:32:58 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=32 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=46 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=47 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=48 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_middle_category WHERE large_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=36 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=37 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=38 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=39 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=40 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_middle_category WHERE large_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=7 and middle_category_id=54 ORDER BY order_of_row asc
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:32:59 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:32:59 27.90.200.73
+
+
+2014-08-18 08:33:00 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:33:00 27.90.200.73
+
+
+2014-08-18 08:33:00 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:33:00 27.90.200.73
+
+
+2014-08-18 08:33:02 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:33:02 27.90.200.73
+
+
+2014-08-18 08:33:02 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:33:02 27.90.200.73
+
+
+2014-08-18 08:33:06 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:33:06 27.90.200.73
+
+
+2014-08-18 08:33:06 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:33:06 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_large_category WHERE top_category_id=2 ORDER BY id asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_middle_category WHERE large_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=1 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=2 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=3 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=8 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=9 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=10 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=11 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=12 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=13 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=14 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=15 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=16 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=17 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=18 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=19 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=20 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=22 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=23 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=41 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=42 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=43 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=44 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=45 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_middle_category WHERE large_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=24 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=25 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=26 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=27 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=28 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=29 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=30 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=31 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=32 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=46 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=47 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=48 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_middle_category WHERE large_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=36 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=37 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=38 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=39 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:07 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=40 ORDER BY order_of_row asc
+
+2014-08-18 08:33:07 27.90.200.73
+
+
+2014-08-18 08:33:08 27.90.200.73
+SELECT * FROM kdn_middle_category WHERE large_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 08:33:08 27.90.200.73
+
+
+2014-08-18 08:33:08 27.90.200.73
+SELECT * FROM kdn_products WHERE large_category_id=7 and middle_category_id=54 ORDER BY order_of_row asc
+
+2014-08-18 08:33:08 27.90.200.73
+
+
+2014-08-18 08:33:08 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:33:08 27.90.200.73
+
+
+2014-08-18 08:33:08 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:33:08 27.90.200.73
+
+
+2014-08-18 08:33:17 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:33:17 27.90.200.73
+
+
+2014-08-18 08:33:17 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:33:17 27.90.200.73
+
+
+2014-08-18 08:33:17 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:33:17 27.90.200.73
+
+
+2014-08-18 08:33:17 27.90.200.73
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '287','2014-08-18','08:33:17','79','contents10','2014-08-18 08:33:17','2014-08-18 08:33:17')
+
+2014-08-18 08:33:17 27.90.200.73
+
+
+2014-08-18 08:33:17 27.90.200.73
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=79
+
+2014-08-18 08:33:17 27.90.200.73
+
+
+2014-08-18 08:33:17 27.90.200.73
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '287','2014-08-18','08:33:17','ID:79/O:画像処理用LED照明/UVスポット照明/LUV series/LUVT-17-365','外形図PDF','0','download','2014-08-18 08:33:17','2014-08-18 08:33:17')
+
+2014-08-18 08:33:17 27.90.200.73
+
+
+2014-08-18 08:33:17 27.90.200.73
+SELECT * FROM kdn_products WHERE id=79
+
+2014-08-18 08:33:17 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '287','2014-08-18','08:34:20','168','contents20','2014-08-18 08:34:20','2014-08-18 08:34:20')
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=168
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '287','2014-08-18','08:34:20','ID:168/O:画像処理用LED照明/UVスポット照明/LUV series/LUV-4S','仕様書PDF','0','download','2014-08-18 08:34:20','2014-08-18 08:34:20')
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+SELECT * FROM kdn_products WHERE id=168
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '287','2014-08-18','08:34:20','168','contents20','2014-08-18 08:34:20','2014-08-18 08:34:20')
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=168
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '287','2014-08-18','08:34:20','ID:168/O:画像処理用LED照明/UVスポット照明/LUV series/LUV-4S','仕様書PDF','0','download','2014-08-18 08:34:20','2014-08-18 08:34:20')
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:20 27.90.200.73
+SELECT * FROM kdn_products WHERE id=168
+
+2014-08-18 08:34:20 27.90.200.73
+
+
+2014-08-18 08:34:36 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:36 27.90.200.73
+
+
+2014-08-18 08:34:36 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:36 27.90.200.73
+
+
+2014-08-18 08:34:36 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:36 27.90.200.73
+
+
+2014-08-18 08:34:36 27.90.200.73
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '287','2014-08-18','08:34:36','80','contents10','2014-08-18 08:34:36','2014-08-18 08:34:36')
+
+2014-08-18 08:34:36 27.90.200.73
+
+
+2014-08-18 08:34:36 27.90.200.73
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=80
+
+2014-08-18 08:34:36 27.90.200.73
+
+
+2014-08-18 08:34:36 27.90.200.73
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '287','2014-08-18','08:34:36','ID:80/O:画像処理用LED照明/UVスポット照明/LUV series/LUVT-25-365','外形図PDF','0','download','2014-08-18 08:34:36','2014-08-18 08:34:36')
+
+2014-08-18 08:34:36 27.90.200.73
+
+
+2014-08-18 08:34:36 27.90.200.73
+SELECT * FROM kdn_products WHERE id=80
+
+2014-08-18 08:34:36 27.90.200.73
+
+
+2014-08-18 08:34:42 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:42 27.90.200.73
+
+
+2014-08-18 08:34:42 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:42 27.90.200.73
+
+
+2014-08-18 08:34:43 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:43 27.90.200.73
+
+
+2014-08-18 08:34:43 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:43 27.90.200.73
+
+
+2014-08-18 08:34:45 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:45 27.90.200.73
+
+
+2014-08-18 08:34:45 27.90.200.73
+SELECT * FROM kdn_member WHERE member_id='t.tanabe@topcon.co.jp' and member_pwd ='0aae37c3' and status='2'
+
+2014-08-18 08:34:45 27.90.200.73
+
+
+2014-08-18 14:15:34 210.138.251.237
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:15:34 210.138.251.237
+
+
+2014-08-18 14:15:34 210.138.251.237
+INSERT INTO kdn_login_history (kdn_member_id,member_id,login_date,login_time,ip_address,url,created,modified ) VALUES ( '268','satoru.shimada@glb.toshiba.co.jp','2014-08-18','14:15:34','210.138.251.237','/opt/download/index.php','2014-08-18 14:15:34','2014-08-18 14:15:34')
+
+2014-08-18 14:15:34 210.138.251.237
+
+
+2014-08-18 14:15:34 210.138.251.237
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '268','2014-08-18','14:15:34','/opt/download/index.php','210.138.251.237','624','login','2014-08-18 14:15:34','2014-08-18 14:15:34')
+
+2014-08-18 14:15:34 210.138.251.237
+
+
+2014-08-18 14:15:34 210.138.251.237
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:15:34 210.138.251.237
+
+
+2014-08-18 14:15:34 210.138.251.237
+SELECT * FROM kdn_large_category WHERE top_category_id=2 ORDER BY id asc
+
+2014-08-18 14:15:34 210.138.251.237
+
+
+2014-08-18 14:15:34 210.138.251.237
+SELECT * FROM kdn_middle_category WHERE large_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 14:15:34 210.138.251.237
+
+
+2014-08-18 14:15:34 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=1 ORDER BY order_of_row asc
+
+2014-08-18 14:15:34 210.138.251.237
+
+
+2014-08-18 14:15:34 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=2 ORDER BY order_of_row asc
+
+2014-08-18 14:15:34 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=3 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=8 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=9 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=10 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=11 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=12 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=13 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=14 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=15 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=16 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:35 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=17 ORDER BY order_of_row asc
+
+2014-08-18 14:15:35 210.138.251.237
+
+
+2014-08-18 14:15:36 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=18 ORDER BY order_of_row asc
+
+2014-08-18 14:15:36 210.138.251.237
+
+
+2014-08-18 14:15:36 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=19 ORDER BY order_of_row asc
+
+2014-08-18 14:15:36 210.138.251.237
+
+
+2014-08-18 14:15:36 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=20 ORDER BY order_of_row asc
+
+2014-08-18 14:15:36 210.138.251.237
+
+
+2014-08-18 14:15:36 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=22 ORDER BY order_of_row asc
+
+2014-08-18 14:15:36 210.138.251.237
+
+
+2014-08-18 14:15:36 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=23 ORDER BY order_of_row asc
+
+2014-08-18 14:15:36 210.138.251.237
+
+
+2014-08-18 14:15:36 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=41 ORDER BY order_of_row asc
+
+2014-08-18 14:15:36 210.138.251.237
+
+
+2014-08-18 14:15:36 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=42 ORDER BY order_of_row asc
+
+2014-08-18 14:15:36 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=43 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=44 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=45 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_middle_category WHERE large_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=24 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=25 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=26 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=27 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=28 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=29 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=30 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=31 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=32 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=46 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=47 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=48 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_middle_category WHERE large_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=36 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=37 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=38 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=39 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=40 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_middle_category WHERE large_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_products WHERE large_category_id=7 and middle_category_id=54 ORDER BY order_of_row asc
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:37 210.138.251.237
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:15:37 210.138.251.237
+
+
+2014-08-18 14:15:54 210.138.251.237
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:15:54 210.138.251.237
+
+
+2014-08-18 14:15:54 210.138.251.237
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:15:54 210.138.251.237
+
+
+2014-08-18 14:15:54 210.138.251.237
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:15:54 210.138.251.237
+
+
+2014-08-18 14:15:54 210.138.251.237
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '268','2014-08-18','14:15:54','101','contents11','2014-08-18 14:15:54','2014-08-18 14:15:54')
+
+2014-08-18 14:15:54 210.138.251.237
+
+
+2014-08-18 14:15:54 210.138.251.237
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=101
+
+2014-08-18 14:15:54 210.138.251.237
+
+
+2014-08-18 14:15:54 210.138.251.237
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '268','2014-08-18','14:15:54','ID:101/O:画像処理用蛍光灯照明/高周波蛍光灯点灯電源/LSJ series/LSJ-L110','外形図DXF','0','download','2014-08-18 14:15:54','2014-08-18 14:15:54')
+
+2014-08-18 14:15:54 210.138.251.237
+
+
+2014-08-18 14:15:54 210.138.251.237
+SELECT * FROM kdn_products WHERE id=101
+
+2014-08-18 14:15:54 210.138.251.237
+
+
+2014-08-18 14:17:24 118.151.157.8
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:17:24 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_large_category WHERE top_category_id=2 ORDER BY id asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_middle_category WHERE large_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=1 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=2 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=3 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=8 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=9 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=10 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=11 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=12 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=13 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=14 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=15 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=16 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=17 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=18 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=19 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=20 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=22 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=23 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=41 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=42 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=43 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=44 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=45 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_middle_category WHERE large_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=24 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=25 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=26 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=27 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=28 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=29 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=30 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=31 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=32 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=46 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=47 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=48 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_middle_category WHERE large_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=36 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=37 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=38 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=39 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=40 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_middle_category WHERE large_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_products WHERE large_category_id=7 and middle_category_id=54 ORDER BY order_of_row asc
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:26 118.151.157.8
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:17:26 118.151.157.8
+
+
+2014-08-18 14:17:44 118.151.157.8
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:17:44 118.151.157.8
+
+
+2014-08-18 14:17:44 118.151.157.8
+SELECT * FROM kdn_member WHERE member_id='satoru.shimada@glb.toshiba.co.jp' and member_pwd ='ff59ae6f' and status='2'
+
+2014-08-18 14:17:44 118.151.157.8
+
+
+2014-08-18 17:48:10 124.38.144.145
+SELECT * FROM kdn_member WHERE email_address ='ikeda_takayuki@jfe-densei.co.jp' and status = 2
+
+2014-08-18 17:48:10 124.38.144.145
+
+
+2014-08-18 17:48:12 124.38.144.145
+INSERT INTO kdn_member (company_name,company_kana,zip1,zip2,pref,address1,address2,telno,faxno,section,charge_name,email_address,url,note,status,query_strings,temporary_registration,validity,created,modified ) VALUES ( 'JFE電制株式会社','','712','8074','33','倉敷市水島川崎通り１丁目','','086-447-4034','','センサー設計室','池田孝之','ikeda_takayuki@jfe-densei.co.jp','','','1','0f2941d99dc9db0ee3cb1391f32faabc8d66bfb1','2014-08-18 17:48:12','2014-08-19 17:48','2014-08-18 17:48:12','2014-08-18 17:48:12')
+
+2014-08-18 17:48:12 124.38.144.145
+
+
+2014-08-18 17:48:12 124.38.144.145
+SELECT * FROM kdn_baseinfo
+
+2014-08-18 17:48:12 124.38.144.145
+
+
+2014-08-18 17:48:31 124.38.144.145
+SELECT * FROM kdn_member WHERE query_strings = '0f2941d99dc9db0ee3cb1391f32faabc8d66bfb1'
+
+2014-08-18 17:48:31 124.38.144.145
+
+
+2014-08-18 17:48:31 124.38.144.145
+UPDATE kdn_member SET status='2',temporary_registration='',validity='',this_registration='2014-08-18 17:48:31',member_id='ikeda_takayuki@jfe-densei.co.jp',member_pwd='b2d6b27c',modified ='2014-08-18 17:48:31' WHERE id=288
+
+2014-08-18 17:48:31 124.38.144.145
+
+
+2014-08-18 17:48:31 124.38.144.145
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:48:31 124.38.144.145
+
+
+2014-08-18 17:48:31 124.38.144.145
+INSERT INTO kdn_login_history (kdn_member_id,member_id,login_date,login_time,ip_address,url,created,modified ) VALUES ( '288','ikeda_takayuki@jfe-densei.co.jp','2014-08-18','17:48:31','124.38.144.145','/member/this_registration.php','2014-08-18 17:48:31','2014-08-18 17:48:31')
+
+2014-08-18 17:48:31 124.38.144.145
+
+
+2014-08-18 17:48:31 124.38.144.145
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '288','2014-08-18','17:48:31','/member/this_registration.php','124.38.144.145','625','login','2014-08-18 17:48:31','2014-08-18 17:48:31')
+
+2014-08-18 17:48:31 124.38.144.145
+
+
+2014-08-18 17:48:31 124.38.144.145
+SELECT * FROM kdn_baseinfo
+
+2014-08-18 17:48:31 124.38.144.145
+
+
+2014-08-18 17:48:31 124.38.144.145
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:48:31 124.38.144.145
+
+
+2014-08-18 17:48:31 124.38.144.145
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:48:31 124.38.144.145
+
+
+2014-08-18 17:49:04 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:49:04 127.0.0.1
+
+
+2014-08-18 17:49:05 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:49:05 127.0.0.1
+
+
+2014-08-18 17:49:05 127.0.0.1
+SELECT * FROM kdn_large_category WHERE top_category_id=2 ORDER BY id asc
+
+2014-08-18 17:49:05 127.0.0.1
+
+
+2014-08-18 17:49:05 127.0.0.1
+SELECT * FROM kdn_middle_category WHERE large_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 17:49:05 127.0.0.1
+
+
+2014-08-18 17:49:05 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=1 ORDER BY order_of_row asc
+
+2014-08-18 17:49:05 127.0.0.1
+
+
+2014-08-18 17:49:05 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=2 ORDER BY order_of_row asc
+
+2014-08-18 17:49:05 127.0.0.1
+
+
+2014-08-18 17:49:05 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=3 ORDER BY order_of_row asc
+
+2014-08-18 17:49:05 127.0.0.1
+
+
+2014-08-18 17:49:05 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 17:49:05 127.0.0.1
+
+
+2014-08-18 17:49:05 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 17:49:05 127.0.0.1
+
+
+2014-08-18 17:49:05 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 17:49:05 127.0.0.1
+
+
+2014-08-18 17:49:05 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 17:49:05 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=8 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=9 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=10 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=11 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=12 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=13 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=14 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=15 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=16 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=17 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=18 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=19 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=20 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=22 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:06 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=23 ORDER BY order_of_row asc
+
+2014-08-18 17:49:06 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=41 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=42 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=43 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=44 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=45 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_middle_category WHERE large_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=24 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=25 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=26 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=27 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=28 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=29 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=30 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=31 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=32 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=46 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=47 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=48 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_middle_category WHERE large_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=36 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=37 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:07 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=38 ORDER BY order_of_row asc
+
+2014-08-18 17:49:07 127.0.0.1
+
+
+2014-08-18 17:49:08 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=39 ORDER BY order_of_row asc
+
+2014-08-18 17:49:08 127.0.0.1
+
+
+2014-08-18 17:49:08 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=40 ORDER BY order_of_row asc
+
+2014-08-18 17:49:08 127.0.0.1
+
+
+2014-08-18 17:49:08 127.0.0.1
+SELECT * FROM kdn_middle_category WHERE large_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 17:49:08 127.0.0.1
+
+
+2014-08-18 17:49:08 127.0.0.1
+SELECT * FROM kdn_products WHERE large_category_id=7 and middle_category_id=54 ORDER BY order_of_row asc
+
+2014-08-18 17:49:08 127.0.0.1
+
+
+2014-08-18 17:49:08 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:49:08 127.0.0.1
+
+
+2014-08-18 17:49:08 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:49:08 127.0.0.1
+
+
+2014-08-18 17:49:16 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:49:16 127.0.0.1
+
+
+2014-08-18 17:49:16 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:49:16 127.0.0.1
+
+
+2014-08-18 17:49:16 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:49:16 127.0.0.1
+
+
+2014-08-18 17:49:16 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '288','2014-08-18','17:49:16','23','contents10','2014-08-18 17:49:16','2014-08-18 17:49:16')
+
+2014-08-18 17:49:16 127.0.0.1
+
+
+2014-08-18 17:49:16 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=23
+
+2014-08-18 17:49:16 127.0.0.1
+
+
+2014-08-18 17:49:16 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '288','2014-08-18','17:49:16','ID:23/O:画像処理用LED照明/反射集光型ライン照明/KDDL3 series/KDDL3-100-3000*','外形図PDF','0','download','2014-08-18 17:49:16','2014-08-18 17:49:16')
+
+2014-08-18 17:49:16 127.0.0.1
+
+
+2014-08-18 17:49:16 127.0.0.1
+SELECT * FROM kdn_products WHERE id=23
+
+2014-08-18 17:49:16 127.0.0.1
+
+
+2014-08-18 17:49:46 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:49:46 127.0.0.1
+
+
+2014-08-18 17:49:46 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:49:46 127.0.0.1
+
+
+2014-08-18 17:49:46 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:49:46 127.0.0.1
+
+
+2014-08-18 17:49:46 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '288','2014-08-18','17:49:46','23','contents10','2014-08-18 17:49:46','2014-08-18 17:49:46')
+
+2014-08-18 17:49:46 127.0.0.1
+
+
+2014-08-18 17:49:46 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=23
+
+2014-08-18 17:49:46 127.0.0.1
+
+
+2014-08-18 17:49:46 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '288','2014-08-18','17:49:46','ID:23/O:画像処理用LED照明/反射集光型ライン照明/KDDL3 series/KDDL3-100-3000*','外形図PDF','0','download','2014-08-18 17:49:46','2014-08-18 17:49:46')
+
+2014-08-18 17:49:46 127.0.0.1
+
+
+2014-08-18 17:49:46 127.0.0.1
+SELECT * FROM kdn_products WHERE id=23
+
+2014-08-18 17:49:46 127.0.0.1
+
+
+2014-08-18 17:50:47 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:50:47 127.0.0.1
+
+
+2014-08-18 17:50:47 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:50:47 127.0.0.1
+
+
+2014-08-18 17:50:47 127.0.0.1
+SELECT * FROM kdn_member WHERE member_id='ikeda_takayuki@jfe-densei.co.jp' and member_pwd ='b2d6b27c' and status='2'
+
+2014-08-18 17:50:47 127.0.0.1
+
+
+2014-08-18 17:50:47 127.0.0.1
+INSERT INTO kdn_download_history (kdn_member_id,download_date,download_time,kdn_products_id,contents_name,created,modified ) VALUES ( '288','2014-08-18','17:50:47','9','contents10','2014-08-18 17:50:47','2014-08-18 17:50:47')
+
+2014-08-18 17:50:47 127.0.0.1
+
+
+2014-08-18 17:50:47 127.0.0.1
+SELECT P.id,L.large_category_name,M.middle_category_name,P.products_name,M.series_name,P.contents10,P.contents11,P.contents20,P.contents30,P.contents40 FROM kdn_products P left outer join kdn_middle_category M on P.middle_category_id=M.id  left outer join kdn_large_category L on P.large_category_id=L.id WHERE P.id=9
+
+2014-08-18 17:50:47 127.0.0.1
+
+
+2014-08-18 17:50:47 127.0.0.1
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '288','2014-08-18','17:50:47','ID:9/O:画像処理用LED照明/バー型照明/KDDB2 series/KDDB2-200/11*','外形図PDF','0','download','2014-08-18 17:50:47','2014-08-18 17:50:47')
+
+2014-08-18 17:50:47 127.0.0.1
+
+
+2014-08-18 17:50:47 127.0.0.1
+SELECT * FROM kdn_products WHERE id=9
+
+2014-08-18 17:50:47 127.0.0.1
+
+
+2014-08-18 17:55:09 58.211.105.90
+SELECT * FROM kdn_member WHERE email_address ='gychen@lintec-china.com.cn' and status = 2
+
+2014-08-18 17:55:09 58.211.105.90
+
+
+2014-08-18 17:56:23 58.211.105.90
+SELECT * FROM kdn_member WHERE email_address ='gychen@lintec-china.com.cn' and status = 2
+
+2014-08-18 17:56:23 58.211.105.90
+
+
+2014-08-18 17:56:51 58.211.105.90
+INSERT INTO kdn_member (company_name,company_kana,zip1,zip2,pref,address1,address2,telno,faxno,section,charge_name,email_address,url,note,status,query_strings,temporary_registration,validity,created,modified ) VALUES ( 'LINTEC(SUZHOU)TECH CORPORATION','','123','4567','99','中国江蘇省蘇州新区泰山路30号','','0512-6665-3110','0512-6665-3122','','Guo Yan Chen','gychen@lintec-china.com.cn','','','1','c107b07b43187852d237f8a0a94128943be87f4a','2014-08-18 17:56:51','2014-08-19 17:56','2014-08-18 17:56:51','2014-08-18 17:56:51')
+
+2014-08-18 17:56:51 58.211.105.90
+
+
+2014-08-18 17:56:51 58.211.105.90
+SELECT * FROM kdn_baseinfo
+
+2014-08-18 17:56:51 58.211.105.90
+
+
+2014-08-18 17:58:01 58.211.105.90
+SELECT * FROM kdn_member WHERE query_strings = 'c107b07b43187852d237f8a0a94128943be87f4a'
+
+2014-08-18 17:58:01 58.211.105.90
+
+
+2014-08-18 17:58:01 58.211.105.90
+UPDATE kdn_member SET status='2',temporary_registration='',validity='',this_registration='2014-08-18 17:58:01',member_id='gychen@lintec-china.com.cn',member_pwd='de5bb09c',modified ='2014-08-18 17:58:01' WHERE id=289
+
+2014-08-18 17:58:01 58.211.105.90
+
+
+2014-08-18 17:58:01 58.211.105.90
+SELECT * FROM kdn_member WHERE member_id='gychen@lintec-china.com.cn' and member_pwd ='de5bb09c' and status='2'
+
+2014-08-18 17:58:01 58.211.105.90
+
+
+2014-08-18 17:58:01 58.211.105.90
+INSERT INTO kdn_login_history (kdn_member_id,member_id,login_date,login_time,ip_address,url,created,modified ) VALUES ( '289','gychen@lintec-china.com.cn','2014-08-18','17:58:01','58.211.105.90','/member/this_registration.php','2014-08-18 17:58:01','2014-08-18 17:58:01')
+
+2014-08-18 17:58:01 58.211.105.90
+
+
+2014-08-18 17:58:01 58.211.105.90
+INSERT INTO kdn_history (kdn_member_id,generate_date,generate_time,note1,note2,history_id,type,created,modified ) VALUES ( '289','2014-08-18','17:58:01','/member/this_registration.php','58.211.105.90','626','login','2014-08-18 17:58:01','2014-08-18 17:58:01')
+
+2014-08-18 17:58:01 58.211.105.90
+
+
+2014-08-18 17:58:01 58.211.105.90
+SELECT * FROM kdn_baseinfo
+
+2014-08-18 17:58:01 58.211.105.90
+
+
+2014-08-18 17:58:02 58.211.105.90
+SELECT * FROM kdn_member WHERE member_id='gychen@lintec-china.com.cn' and member_pwd ='de5bb09c' and status='2'
+
+2014-08-18 17:58:02 58.211.105.90
+
+
+2014-08-18 17:58:02 58.211.105.90
+SELECT * FROM kdn_member WHERE member_id='gychen@lintec-china.com.cn' and member_pwd ='de5bb09c' and status='2'
+
+2014-08-18 17:58:02 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_member WHERE member_id='gychen@lintec-china.com.cn' and member_pwd ='de5bb09c' and status='2'
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_member WHERE member_id='gychen@lintec-china.com.cn' and member_pwd ='de5bb09c' and status='2'
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_large_category WHERE top_category_id=2 ORDER BY id asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_middle_category WHERE large_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=1 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=2 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=3 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=4 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=8 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=9 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=10 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=11 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=12 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=13 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=14 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=15 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=16 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=17 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=18 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=19 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=20 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=22 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=23 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=41 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=42 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=43 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=44 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=4 and middle_category_id=45 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_middle_category WHERE large_category_id=5 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=24 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=25 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=26 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:51 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=27 ORDER BY order_of_row asc
+
+2014-08-18 17:58:51 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=28 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=29 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=30 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=31 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=32 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=46 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=47 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=5 and middle_category_id=48 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_middle_category WHERE large_category_id=6 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=36 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=37 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=38 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=39 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=6 and middle_category_id=40 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_middle_category WHERE large_category_id=7 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_products WHERE large_category_id=7 and middle_category_id=54 ORDER BY order_of_row asc
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_member WHERE member_id='gychen@lintec-china.com.cn' and member_pwd ='de5bb09c' and status='2'
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 17:58:52 58.211.105.90
+SELECT * FROM kdn_member WHERE member_id='gychen@lintec-china.com.cn' and member_pwd ='de5bb09c' and status='2'
+
+2014-08-18 17:58:52 58.211.105.90
+
+
+2014-08-18 18:02:31 58.211.105.90
+SELECT * FROM kdn_member WHERE member_id='gychen@lintec-china.com.cn' and member_pwd ='de5bb09c' and status='2'
+
+2014-08-18 18:02:31 58.211.105.90
+
+
+2014-08-18 18:02:31 58.211.105.90
+SELECT * FROM kdn_member WHERE member_id='gychen@lintec-china.com.cn' and member_pwd ='de5bb09c' and status='2'
+
+2014-08-18 18:02:31 58.211.105.90
+
+
+2014-08-18 18:03:35 58.211.105.90
+SELECT * FROM kdn_member WHERE member_id='gychen@lintec-china.com.cn' and member_pwd ='de5bb09c' and status='2'
+
+2014-08-18 18:03:35 58.211.105.90
+
+
+2014-08-18 18:03:35 58.211.105.90
+SELECT * FROM kdn_member WHERE member_id='gychen@lintec-china.com.cn' and member_pwd ='de5bb09c' and status='2'
+
+2014-08-18 18:03:35 58.211.105.90
+
+

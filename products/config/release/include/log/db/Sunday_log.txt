@@ -1,0 +1,6 @@
+2014-08-03 15:46:22 182.170.231.40
+SELECT * FROM kdn_member WHERE member_id='' and member_pwd ='' and status='2'
+
+2014-08-03 15:46:22 182.170.231.40
+
+

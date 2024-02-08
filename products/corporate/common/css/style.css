@@ -1,0 +1,614 @@
+@charset "utf-8";
+
+/*-------------------------------*/
+/*          TOPページ       　　 */
+/*-------------------------------*/
+
+div.fs_lh{
+	margin-top:24px;
+}
+
+div#mi_bg{
+	width:100%;
+	background-image:url(../../images/mi_bg.gif);
+	background-repeat:repeat-x;
+	background-position:bottom;
+}
+
+div.mainimage{
+	width:1020px;
+	height:315px;
+	margin:6px auto 0 auto;
+	_margin-bottom:-36px;
+	background-color:#ffffff;
+}
+
+/*ul.slides{
+ display:block;
+ margin:0 -100px;
+	position:relative;
+	left:-100px;
+}*/
+
+div.mainbtn_box{
+	width:960px;
+	margin:0 auto;
+}
+
+div.infobar_bg{
+	width:150px;
+	height:33px;
+	background-image:url(../../images/bar01.gif);
+	background-repeat:no-repeat;
+	padding:19px 0 0 510px;
+}
+
+a.news01:link{
+	color:#333333;
+	text-decoration:none;
+}
+
+a.news01:visited{
+	color:#333333;
+	text-decoration:none;
+}
+
+a.news01:hover{
+	color:#333333;
+	text-decoration:underline;
+}
+
+a.news01:active{
+	color:#333333;
+	text-decoration:underline;
+}
+
+a.news02:link{
+	color:#003f97;
+	text-decoration:none;
+}
+
+a.news02:visited{
+	color:#003f97;
+	text-decoration:none;
+}
+
+a.news02:hover{
+	color:#003f97;
+	text-decoration:underline;
+}
+
+a.news02:active{
+	color:#003f97;
+	text-decoration:underline;
+}
+
+/*-------------------------------*/
+/*         採用情報ページ        */
+/*-------------------------------*/
+
+div.careers_text01{
+	font-size:16px;
+	padding:17px 0 0 25px;
+}
+
+div.careers_text02{
+	font-size:16px;
+	line-height:22px;
+	padding:3px 0 0 25px;
+}
+
+div.careers_text03{
+	width:960px;
+	height:36px;
+	margin:50px 0 0 0;
+	padding:26px 0 0 0;
+	font-size:22px;
+	color:#ff6600;
+	font-weight:bold;
+	text-align:center;
+	background-image:url(../../careers/images/careers_text_bg.gif);
+	background-repeat:no-repeat;
+}
+
+div.cbottom{
+	padding-bottom:61px;
+}
+
+/*-------------------------------*/
+/*  プライバシーポリシーページ   */
+/*-------------------------------*/
+
+div.privacy_box{
+	border:1px solid #cccccc;
+	padding:22px 25px 21px 25px;
+}
+
+p.privacy_text01{
+	font-size:14px;
+	color:#2c2e7f;
+	font-weight:bold;
+}
+
+/*-------------------------------*/
+/*  　　サイトマップページ 　　  */
+/*-------------------------------*/
+
+div.sitemap_box{
+	border:1px solid #cccccc;
+	padding:40px 0 40px 40px;
+	margin:30px 0 0 0;
+}
+
+div.sitemap_box h3{
+	width:238px;
+	font-weight:bold;
+	color:#333333;
+	padding:3px 0 2px 18px;
+	background-color:#e8eff5;
+	background-image:url(../../sitemap/images/ico01.gif);
+	background-repeat:no-repeat;
+	background-position:left;
+}
+
+div.sitemap_box ul{
+	margin:15px 0 0 20px;
+	padding:0;
+	list-style:none;
+}
+
+div.sitemap_box ul.noico{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+div.sitemap_box li{
+	line-height:260%;
+}
+
+div.sitemap_box li a:link,
+div.sitemap_box li a:visited,
+div.sitemap_box li a:hover,
+div.sitemap_box li a:active{
+	text-decoration:none;
+}
+
+div.sitemap_box h3 a.title:link,
+div.sitemap_box h3 a.title:visited,
+div.sitemap_box h3 a.title:hover,
+div.sitemap_box h3 a.title:active{
+	text-decoration:none;
+	color:#333333;
+}
+
+div.sitemap_space{
+	padding:0 40px 0 40px;
+}
+
+li.sitemap_space02{
+	_padding-top:10px;
+}
+
+/*-------------------------------*/
+/*  　　　　 404ページ　   　　  */
+/*-------------------------------*/
+
+p.text404{
+	font-size:14px;
+	line-height:20px;
+}
+
+/*-------------------------------*/
+/*  　　 お問い合わせページ　    */
+/*-------------------------------*/
+
+div.ie6text{
+	display:none;
+}
+
+div.contact_box{
+	width:944px;
+	margin:30px 0 0 0;
+	padding:8px;
+	background-image:url(../../contact/images/bg.gif);
+	background-repeat:repeat-y;
+}
+
+div.contact_box_inner{
+	width:900px;
+	padding:22px; 
+	background-color:#ffffff;
+}
+
+p.contact_text01{
+	font-size:12px;
+	line-height:22px;
+}
+
+p.comp_text{
+	font-size:16px;
+	line-height:26px;
+	color:#2c2e7f;
+	font-weight:bold;
+	text-align:center;
+	padding:199px 0 197px 0;
+}
+
+span.contact_text02{
+	font-size:12px;
+	font-weight:normal;
+}
+
+div.form_box{
+	width:810px;
+	padding:26px 45px 45px 45px;
+	margin:21px 0 0 0;
+	background-color:#f2f6f8;
+}
+
+input.input01{
+	width:370px;
+	height:28px;
+	padding:2px 0 0 10px;
+	/height:20px;
+	/padding:10px 0 0 10px;
+	height:20px\9;
+	padding:10px 0 0 10px\9;
+	border:none;
+	/border-color:transparent;
+	background-image:url(../../contact/images/input_bg.gif);
+	background-repeat:no-repeat;
+}
+
+input.input02{
+	width:55px;
+	height:28px;
+	padding:2px 0 0 10px;
+	/height:20px;
+	/padding:10px 0 0 10px;
+	height:20px\9;
+	padding:10px 0 0 10px\9;
+	border:none;
+	/border-color:transparent;
+	background-image:url(../../contact/images/input_bg.gif);
+	background-repeat:no-repeat;
+}
+
+input.input03{
+	width:75px;
+	height:28px;
+	padding:2px 0 0 10px;
+	/height:20px;
+	/padding:10px 0 0 10px;
+	height:20px\9;
+	padding:10px 0 0 10px\9;
+	border:none;
+	/border-color:transparent;
+	background-image:url(../../contact/images/input_bg.gif);
+	background-repeat:no-repeat;
+}
+
+input.input04{
+	width:599px;
+	height:28px;
+	padding:2px 0 0 10px;
+	/height:20px;
+	/padding:10px 0 0 10px;
+	height:20px\9;
+	padding:10px 0 0 10px\9;
+	border:none;
+	/border-color:transparent;
+	background-image:url(../../contact/images/input_bg.gif);
+	background-repeat:no-repeat;
+}
+
+input.input05{
+	width:290px;
+	height:28px;
+	padding:2px 0 0 10px;
+	/height:20px;
+	/padding:10px 0 0 10px;
+	height:20px\9;
+	padding:10px 0 0 10px\9;
+	border:none;
+	/border-color:transparent;
+	background-image:url(../../contact/images/input_bg.gif);
+	background-repeat:no-repeat;
+}
+
+input.input06{
+	width:534px;
+	height:28px;
+	padding:2px 0 0 10px;
+	/height:20px;
+	/padding:10px 0 0 10px;
+	height:20px\9;
+	padding:10px 0 0 10px\9;
+	border:none;
+	/border-color:transparent;
+	background-image:url(../../contact/images/input_bg.gif);
+	background-repeat:no-repeat;
+}
+
+textarea.textarea{
+	width:599px;
+	height:140px;
+	padding:10px 0 0 10px;
+	/height:140px;
+	/padding:10px 0 0 10px;
+	margin:6px 0 0 0;
+	border:none;
+	/border-color:transparent;
+	background-image:url(../../contact/images/textarea_bg.gif);
+	background-repeat:no-repeat;
+}
+
+input.conf_btn{
+	text-indent:-9999px;
+	background-color:#ffffff;
+	display:block;
+	background-image:url(../../contact/images/conf_btn.gif);
+	background-repeat:no-repeat;
+	background-position:left top;
+	border:none;
+	border:hidden;
+	width:163px;
+	height:47px;
+	cursor:pointer;
+	margin:0;
+}
+
+input.reset_btn{
+	text-indent:-9999px;
+	background-color:#ffffff;
+	display:block;
+	background-image:url(../../contact/images/reset_btn.gif);
+	background-repeat:no-repeat;
+	background-position:left top;
+	border:none;
+	border:hidden;
+	width:163px;
+	height:47px;
+	cursor:pointer;
+	margin:0 0 0 20px;
+}
+
+input.submit_btn{
+	text-indent:-9999px;
+	background-color:#ffffff;
+	display:block;
+	background-image:url(../../contact/images/submit_btn.gif);
+	background-repeat:no-repeat;
+	background-position:left top;
+	border:none;
+	border:hidden;
+	width:163px;
+	height:47px;
+	cursor:pointer;
+	margin:0;
+}
+
+input.back_btn{
+	text-indent:-9999px;
+	background-color:#ffffff;
+	display:block;
+	background-image:url(../../contact/images/back_btn.gif);
+	background-repeat:no-repeat;
+	background-position:left top;
+	border:none;
+	border:hidden;
+	width:163px;
+	height:47px;
+	cursor:pointer;
+	margin:0 0 0 20px;
+}
+
+/*-------------------------------*/
+/*  　　 　企業情報ページ　      */
+/*-------------------------------*/
+
+div.side_box02{
+	width:188px;
+	height:377px;
+	padding:6px 6px 7px 6px;
+	margin:0 0 25px 0;
+	background-image:url(../../corporate/images/sidebtnbox_bg.gif);
+	background-repeat:no-repeat;
+}
+
+.corporate_text01{
+	font-size:14px;
+	line-height:24px;
+}
+
+.about_space01{
+	height:52px;
+}
+
+.about_space02{
+	padding-bottom:66px;
+}
+
+.about_text01{
+	font-size:14px;
+	font-weight:bold;
+	color:#003f97;
+}
+
+div.gmaplink a:link,
+div.gmaplink a:visited,
+div.gmaplink a:hover,
+div.gmaplink a:active{
+	text-decoration:none;
+}
+
+div.quality_box01{
+	width:720px;
+	height:690px;
+	background-image:url(../../corporate/quality/images/item01.gif);
+	background-repeat:no-repeat;
+	margin:25px 0 0 0;
+}
+
+.quality_space01{
+	padding-top:216px;
+}
+
+.quality_space02{
+	padding-top:213px;
+}
+
+.quality_space03,
+.quality_space04{
+	padding-top:25px;
+}
+
+.quality_space05{
+	padding-top:210px;
+}
+
+.quality_space06{
+	padding-top:80px;
+}
+
+.quality_space07{
+	padding-top:40px;
+	padding-left:25px;
+}
+
+.quality_space08{
+	padding-top:28px;
+	padding-left:25px;
+}
+
+.quality_space09{
+	padding-top:24px;
+	padding-left:25px;
+}
+
+.quality_space10{
+	padding-top:20px;
+	padding-left:115px;
+}
+
+.quality_space11{
+	padding-top:50px;
+	padding-left:25px;
+}
+
+.quality_space12{
+	padding-top:25px;
+	padding-left:25px;
+}
+
+.quality_space13{
+	padding-left:15px;
+	border-left:1px solid #cccccc;
+	margin:30px 0 0 450px;
+}
+
+div.quality_box02{
+	width:630px;
+	height:960px;
+	padding:0 0 0 90px;
+	background-image:url(../../corporate/quality/images/item02.gif);
+	background-repeat:no-repeat;
+	margin:40px 0 0 0;
+}
+
+.relation_space01{
+	height:17px;
+}
+
+.relation_space01_1{
+	height:22px;
+}
+
+.relation_space02{
+	height:36px;
+}
+
+.relation_space04{
+	height:110px;
+}
+
+.relation_space05{
+	height:54px;
+}
+
+.relation_space03{
+	padding-bottom:143px;
+}
+
+/*-------------------------------*/
+/*  　インフォメーションページ　 */
+/*-------------------------------*/
+
+div.infobtn01 a:link,
+div.infobtn01 a:visited,
+div.infobtn01 a:hover,
+div.infobtn01 a:active{
+	width:173px;
+	padding:12px 0 11px 25px;
+	color:#333333;
+	font-weight:bold;
+	border-top:1px solid #cccccc;
+	border-left:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+	text-decoration:none;
+	display:block;
+	background-color:#ffffff;
+}
+
+h3.news_title{
+	width:710px;
+	height:21px;
+	padding:4px 0 0 10px;
+	background-image:url(../../information/images/subbar01.gif);
+	background-repeat:no-repeat;
+	color:#333333;
+	font-weight:bold;
+}
+
+/*-------------------------------*/
+/*  　     業務案内ページ　      */
+/*-------------------------------*/
+
+div.power_box{
+	width:882px;
+	height:284px;
+	padding-left:40px;
+	padding-right:38px;
+	background-image:url(../../business/images/power_bg.jpg);
+	background-repeat:no-repeat;
+}
+
+div.opt_box{
+	width:882px;
+	height:258px;
+	padding-left:40px;
+	padding-right:38px;
+	background-image:url(../../business/images/opt_bg.jpg);
+	background-repeat:no-repeat;
+}
+
+.business_text01{
+	font-size:20px;
+	font-weight:bold;
+	color:#333333;
+}
+
+.example_box{
+	width:942px;
+	margin:30px 0 0 0;
+	padding:9px;
+	background-image:url(../../business/images/box_bg.gif);
+	background-repeat:repeat-y;
+}
+
+.ex_inner{
+	width:882px;
+	padding:26px 30px 30px 30px;
+	background-color:#fbfdfe;
+}

@@ -1,0 +1,2229 @@
+@charset "UTF-8";
+/*
+ * product/style.css
+ *
+ */
+
+
+/* /product/ common
+-------------------------------------------------------------- */
+.productList01 {
+	width: 710px;
+	overflow: hidden;
+}
+.productList01 ul {
+	width: 720px;
+	display: block;
+	min-height: 1%;
+	margin: -10px 0 40px;
+}
+.productList01 ul:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productList01 ul li {
+	float: left;
+	display: inline;
+	width: 343px;
+	margin: 0 10px 0 0;
+	background-color: #fff;
+}
+.productList01 ul li .lineUpH01 {
+	border: 1px solid #e1e1e1;
+	border-bottom: none;
+}
+.productList01 ul li .productListIn01 {
+	padding: 22px 15px 15px 15px;
+}
+.productList01 ul li figure {
+	border: 1px solid #dfdfdf;
+	margin-top: 22px;
+}
+.productList01 ul li .productTxt01 {
+	color: #666;
+	margin-top: 18px;
+}
+
+.productList01 ul li a {
+	display: block;
+	text-decoration: none;
+}
+.productList01 ul li a:hover figure img {
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+	zoom: 1;
+}
+
+.productList02 ul li{
+
+	float: left;
+	margin-right: 20px;
+	width: 338px;
+		
+}
+
+.productList02 ul li:nth-child(even){
+	margin-right: 0;
+}
+.productList02 ul li a{
+
+	display: block;
+	height: 48px;
+	border: 4px solid #ebebec;
+	line-height: 48px;
+	text-align: center;
+}
+
+.productList02 ul li a figure figcaption{
+	display: inline;
+	background: url(../images/ico_arrow03.gif) no-repeat 0 center;
+	padding-left: 18px;
+}
+
+
+.productBanner {
+	margin-top: 20px;
+}
+
+.productBanner a:hover img {
+	opacity: 0.8;
+}
+
+.exhibitionText{
+	color:#d42142;
+}
+
+
+/* productH3
+-------------------------------------------------------------- */
+.productH301 {
+	text-align: center;
+	font-size: 134%;
+	font-weight: bold;
+	color: #2359a4;
+}
+
+/* productH302 */
+.productH302 {
+	text-align: center;
+	font-size: 13px;
+	font-weight: bold;
+	color: #333;
+}
+.productH302 span {
+	display: block;
+	margin-top: 2px;
+	font-size: 18px;
+	color: #2359a4;
+	line-height: 1.3;
+	letter-spacing: -0.05em;
+}
+
+/* productBtn01
+-------------------------------------------------------------- */
+.productList01 ul li .productBtn01 {
+	background-color: #0058a8;
+	font-size: 117%;
+	text-align: center;
+}
+.productList01 ul li a .productBtn01 {
+	display: block;
+	padding: 10px 10px 6px;
+	color: #fff;
+}
+.productList01 ul li a:hover .productBtn01 {
+	background-color: #4e79b5;
+}
+
+/* productMainimgWrap
+-------------------------------------------------------------- */
+.productMainimgWrap {
+	margin-top: 7px;
+}
+.productMainimgBox01 {
+	position: relative;
+	width: 960px;
+}
+.productMainimgInfo01 {
+	position: absolute;
+	left: 40px;
+	top: 45px;
+}
+.productH201,
+.productMainimgTxt01 {
+	font-weight: bold;
+	letter-spacing: -0.03em;
+}
+.productH201 {
+	font-size: 250%;
+	line-height: 1.3;
+}
+.productMainimgTxt01 {
+	margin-top: 15px;
+	font-size: 134%;
+	line-height: 1.7;
+}
+
+/* productMainimgBox02
+-------------------------------------------------------------- */
+.productMainimgBox02 {
+	background-color: #fff;
+	border: 1px solid #e5e5e5;
+	border-top:none;
+	padding: 18px 20px 15px;
+}
+.productTitle01 {
+	background: url(../images/ico_product01.gif) left top no-repeat;
+	padding: 0 0 1px 26px;
+	font-size: 117%;
+	font-weight: bold;
+	color: #3259a4;
+}
+.productTxt01 {
+	margin-top: 7px;
+	color: #666;
+}
+
+/* productMainimgKasoWrap
+-------------------------------------------------------------- */
+.productMainimgKasoWrap {
+	border: 1px solid #e0e0e1;
+    border-bottom: none;
+}
+
+.productMainimgKasoBox01 {
+	width: 708px;
+	border-bottom: 1px solid #e0e0e1;
+	position: relative;
+}
+.productMainimgKasoInfo01 {
+	position: absolute;
+	left: 20px;
+	top: 44px;
+}
+.productMainimgKasoInfo02 {
+	position: absolute;
+	left: 20px;
+	top: 30px;
+}
+
+.productMainimgKasoInfo03 {
+	position: absolute;
+	left: 20px;
+	top: 44px;
+}
+.productKasoH201 {
+	font-size: 250%;	
+	font-weight: bold;
+	line-height: 1.3;
+	letter-spacing: -0.03em;
+	color: #2359a4;
+}
+.productKasoH201 span {
+	font-size: 54%;
+	margin-left: 10px;
+}
+.productMainimgKasoLogo01 {
+	margin-top: 2px;
+}
+.productMainimgKasoTxt01 {
+	margin-bottom: 5px;
+	font-size: 169%;	
+	font-weight: bold;
+	color: #2359a4;
+	line-height: 1.3;
+}
+.productMainimgKasoLogo02 li {
+	float: left;
+	height: 42px;
+	line-height: 42px;
+	margin-right: 10px;
+}
+.productMainimgKasoLogo02 li:last-child {
+	margin-right: 0;
+}
+.productMainimgKasoLogo02 li img {
+	vertical-align: middle;
+}
+
+
+
+/* productMainimgKasoBox02
+-------------------------------------------------------------- */
+.productMainimgKasoBox02 {
+	background-color: #fff;
+	padding: 18px 20px 15px;
+	border-bottom: 1px solid #e0e0e1;
+}
+
+/* productKasoTitle01 */
+.productKasoTitle01 {
+	font-size: 150%;
+	font-weight: bold;
+	color: #2359a4;
+	line-height: 1.3;
+	border-bottom: 1px solid #dfdfdf;
+}
+.productKasoTitle01 span {
+	display: inline-block;
+	border-bottom: 2px solid #2359a4;
+	padding-bottom: 5px;
+	margin-bottom: -1px;
+}
+
+/* productKasoTitle02 */
+.productKasoTitle02 {
+	font-size: 117%;
+	font-weight: bold;
+	color: #2359a4;
+	line-height: 1.3;
+	border-bottom: 1px solid #dfdfdf;
+	letter-spacing: -0.03em;
+}
+.productKasoTitle02 span {
+	display: inline-block;
+	border-bottom: 2px solid #2359a4;
+	padding-bottom: 5px;
+	margin-bottom: -1px;
+}
+.productKasoTitle02 span span {
+	display: inline;
+	border-bottom: none;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	font-size: 86%;
+}
+
+.productKasoTxt01 {
+    margin-top: 18px;
+	color: #666;
+}
+
+/* productMainimgKasoBox03
+-------------------------------------------------------------- */
+.productMainimgKasoBox03 {
+	display: table;
+	background: #fff;
+	width: 708px;
+	border-bottom: 1px solid #e0e0e1;
+}
+.productMainimgKasoBox03 figure {
+	display: table-cell;
+	width: 427px;
+	height: 228px;
+}
+.productMainimgKasoBox03 .exampleH301 {
+	display: table-cell;
+	font-size: 167%;
+	font-weight: bold;
+	vertical-align: middle;
+	width: 251px;
+	padding-left: 30px;
+}
+
+.productKasoList01 li {
+	margin-top: 20px;
+}
+
+/* productTabWrap
+-------------------------------------------------------------- */
+.productTabWrap {
+	margin-top: 20px;
+}
+
+/* productTabTitle */
+.productTabTitle {
+	border-bottom: 3px solid #3359a4;
+	display: block;
+	min-height: 1%;
+}
+.productTabTitle:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productTabTitle li {
+	float: left;
+	width: 130px;	
+	margin-right: 3px;
+	font-size: 117%;
+	text-align: center;
+}
+.productTabTitle li a {
+	display: block;
+	padding: 15px 5px 10px;
+	background-color: #fff;
+	border: 1px solid #dfdfdf;
+	border-bottom: none;
+	color: #666;
+	text-decoration: none;
+}
+.productTabTitle li a:hover {
+	background-color: #3359a4;
+	border: 1px solid #3359a4;
+	border-bottom: none;
+	color: #fff;
+}
+
+/* active */
+.productTabTitle li a.active {
+	background-color: #3359a4;
+	border: 1px solid #3359a4;
+	border-bottom: none;
+	color: #fff;
+}
+
+/* productTabContents
+-------------------------------------------------------------- */
+.productTabContents {
+	background-color: #fff;	
+	border: 1px solid #dfdfdf;
+	border-top: none;
+	padding: 15px 20px 20px;
+}
+.productTabContents p {
+	color: #666;
+}
+
+/* productTabH301 */
+.productTabH301 {
+	background: url(../images/ico_product02.gif) left 4px no-repeat;
+	padding: 0 0 0 22px;
+	margin-bottom: 15px;
+	font-size: 134%;
+	font-weight: bold;
+	color: #2359a4;
+	line-height: 1.3;
+}
+.productTabTxt01 {
+	color: #666;
+}
+.productTabTxt02 {
+	color: #666;
+	margin-top: 20px;
+}
+
+/* productTabBox01 */
+.productTabBox01 {
+	margin-bottom: 30px;
+}
+.productTabBox01:last-child {
+	margin-bottom: 0;
+}
+
+/* productTabImg01 */
+.productTabImg01 img {
+	border: 1px solid #e0e0e0;
+}
+
+/* productTabList01 */
+.productTabList01 li {
+	background: url(../images/ico_square01.gif) left 6px no-repeat;
+	padding-left: 7px;
+	margin-bottom: 3px;
+	color: #666;
+}
+.productTabList01 li:last-child {
+	margin-bottom: 0;
+}
+
+/* productTabList02 */
+.productTabList02 {
+	float: left;
+}
+.productTabList02 li {
+	background: url(../images/ico_square01.gif) left 6px no-repeat;
+	padding-left: 7px;
+	margin-bottom: 3px;
+	color: #666;
+}
+.productTabList02 li:last-child {
+	margin-bottom: 0;
+}
+
+/* productTabList03 */
+.productTabList03 {
+	margin-top: 15px;
+}
+.productTabList03 ol {
+	margin: -5px 0 0 0;
+	display: block;
+	min-height: 1%;
+}
+.productTabList03 ol:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productTabList03 ol li {
+	float: left;
+	width: 310px;
+	margin: 5px 10px 0 3px;
+	color: #666;
+}
+.productTabList03 ol li:last-child {
+	margin-bottom: 0;
+}
+
+/* productTabList04 */
+.productTabList04 {
+	margin: 40px 0 0 37px;
+}
+
+.productTabList04 figure {
+	float: left;
+	width: 165px;
+	margin-right: 50px;
+}
+
+.productTabList04 figure.last {
+	margin-right: 0;
+}
+.productTabList04 figcaption {
+	color: #666;
+	font-size: 93%;
+	line-height: 1.3;
+	margin-top: 5px;
+}
+
+/* productTabSafety */
+.productTabSafety {
+	display: block;
+	min-height: 1%;
+}
+.productTabSafety:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+/* productTabImg02 */
+.productTabImg02 {
+	float: right;
+}
+.productTabImg02 img {
+	border: 1px solid #e0e0e0;
+}
+
+.w252 {	width: 252px;}
+.w380 {	width: 380px;}
+
+.productTabContents .productTabLineupTxt01 {
+	font-weight: bold;
+	color: #2359a4;
+}
+
+/* tableProduct01
+-------------------------------------------------------------- */
+.tableProduct01 {
+	width: 100%;
+	border-top: 1px solid #e1e1e1;
+	border-left: 1px solid #e1e1e1;
+	margin-top: 5px;
+	table-layout: fixed;
+}
+.tableProduct01 th,
+.tableProduct01 td {
+	padding: 10px;
+	border-bottom: 1px solid #e1e1e1;
+	border-right: 1px solid #e1e1e1;
+	text-align: center;
+	vertical-align: middle;
+	color: #666;
+}
+.tableProduct01 th {
+	background-color: #f8f8fb;
+	font-weight: bold;
+}
+.tableProduct01 td.bg01 {
+	background-color: #f9f9f9;
+}
+
+.tableProduct01 .colW01 { width: 20%;}
+.tableProduct01 .colW02 { width: 12%;}
+.tableProduct01 .colW03 { width: 17%;}
+.tableProduct01 .colW04 { width: 68%;}
+.tableProduct01 .colW05 { width: 34%;}
+.tableProduct01 .colW06 { width: 26%;}
+.tableProduct01 .colW07 { width: 37%;}
+
+/* tableProduct02
+-------------------------------------------------------------- */
+.tableProduct02 {
+	width: 100%;
+	border-top: 1px solid #e1e1e1;
+	border-left: 1px solid #e1e1e1;
+	margin-top: 5px;
+}
+.tableProduct02 th,
+.tableProduct02 td {
+	padding: 10px;
+	border-bottom: 1px solid #e1e1e1;
+	border-right: 1px solid #e1e1e1;
+	text-align: left;
+	vertical-align: middle;
+	color: #666;
+}
+.tableProduct02 th {
+	background-color: #f8f8fb;
+	font-weight: bold;
+}
+.tableProduct02 td.bg01 {
+	background-color: #f9f9f9;
+}
+
+.tableProduct02 td.tdList01 {
+	padding: 0 0 0 0;
+}
+.tableProduct02 td ul li span {
+	margin-left: 10px;
+	padding: 10px 0;
+	display: block;
+	border-bottom: 1px solid #e1e1e1;
+}
+.tableProduct02 td ul li:last-child span {
+	border-bottom: none;
+}
+.tableProduct02 td.tdList01 ul li:nth-child(odd) {
+	background-color: #f9f9f9;
+}
+
+.tableProduct02 .colW01 { width: 27%;}
+.tableProduct02 .colW02 { width: 46%;}
+
+/* productTabDrawingList01
+-------------------------------------------------------------- */
+.productTabDrawingList01 li {
+	margin-bottom: 15px;
+}
+.productTabDrawingList01 li:last-child {
+	margin-bottom: 0;
+}
+.productTabDrawingList01 li figure img {
+	border: 1px solid #e1e1e1;
+}
+
+/* productTabDrawingList02
+-------------------------------------------------------------- */
+.productTabDrawingList02 li {
+	margin-bottom: 15px;
+	display: block;
+	min-height: 1%;
+}
+.productTabDrawingList02 li:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productTabDrawingList02 li:last-child {
+	margin-bottom: 0;
+}
+.productTabDrawingList02 li figure {
+	float: left;
+}
+.productTabDrawingList02 li figure img {
+	border: 1px solid #e1e1e1;
+}
+
+/* productTabNotes01
+-------------------------------------------------------------- */
+.productTabNotesBox01 {	
+	border: 3px solid #eee9e0;
+	background-color: #f9f7f3;
+	margin-top: 40px;
+	padding: 20px 25px;
+}
+
+/* productTabNotesH401 */
+.productTabNotesH401 {
+	text-align: center;
+}
+.productTabNotesH401 span {
+	display: inline-block;
+	background: url(../images/ico_product_notes01.png) left 2px no-repeat;
+	padding: 0 0 1px 25px;
+	font-size: 134%;
+	font-weight: bold;
+	color: #d1860b;
+	line-height: 1.3;
+}
+
+/* productTabNotes01 */
+.productTabNotes01 li {
+	margin-top: 12px;
+	font-size: 109%;
+	color: #666;
+}
+
+/* productTabNotesBtn01 */
+.productTabNotesBtn01 {
+	margin-top: 25px;
+	height: 172px;
+}
+.productTabNotesBtn01 a {
+	background: url(../images/btn_product_download01_bg.gif) no-repeat 0 0;
+	width: 503px;
+	height: 172px;
+	display: block;
+	position: relative;
+	margin: 0 auto;
+}
+.productTabNotesBtn01 a:hover {
+	background: url(../images/btn_product_download01_bg_on.gif) no-repeat 0 0;
+	width: 503px;
+	height: 167px;
+	top: 5px;
+}
+
+/* productTabNotesTxt01 */
+.productTabNotesTxt01 {
+	color: #666;
+	margin-top: 15px;
+}
+
+/* LED
+-------------------------------------------------------------- */
+.productMainimgSeriesBox01 {
+	width: 708px;
+	border-bottom: 1px solid #e0e0e1;
+	position: relative;
+	min-height: 147px;
+}
+.productMainimgSeriesBoxIn01 {
+	position: absolute;
+	top: 30px;
+	left: 20px;
+}
+.productMainimgSeriesBoxIn02 {
+	position: absolute;
+	top: 45px;
+	left: 20px;
+}
+.productMainimgSeriesBoxIn03 {
+	position: absolute;
+	top: 60px;
+	left: 20px;
+}
+
+.productSeriesH201 {
+	font-size: 250%;	
+	font-weight: bold;
+	line-height: 1.3;
+	letter-spacing: -0.03em;
+	color: #2359a4;
+}
+.productSeriesH201 span {
+	font-size: 60%;
+	margin-left: 0.5em;
+}
+
+.productSeriesTitle01 {
+	font-size: 169%;
+	font-weight: bold;
+	line-height: 1.3;
+	color: #2359a4;
+}
+
+/* productMainimgSeriesBox02 */
+.productMainimgSeriesBox02 {
+	width: 708px;
+	position: relative;
+	min-height: 147px;
+}
+
+/* productTabTitle01 */
+.productTabContents .productTabTitle01 {
+	margin-bottom: 6px;
+	font-size: 117%;
+	font-weight: bold;
+	line-height: 1.3;
+	color: #3259a4;
+}
+
+/* productTabBorder01 */
+.productTabBorder01 {
+	border: 1px solid #dfdfdf;
+}
+
+/* ul_link01 */
+.ul_link01 {
+	margin-top: 3px;
+}
+.ul_link01 li {
+	background: url(../images/ico_link_arrow01.gif) left 2px no-repeat;
+	padding-left: 17px;
+	display: inline-block;
+	margin-right: 20px;
+}
+
+/* LED table01
+-------------------------------------------------------------- */
+.tableLineUp01 {
+	width: 100%;
+	border-top: 1px solid #e1e1e1;
+	border-left: 1px solid #e1e1e1;
+	margin-top: 5px;
+}
+.tableLineUp01 th,
+.tableLineUp01 td {
+	padding: 10px;
+	border-bottom: 1px solid #e1e1e1;
+	border-right: 1px solid #e1e1e1;
+	text-align: center;
+	vertical-align: middle;
+	color: #666;
+}
+.tableLineUp01 th {
+	background-color: #f8f8fb;
+	font-weight: bold;
+}
+.tableLineUp01 td {
+	background-color: #fff;
+}
+.tableLineUp01 td.bg01 {
+	background-color: #f9f9f9;
+}
+
+.tableLineUp01.narrow th,
+.tableLineUp01.narrow td {
+	padding: 5px 10px 3px;
+}
+
+.tableLineUp01.narrow02 th,
+.tableLineUp01.narrow02 td {
+	padding: 10px 3px 10px;
+}
+.tableLineUp01.narrow02 td.space01 {
+	padding: 10px 5px 10px 10px;
+}
+.tableLineUp01 .colW2per { width: 2%;}
+.tableLineUp01 .colW5per { width: 5%;}
+.tableLineUp01 .colW8per { width: 8%;}
+.tableLineUp01 .colW9per { width: 9%;}
+.tableLineUp01 .colW10per { width: 10%;}
+.tableLineUp01 .colW11per { width: 11%;}
+.tableLineUp01 .colW12per { width: 12%;}
+.tableLineUp01 .colW13per { width: 13%;}
+.tableLineUp01 .colW14per { width: 14%;}
+.tableLineUp01 .colW15per { width: 15%;}
+.tableLineUp01 .colW16per { width: 16%;}
+.tableLineUp01 .colW17per { width: 17%;}
+.tableLineUp01 .colW18per { width: 18%;}
+.tableLineUp01 .colW19per { width: 19%;}
+.tableLineUp01 .colW20per { width: 20%;}
+.tableLineUp01 .colW21per { width: 21%;}
+.tableLineUp01 .colW22per { width: 22%;}
+.tableLineUp01 .colW23per { width: 23%;}
+.tableLineUp01 .colW24per { width: 24%;}
+.tableLineUp01 .colW25per { width: 25%;}
+.tableLineUp01 .colW26per { width: 26%;}
+.tableLineUp01 .colW27per { width: 27%;}
+.tableLineUp01 .colW28per { width: 28%;}
+.tableLineUp01 .colW29per { width: 29%;}
+.tableLineUp01 .colW30per { width: 30%;}
+.tableLineUp01 .colW31per { width: 31%;}
+.tableLineUp01 .colW32per { width: 32%;}
+.tableLineUp01 .colW33per { width: 33%;}
+.tableLineUp01 .colW34per { width: 34%;}
+.tableLineUp01 .colW35per { width: 35%;}
+.tableLineUp01 .colW40per { width: 40%;}
+.tableLineUp01 .colW45per { width: 45%;}
+.tableLineUp01 .colW50per { width: 50%;}
+
+
+.tableLineUp01 .colW160px { width: 160px;}
+.tableLineUp01 .colW126px { width: 126px;}
+.tableLineUp01 .colW127px { width: 127px;}
+.tableLineUp01 .colW130px { width: 130px;}
+
+
+.productW210px { width: 210px;}
+.productW230px { width: 230px;}
+.productW240px { width: 240px;}
+.productW250px { width: 250px;}
+.productW300px { width: 300px;}
+.productW390px { width: 390px;}
+.productW400px { width: 400px;}
+.productW420px { width: 420px;}
+.productW429px { width: 429px;}
+.productW430px { width: 430px;}
+.productW470px { width: 470px;}
+.productW542px { width: 542px;}
+
+/* productTableLayoutBox01
+-------------------------------------------------------------- */
+.productTableLayoutBox01 {
+	display: block;
+	min-height: 1%;
+}
+.productTableLayoutBox01:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productTableLayoutBox01 .productW240px {
+	float: left;
+	display: inline;
+}
+
+/* productTableLayoutTit01 */
+.productTabContents .productTableLayoutTit01 {
+	margin-bottom: 10px;
+	font-size: 117%;
+	font-weight: bold;
+	color: #2359a4;
+}
+.productTableLayoutTit01 span {
+	margin-right: 8px;
+	background-color: #2359a4;
+	padding: 3px 8px 1px;
+	font-size: 100%;
+	font-weight: normal;
+	color: #fff;
+}
+
+/* productTableLayoutTxt01 */
+.productTableLayoutTxt01 span {
+	margin-left: 15px;
+}
+
+/* productTableLayoutBox02
+-------------------------------------------------------------- */
+.productTableLayoutBox02 {
+	margin-top: 50px;
+}
+.productTableLayoutBoxIn02 {
+	display: block;
+	min-height: 1%;
+}
+.productTableLayoutBoxIn02:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+/* /product/led/model
+-------------------------------------------------------------- */
+.productTabModelBox01 {
+	position: relative;
+	width: 667px;
+}
+.productTabContents .productIcoNo01,
+.productTabContents .productIcoNo02,
+.productTabContents .productIcoNo03,
+.productTabContents .productIcoNo04,
+.productTabContents .productIcoNo05,
+.productTabContents .productIcoNo06 {
+	font-weight: bold;
+	color: #666;
+}
+
+.productIcoNo01 {
+	background: url(../images/ico_no01.gif) left top no-repeat;
+	padding: 2px 0 0 22px;
+}
+.productIcoNo02 {
+	background: url(../images/ico_no02.gif) left top no-repeat;
+	padding: 2px 0 0 22px;
+}
+.productIcoNo03 {
+	background: url(../images/ico_no03.gif) left top no-repeat;
+	padding: 2px 0 0 22px;
+}
+.productIcoNo04 {
+	background: url(../images/ico_no04.gif) left top no-repeat;
+	padding: 2px 0 0 22px;
+}
+.productIcoNo05 {
+	background: url(../images/ico_no05.gif) left top no-repeat;
+	padding: 2px 0 0 22px;
+}
+.productIcoNo06 {
+	background: url(../images/ico_no06.gif) left top no-repeat;
+	padding: 2px 0 0 22px;
+}
+
+.productTabModelList01 {
+	margin-left: 22px;
+}
+.productTabModelList01 li {
+	color: #666;
+}
+.productTabModelList01 li span.one_em {
+	display: inline-block;
+    *display: inline;
+    *zoom: 1;
+	width: 1em;
+	padding-right: 10px;
+}
+.productTabModelList01 li span.two_em {
+	display: inline-block;
+    *display: inline;
+    *zoom: 1;
+	width: 2em;
+	padding-right: 10px;
+}
+.productTabModelList01 li span.three_em {
+	display: inline-block;
+    *display: inline;
+    *zoom: 1;
+	width: 3em;
+	padding-right: 10px;
+}
+.productTabModelList01 li span.four_em {
+	display: inline-block;
+    *display: inline;
+    *zoom: 1;
+	width: 4em;
+	padding-right: 10px;
+}
+.productTabModelFcaption01 {
+	display: block;
+	color: #666;
+	font-size: 116%;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+/* productIcoRedNo01 */
+.productTabContents .productIcoRedNo01,
+.productTabContents .productIcoRedNo02,
+.productTabContents .productIcoRedNo03,
+.productTabContents .productIcoRedNo04 {
+	font-weight: bold;
+	color: #666;
+}
+
+.productIcoRedNo01 {
+	background: url(../images/ico_nor01.gif) left top no-repeat;
+	padding: 2px 0 0 22px;
+}
+.productIcoRedNo02 {
+	background: url(../images/ico_nor02.gif) left top no-repeat;
+	padding: 2px 0 0 22px;
+}
+.productIcoRedNo03 {
+	background: url(../images/ico_nor03.gif) left top no-repeat;
+	padding: 2px 0 0 22px;
+}
+.productIcoRedNo04 {
+	background: url(../images/ico_nor04.gif) left top no-repeat;
+	padding: 2px 0 0 22px;
+}
+
+/* /product/led/btn
+-------------------------------------------------------------- */
+.productTabmarkList01 {
+	display: table;
+}
+.productTabmarkList01 li {
+	display: table-cell;
+	text-align: left;
+	vertical-align: middle;
+}
+.productTabmarkBtn01 {
+	padding-left: 25px;
+}
+.productTabmarkBtn01 span {
+	background: url(../images/ico_hatena01.png) left center no-repeat;
+	padding-left: 15px;
+	font-size: 92%;
+	font-weight: bold;
+}
+
+
+/* /product/led/Panel
+-------------------------------------------------------------- */
+.productTabPanelListBox01,
+.productTabPanelListInfo01 li,
+.productTabPanelListInfo02 li {
+	display: block;
+	min-height: 1%;
+}
+.productTabPanelListBox01:after,
+.productTabPanelListInfo01 li:after,
+.productTabPanelListInfo02 li:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.productTabPanelList01 {
+	float: left;
+	width: 260px;
+	margin-right: 20px;
+	display: inline;
+}
+.productTabPanelList02 {
+	float: left;
+	width: 280px;
+}
+.productTabPanelList03 {
+	float: right;
+	width: 280px;
+}
+
+.productTabPanelBox01 {
+	border: 1px solid #dfdfdf;
+	padding: 21px;
+}
+.productTabPanelBoxIn01 {
+	border-top: 1px solid #dfdfdf;
+	padding-top: 20px;
+}
+.productTabPanelListInfo01 {
+	margin-top: 15px;
+}
+.productTabPanelListInfo01 li,
+.productTabPanelListInfo03 li {
+	margin-bottom: 10px;
+}
+.productTabPanelListInfo01 li:last-child,
+.productTabPanelListInfo03 li:last-child {
+	margin-bottom: 0;
+}
+
+.productTabPanelListInfo01 li .number,
+.productTabPanelListInfo03 li .number {
+	float: left;
+	margin-right: 3px;
+}
+.productTabPanelListInfo01 li .text,
+.productTabPanelListInfo03 li .text {
+	overflow: hidden;
+	display: block;
+	_zoom: 1;
+}
+
+.productTabPanelImg01 {
+	float: right;
+	padding-right: 130px;
+}
+
+.productTabPanelImg02 {
+	float: right;
+	padding-right: 100px;
+}
+
+/* productTabPanelListInfo02 */
+.productTabPanelListInfo02 {
+	margin-top: 5px;
+}
+.productTabPanelListInfo02 li {
+	margin-bottom: 5px;
+	color: #666;
+}
+.productTabPanelListInfo02 li:last-child {
+	margin-bottom: 0;
+}
+
+.productTabPanelListInfo02 li .detail01 {
+	float: left;
+	margin-right: 3px;
+}
+.productTabPanelListInfo02 li .detail02 {
+	overflow: hidden;
+	display: block;
+	_zoom: 1;
+}
+
+/* productTabPanelTableBox01 */
+.productTabPanelTableBox01 {
+	margin-top: 30px;
+}
+
+/* productTabPanelTableBoxIn01 */
+.productTabPanelTableBoxIn01 {
+	display: block;
+	min-height: 1%;
+}
+.productTabPanelTableBoxIn01:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productTabPanelTableBoxIn01 .productW240px {
+	float: left;
+	margin-right: 45px;
+	display: inline;
+}
+
+/* productTabPanelTxt01 */
+.productTabPanelTxt01 span {
+	margin-left: 20px;
+}
+
+/* productTabPanelFcaption01 */
+.productTabPanelFcaption01 {
+	color: #666;
+	text-align: center;
+	margin-top: 3px;
+}
+
+/* /product/led/ productTabReatureList01
+-------------------------------------------------------------- */
+.productTabReatureList01 {
+	border-bottom: 1px solid #dfdfdf;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+	display: block;
+	min-height: 1%;
+}
+.productTabReatureList01:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productTabReatureList01 li {
+	float: left;
+	width: 203px;
+	margin-right: 20px;
+	display: inline;
+}
+.productTabReatureList01 li:last-child {
+	margin-right: 0;
+}
+
+/* /product/led/ productTabFeatureBox01
+-------------------------------------------------------------- */
+.productTabFeatureBox01 {
+	display: block;
+	min-height: 1%;
+}
+.productTabFeatureBox01:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productTabFeatureBoxIn01 {
+	float: left;
+}
+.productTabFeatureBox01 figure {
+	float: right;
+}
+
+.productTabFeatureBox01 .w260px { width: 260px;}
+.productTabFeatureBox01 .w282px { width: 282px;}
+.productTabFeatureBox01 .w310px { width: 310px;}
+
+
+
+/* No.16 /product/led/
+-------------------------------------------------------------- */
+.ledH301 {
+	font-size: 150%;
+	font-weight: bold;
+	color: #2359a4;
+	line-height: 1.3;
+	border-bottom: 3px solid #dfdfdf;
+	margin-bottom: 30px;
+}
+.ledH301 span {
+	display: inline-block;
+	border-bottom: 3px solid #2359a4;
+	padding-bottom: 5px;
+	margin-bottom: -3px;
+}
+
+/* productLedList01 */
+.productLedList01 {
+	width: 710px;
+	overflow: hidden;
+}
+.productLedList01 ul {
+	width: 720px;
+	margin-top: -15px;
+	display: block;
+	min-height: 1%;
+}
+.productLedList01 ul:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productLedList01 ul li {
+	float: left;
+	display: inline;
+	width: 230px;
+	margin: 15px 10px 0 0;
+	background-color: #fff;
+}
+
+.productLedList01 ul li .lineUpH01 {
+	border: 1px solid #e1e1e1;
+	border-bottom: none;
+}
+.productLedList01 ul li .new {
+	background: url(../images/ico_new01.gif) no-repeat right 0;
+}
+.productLedList01 ul li .productListIn01 {
+	padding: 22px 15px 15px 15px;
+}
+
+.productLedList01 ul li .productListIn01 .kdc{
+	margin-top: -9px;
+	margin-bottom: -10px;
+}
+
+.productLedList01 ul li .productListIn01 .xenon_to_led{
+	margin-top: -23px;
+
+
+}
+
+.productLedList01 ul li figure {
+	border: 1px solid #dfdfdf;
+	margin-top: 22px;
+	text-align: center;
+}
+
+.productLedList01 ul li .productTxt01 {
+	color: #666;
+	margin-top: 7px;
+}
+
+.productLedList01 ul li a {
+	display: block;
+	text-decoration: none;
+}
+.productLedList01 ul li a:hover figure img {
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+	zoom: 1;
+}
+
+/* productLedList02 */
+.productLedList02 ul {
+	display: block;
+	min-height: 1%;
+}
+.productLedList02 ul:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.productLedList02 {
+	overflow: hidden;
+	width: 710px;
+}
+.productLedList02 ul {
+	width: 720px;
+	margin-top: -10px;
+}
+.productLedList02 ul li {
+	float: left;
+	width: 348px;
+	margin: 10px 10px 0 0;
+	display: inline;
+	border: 1px solid #dfdfdf;
+	font-size: 134%;
+	font-weight: bold;
+	text-align: center;
+	position: relative;
+}
+.productLedList02 ul li a {
+	display: block;
+	padding: 18px 10px 15px;
+	text-decoration: none;
+	background-color: #fff;
+}
+.productLedList02 ul li a:hover {
+	background-color: #0058a8;
+	color: #fff;
+}
+.productLedList02 ul li a span {
+	position: absolute;
+	top: 3px;
+	right: 3px;	
+}
+
+
+
+
+/* productBtn01 */
+.productLedList01 ul li .productBtn01 {
+	background-color: #0058a8;
+	font-size: 117%;
+	text-align: center;
+}
+.productLedList01 ul li a .productBtn01 {
+	display: block;
+	padding: 10px 10px 6px;
+	color: #fff;
+}
+.productLedList01 ul li a:hover .productBtn01 {
+	background-color: #4e79b5;
+}
+
+/* productTxtColor01 */
+.productTxtColor01 {
+	color: #b62643;
+}
+
+/* No.1 /product/led/rgb/
+-------------------------------------------------------------- */
+.productRgbList01,
+.productRgbList02 {
+	margin: 0 auto;
+}
+.productRgbList02 {
+	width: 497px;
+}
+.productRgbList01 li,
+.productRgbList02 li {
+	float: left;
+	width: 151px;
+	margin-right: 21px;
+}
+.productRgbList01 li:last-child,
+.productRgbList02 li:last-child {
+	margin-right: 0;
+}
+
+.productRgbList01 figure figcaption,
+.productRgbList02 figure figcaption {
+	display: block;
+	color: #666;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 3px;
+}
+
+/* No.18 /product/led/kddb2/
+-------------------------------------------------------------- */
+.productTabModel01Txt01 {
+	position: absolute;
+	right: 45px;
+	bottom: 20px;
+	font-weight: bold;
+	color: #666;
+}
+.productTabModel02No01 {
+	position: absolute;
+	left: 18px;
+	top: 121px;
+}
+.productTabModel02No02 {
+	position: absolute;
+	left: 148px;
+	top: 121px;
+}
+.productTabModel02No03 {
+	position: absolute;
+	left: 276px;
+	top: 121px;
+}
+
+/* No.24 /product/led/kdfv2/
+-------------------------------------------------------------- */
+.productFeatureBox01 {
+	display: block;
+	min-height: 1%;
+}
+.productFeatureBox01:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.productFeatureBoxIn01 {
+	float: left;
+	width: 474px;
+}
+
+.tableFeature01 {
+	width: 100%;
+	border-top: 1px solid #dfdfdf;
+	border-left: 1px solid #dfdfdf;
+}
+.tableFeature01 th,
+.tableFeature01 td {
+	padding: 7px 10px 5px;
+	border-bottom: 1px solid #dfdfdf;
+	border-right: 1px solid #dfdfdf;
+	text-align: left;
+	vertical-align: middle;
+	color: #666;
+	line-height: 1.3;
+}
+.tableFeature01 th {
+	background-color: #f8f8fb;
+	font-weight: bold;
+}
+.tableFeature01 th.space01 {
+	text-align: center;
+	padding: 5px 5px 2px;
+}
+.tableFeature01 td {
+	background-color: #fff;
+}
+
+.tableFeature01 .colW28per { width: 28%;}
+.tableFeature01 .colW12per { width: 12%;}
+.tableFeature01 .colW60per { width: 60%;}
+
+.productFeatureBox01 figure {
+	float: right;
+	width: 165px;
+}
+
+/* No.28 /product/led/pl_plh2_plh3/
+-------------------------------------------------------------- */
+.productTabLinkBox01 {
+	margin-top: 20px;
+	display: block;
+	min-height: 1%;
+}
+.productTabLinkBox01:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.productTabLinkBox01 figure {
+	float: left;
+	display: inline;
+	margin-right: 30px;
+}
+.productTabLinkBox01 .productTabLinkBoxIn01 {
+	overflow: hidden;
+}
+.productTabLinkBoxTitle01 {
+	margin-top: 15px;
+	font-size: 109%;
+	font-weight: bold;
+	color: #666;
+}
+
+.productTabLinkBoxBtn01 {
+	display: inline-block;
+	border: 1px solid #dfdfdf;	
+	margin-top: 5px;
+}
+.productTabLinkBoxBtn01 a {
+	display: block;
+	background-color: #2359a4;
+	color: #fff;
+	padding: 8px 8px 6px 10px;
+	text-decoration: none;
+}
+.productTabLinkBoxBtn01 a span {
+	background: url(../images/ico_link_arrow02.png) right center no-repeat;
+	padding-right: 26px;
+	font-size: 109%;
+	line-height: 1.3;
+}
+.productTabLinkBoxBtn01 a:hover {
+	background-color: #4f7ab6;
+}
+
+
+/* No.17 /product/led/kdpl/
+-------------------------------------------------------------- */
+.productTabModel01No01 {
+	position: absolute;
+	left:18px;
+	top:121px;
+}
+.productTabModel01No02 {
+	position: absolute;
+	left:205px;
+	top:121px;
+}
+.productTabModel01No03 {
+	position: absolute;
+	left:18px;
+	top:250px;
+}
+.productTabModel01No04 {
+	position: absolute;
+	left:205px;
+	top:250px;
+}
+
+
+/* No.19 /product/led/kddb2_q/
+-------------------------------------------------------------- */
+.productTabModel03No01 {
+	position: absolute;
+	left:18px;
+	top:121px;
+}
+.productTabModel03No02 {
+	position: absolute;
+	left:148px;
+	top:121px;
+}
+.productTabModel03No03 {
+	position: absolute;
+	left:276px;
+	top:121px;
+}
+
+
+/* No.20 /product/led/kddl3/
+-------------------------------------------------------------- */
+.productTabModel04No01 {
+	position: absolute;
+	left:18px;
+	top:115px;
+}
+.productTabModel04No02 {
+	position: absolute;
+	left:230px;
+	top:115px;
+}
+.productTabModel04No03 {
+	position: absolute;
+	left:390px;
+	top:115px;
+}
+
+
+/* No.21 /product/led/kddr_p/
+-------------------------------------------------------------- */
+.productTabModel05No01 {
+	position: absolute;
+	left:93px;
+	top:121px;
+}
+.productTabModel05No02 {
+	position: absolute;
+	left:283px;
+	top:121px;
+}
+.productTabModel05No03 {
+	position: absolute;
+	left:510px;
+	top:121px;
+}
+
+
+/* No.22 /product/led/kddr2/
+-------------------------------------------------------------- */
+.productTabModel06No01 {
+	position: absolute;
+	left:58px;
+	top:121px;
+}
+.productTabModel06No02 {
+	position: absolute;
+	left:254px;
+	top:121px;
+}
+.productTabModel06No03 {
+	position: absolute;
+	left:58px;
+	top:220px;
+}
+.productTabModel06No04 {
+	position: absolute;
+	left:254px;
+	top:220px;
+}
+
+
+/* No.23 /product/led/kddr2_la/
+-------------------------------------------------------------- */
+.productTabModel07No01 {
+	position: absolute;
+	left:110px;
+	top:121px;
+}
+.productTabModel07No02 {
+	position: absolute;
+	left:310px;
+	top:121px;
+}
+.productTabModel07No03 {
+	position: absolute;
+	left:110px;
+	top:221px;
+}
+.productTabModel07No04 {
+	position: absolute;
+	left:310px;
+	top:221px;
+}
+
+
+/* No.28 /product/led/pl_plh2_plh3/
+-------------------------------------------------------------- */
+.productTabModel08No01 {
+	position: absolute;
+	left: 48px;
+	top: 125px;
+}
+.productTabModel08No02 {
+	position: absolute;
+	left: 227px;
+	top: 125px;
+}
+.productTabModel08No03 {
+	position: absolute;
+	left: 470px;
+	top: 125px;
+}
+
+
+/* No.29 /product/led/pls2_pls3_plsf/
+-------------------------------------------------------------- */
+.productTabModel09No01 {
+	position: absolute;
+	left: 205px;
+	top: 125px;
+}
+.productTabModel09No02 {
+	position: absolute;
+	left: 382px;
+	top: 125px;
+}
+
+
+/* No.30 /product/led/lfm-15w/
+-------------------------------------------------------------- */
+.productTabModel10No01 {
+	position: absolute;
+	left: 440px;
+	top: 45px;
+}
+
+
+/* No.33 /product/led/ir/
+-------------------------------------------------------------- */
+.productTabModel11No01 {
+	position: absolute;
+	left:50px;
+	top:130px;
+}
+.productTabModel11No02 {
+	position: absolute;
+	left:230px;
+	top:130px;
+}
+.productTabModel11No03 {
+	position: absolute;
+	left:440px;
+	top:130px;
+}
+
+
+/* No.34 /product/led/uv/
+-------------------------------------------------------------- */
+.productTabModel12No01 {
+	position: absolute;
+	left:140px;
+	top:130px;
+}
+.productTabModel12No02 {
+	position: absolute;
+	left:335px;
+	top:130px;
+}
+
+
+/* No.35 /product/led/r_box/
+-------------------------------------------------------------- */
+.productTabModel13No01 {
+	position: absolute;
+	left:506px;
+	top:50px;
+}
+
+
+/* No.36 /product/led/lek/
+-------------------------------------------------------------- */
+.productTabModel14No01 {
+	position: absolute;
+	left:70px;
+	top:143px;
+}
+.productTabModel14No02 {
+	position: absolute;
+	left:258px;
+	top:143px;
+}
+.productTabModel14No03 {
+	position: absolute;
+	left:448px;
+	top:143px;
+}
+.productTabModel14No04 {
+	position: absolute;
+	left:70px;
+	top:265px;
+}
+.productTabModel14No05 {
+	position: absolute;
+	left:258px;
+	top:265px;
+}
+.productTabModel14No06 {
+	position: absolute;
+	left:448px;
+	top:265px;
+}
+
+
+/* No.37 /product/led/lda/
+-------------------------------------------------------------- */
+.productTabModel15No01 {
+	position: absolute;
+	left:160px;
+	top:145px;
+}
+.productTabModel15No02 {
+	position: absolute;
+	left:370px;
+	top:145px;
+}
+.productTabModel15No03 {
+	position: absolute;
+	left:160px;
+	top:240px;
+}
+.productTabModel15No04 {
+	position: absolute;
+	left:370px;
+	top:240px;
+}
+
+
+/* No.38 /product/led/lfa/
+-------------------------------------------------------------- */
+.productTabModel16No01 {
+	position: absolute;
+	left:73px;
+	top:137px;
+}
+.productTabModel16No02 {
+	position: absolute;
+	left:258px;
+	top:137px;
+}
+.productTabModel16No03 {
+	position: absolute;
+	left:447px;
+	top:137px;
+}
+
+
+/* No.39 /product/led/lla/
+-------------------------------------------------------------- */
+.productTabModel20No01 {
+	position: absolute;
+	left:320px;
+	top:39px;
+}
+.productTabModel20No02 {
+	position: absolute;
+	left:450px;
+	top:39px;
+}
+
+
+/* No.42 /product/led/cable/
+-------------------------------------------------------------- */
+.productCableList01 li {
+	margin-bottom: 20px;
+	display: block;
+	min-height: 1%;
+}
+.productCableList01 li:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productCableList01 li:first-child {
+	margin-bottom: 3px;
+}
+.productCableList01 li:last-child {
+	margin-bottom: 0;
+}
+
+.productCableList01 {
+	border-bottom: 1px solid #dfdfdf;
+	padding-bottom: 30px;
+}
+.productCableList01.borderN {
+	border-bottom: none;
+	padding-bottom: 0;
+}
+
+.productCableList01 li figure {
+	float: left;
+	width: 294px;
+}
+.productCableList01 li .productCableTable01 {
+	float: right;
+	width: 364px;
+}
+.productCableTable01 .tableLineUp01 {
+	margin-top: 0;
+}
+.productCableTable01 .tableLineUp01 th {
+	padding: 5px 10px 3px;
+}
+.productCableTable01 .tableLineUp01 td {
+	padding: 3px 10px 1px;
+}
+
+.productTabModel17No01 {
+	position: absolute;
+	left:80px;
+	top:145px;
+}
+.productTabModel17No02 {
+	position: absolute;
+	left:275px;
+	top:145px;
+}
+.productTabModel17No03 {
+	position: absolute;
+	left:460px;
+	top:145px;
+}
+.productTabModel17No04 {
+	position: absolute;
+	left:80px;
+	top:275px;
+}
+.productTabModel17No05 {
+	position: absolute;
+	left:275px;
+	top:275px;
+}
+.productTabModel17No06 {
+	position: absolute;
+	left:460px;
+	top:275px;
+}
+
+
+/* No.43 /product/led/plate/
+-------------------------------------------------------------- */
+.productTabModel18No01 {
+	position: absolute;
+	left:95px;
+	top:138px;
+}
+.productTabModel18No02 {
+	position: absolute;
+	left:245px;
+	top:138px;
+}
+.productTabModel18No03 {
+	position: absolute;
+	left:395px;
+	top:138px;
+}
+
+
+/* No.44 /product/led/plate02/
+-------------------------------------------------------------- */
+.productTabModel19No01 {
+	position: absolute;
+	left:380px;
+	top:35px;
+}
+.productTabModel19No02 {
+	position: absolute;
+	left:500px;
+	top:35px;
+}
+.productTabModel19No03 {
+	position: absolute;
+	left: px;
+	top: px;
+}
+
+
+/* No.45 /product/led/laser/
+-------------------------------------------------------------- */
+.productLaserBox01 {
+	margin-left: 20px;
+	display: block;
+	min-height: 1%;
+}
+.productLaserBox01:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productLaserList01,
+.productLaserList02,
+.productLaserList03 {
+	float: left;
+	margin-right: 10px;
+	display: inline;
+}
+.productLaserList01,
+.productLaserList02 {
+	width: 120px;
+}
+.productLaserList03 {
+	width: 220px;
+}
+
+.productLaserTxt01 {
+	font-size: 117%;
+	font-weight: bold;
+}
+.productLaserImg01 {
+	text-align: center;
+	margin-top: 20px;
+}
+
+
+/* No.60 /product/led/kdpb/
+-------------------------------------------------------------- */
+.productTabModel22No01 {
+	position: absolute;
+	left:73px;
+	top:158px;
+}
+.productTabModel22No02 {
+	position: absolute;
+	left:258px;
+	top:158px;
+}
+.productTabModel22No03 {
+	position: absolute;
+	left:447px;
+	top:158px;
+}
+
+/* No.63 /product/led/lfm-80w/
+-------------------------------------------------------------- */
+.productTabModel23No01 {
+	position: absolute;
+	left:395px;
+	top:139px;
+}
+
+
+/* No.64 /product/led/dla/
+-------------------------------------------------------------- */
+.productTabModel24No01 {
+	position: absolute;
+	left:73px;
+	top:137px;
+}
+.productTabModel24No02 {
+	position: absolute;
+	left:258px;
+	top:137px;
+}
+.productTabModel24No03 {
+	position: absolute;
+	left:447px;
+	top:137px;
+}
+
+.productTabModel24List {
+	position: absolute;
+	left:73px;
+	top:187px;
+	color: #666;
+	line-height: 1.7;	
+}
+
+
+/* No.65 /product/led/dcm/
+-------------------------------------------------------------- */
+.productTabModel25No01 {
+	position: absolute;
+	top:137px;
+	left:233px;
+}
+
+
+/* No.66 /product/led/lpa/
+-------------------------------------------------------------- */
+.productTabModel26No01 {
+	position: absolute;
+	left:185px;
+	top:137px;
+}
+.productTabModel26No02 {
+	position: absolute;
+	left:384px;
+	top:137px;
+}
+
+
+/* productTabFunction01
+-------------------------------------------------------------- */
+.productTabFunction01 {
+	margin-top: 10px;
+}
+.productTabContents .productTabFunctionIco01 span {
+	background-color: #2359a4;
+	padding: 3px 8px 1px;
+	font-weight: bold;
+	color: #fff;
+}
+.productTabFunction01 ul {
+	margin-top: 7px;
+}
+
+/* productTabTxtStyle01
+-------------------------------------------------------------- */
+.productTabContents .productTabTxtStyle01 {
+	color: #cb2624;
+	font-weight: bold;
+}
+
+/* productTabChangeBox01
+-------------------------------------------------------------- */
+.productTabChangeBox01 {
+	display: block;
+	min-height: 1%;
+}
+.productTabChangeBox01:after {
+	clear: both;
+	content:".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+.productTabChangeBoxL01 {
+	float: left;
+	width: 305px;
+}
+.productTabChangeBoxR01 {
+	float: right;
+	width: 305px;
+}
+.productTabChangeBoxL01 figure,
+.productTabChangeBoxR01 figure {
+	float: left;
+	display: inline;
+	margin-right: 10px;
+}
+.productTabChangeBoxIn01 {
+	overflow: hidden;
+}
+
+.productTabChangeTit01,
+.productTabChangeTit02 {
+	font-weight: bold;
+}
+.productTabChangeTit02 {
+	margin-top: 15px;
+}
+
+.productTabContents .productTabChangeTit03 {
+	margin-bottom: 5px;
+	font-size: 117%;
+	font-weight: bold;
+	color: #2359a4;
+	line-height: 1.3;
+}
+
+/* productTabIcon01
+-------------------------------------------------------------- */
+.productTabIcon01 {
+	text-align: right;
+	margin-top: 10px;
+}
+
+/* No.58 /product/xenon/kfs_10_15f1/
+-------------------------------------------------------------- */
+.productTabModel21No01 {
+	position: absolute;
+	left:145px;
+	top:138px;
+}
+.productTabModel21No02 {
+	position: absolute;
+	left:353px;
+	top:138px;
+}
+.productTabModel21No03 {
+	position: absolute;
+	left: 145px;
+	top: 266px;
+}
+.productTabModel21No04 {
+	position: absolute;
+	left: 353px;
+	top: 266px;
+}
+
+
+/* /product/mdp/example/
+-------------------------------------------------------------- */
+.productExampleList01 {
+	background: #fff;
+	width: 668px;
+	border: 1px solid #e0e0e1;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+.productExampleList01 .question {
+	color: #2359a4;
+	font-size: 108%;
+	font-weight: bold;
+	border-bottom: 1px dotted #e0e0e0;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.productExampleList01 .answer span {
+	color: #d42142;
+	font-size: 108%;
+	font-weight: bold;
+}
+
+.productExampleList01 .answer {
+	line-height: 1.6;
+}
+
+.productExampleList01 figure {
+	margin-top: 20px;
+}
+
+.thanks {
+	color: #2359a4;
+	font-size: 153.9%;
+	text-align: center;
+	margin-top: 30px;
+}

@@ -1,0 +1,399 @@
+2014-05-19 16:08:54 210.249.184.60
+array (
+  'hellow_name' => '谷本はるか 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '谷本はるか 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-05-19 16:09:15 210.249.184.60
+array (
+  'hellow_name' => '谷本はるか 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '谷本はるか 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-05-26 15:02:41 211.12.84.194
+array (
+  'hellow_name' => '小川　貴之 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '小川　貴之 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-06-30 10:16:17 202.214.1.21
+array (
+  'hellow_name' => '森野　司朗 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '森野　司朗 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-06-30 10:16:45 202.214.1.21
+array (
+  'hellow_name' => '森野　司朗 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '森野　司朗 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-06-30 13:02:23 202.214.1.21
+array (
+  'hellow_name' => '森野　司朗 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '森野　司朗 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-06-30 13:08:31 202.214.1.21
+array (
+  'hellow_name' => '森野　司朗 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '森野　司朗 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-14 07:38:42 61.209.196.129
+array (
+  'hellow_name' => '五十嵐清彦 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '五十嵐清彦 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-14 13:46:26 180.19.195.181
+array (
+  'hellow_name' => '難波 貞行 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '難波 貞行 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-14 16:50:26 180.19.195.181
+array (
+  'hellow_name' => '難波 貞行 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '難波 貞行 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-14 16:50:36 180.19.195.181
+array (
+  'hellow_name' => '難波 貞行 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '難波 貞行 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-14 17:13:26 180.19.195.181
+array (
+  'hellow_name' => '難波 貞行 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '難波 貞行 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-28 11:49:20 118.151.156.174
+array (
+  'hellow_name' => '小川洋 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '小川洋 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-28 11:49:21 118.151.156.174
+array (
+  'hellow_name' => '小川洋 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '小川洋 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-28 11:49:22 118.151.156.174
+array (
+  'hellow_name' => '小川洋 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '小川洋 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-28 11:59:48 118.151.149.128
+array (
+  'hellow_name' => '渡部勇穂 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '渡部勇穂 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-28 12:29:50 118.151.149.128
+array (
+  'hellow_name' => '渡部勇穂 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '渡部勇穂 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-28 12:30:12 118.151.149.128
+array (
+  'hellow_name' => '渡部勇穂 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '渡部勇穂 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-07-28 13:31:58 220.99.126.210
+array (
+  'hellow_name' => '松村　洋子 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '松村　洋子 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-08-18 08:32:45 27.90.200.73
+array (
+  'hellow_name' => '田邉　貴大 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '田邉　貴大 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+
+2014-08-18 08:32:48 27.90.200.73
+array (
+  'hellow_name' => '田邉　貴大 様',
+  'this_root_url_opt_sample' => 'https://kdn-products.com/opt/sample',
+  'this_root_url_power_download' => 'http://kdn-products.com/power/download',
+  'this_root_url_opt_download' => 'http://kdn-products.com/opt/download',
+  'member_edit_url' => 'https://kdn-products.com/member/edit.php',
+  'this_root_url_contact' => 'https://kdn-products.com/contact',
+  'member_withdraw_url' => 'https://kdn-products.com/member/confirm_withdraw.php',
+  'this_root_url_member' => 'https://kdn-products.com/member',
+  'header_link' => '田邉　貴大 様／<a href="https://kdn-products.com/member/menu.php">会員メニュー</a>／<a href="https://kdn-products.com/member/logout.php">ログアウト</a>',
+  'this_root_url_opt' => 'http://kdn-products.com/opt',
+  'this_root_url_power' => 'http://kdn-products.com/power',
+  'this_registration_url' => 'https://kdn-products.com/member/this_registration.php',
+  'member_login_url' => 'https://kdn-products.com/member',
+  'member_regist_url' => 'https://kdn-products.com/member/addnew.php',
+  'this_root_url_contact_guest' => 'https://kdn-products.com/contact/inquiry_guest.php',
+)
+

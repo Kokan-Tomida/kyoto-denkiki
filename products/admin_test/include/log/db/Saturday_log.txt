@@ -1,0 +1,24 @@
+2014-03-15 00:49:11 110.135.106.40
+SELECT * FROM kdn_baseinfo WHERE admin_id = BINARY 'kdn' and admin_password = BINARY 'kdn24w375s'
+
+2014-03-15 00:49:11 110.135.106.40
+
+
+2014-03-15 00:49:11 110.135.106.40
+SELECT id,large_category_name FROM kdn_large_category ORDER BY  id asc
+
+2014-03-15 00:49:11 110.135.106.40
+
+
+2014-03-15 00:49:11 110.135.106.40
+SELECT  M.id,L.large_category_name,M.middle_category_name,M.series_name,M.image_path,M.order_of_row  FROM kdn_middle_category M left outer join kdn_large_category L on M.large_category_id=L.id ORDER BY  M.large_category_id ASC,M.order_of_row ASC
+
+2014-03-15 00:49:11 110.135.106.40
+
+
+2014-03-15 00:49:11 110.135.106.40
+SELECT  M.id,L.large_category_name,M.middle_category_name,M.series_name,M.image_path,M.order_of_row  FROM kdn_middle_category M left outer join kdn_large_category L on M.large_category_id=L.id ORDER BY  M.large_category_id ASC,M.order_of_row ASC LIMIT 0 , 15
+
+2014-03-15 00:49:11 110.135.106.40
+
+

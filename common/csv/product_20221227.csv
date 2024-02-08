@@ -1,0 +1,58 @@
+code,name,series,image,description
+mdp-kdp,瞬時電圧低下保護装置,KDP series,/product/mdp/images/pic_mdp01.jpg,最大200kVAまでをカバーする瞬低保護装置KDPシリーズ。ランナップも20種を超えます。様々な機器をバックアップするため単相だけでなく三相にも対応しています。CE、SEMI規格に準拠した瞬低保護装置です。
+mdp-kdp_g_b,瞬時電圧低下保護装置,"KDP-G,B series",/product/mdp/images/pic_mdp02.jpg,"「瞬低保護装置を簡単に使えるように」をコンセプトにしたKDP-G,Bシリーズ。出力コンセントを4個設け、複数の機器との接続を容易にしました。OA機器用としても使えるようにデスクトップタイプもラインナップしました。"
+mdp-kdp_d,瞬時電圧低下保護装置,KDP-D series,/product/mdp/images/pic_mdp03.jpg,瞬低保護装置といえば「交流」をイメージしますが、KDP-Dはシーケンサーやリレーの保護用にDCをバックアップします。設置場所を選ばないコンパクトな直流瞬低保護装置です。
+dc-sat,スパッタリング用DCパルス電源,SAT-56S/SAT-56D,/product/dc/images/pic_dc02.jpg,SAT-56シリーズはアーク遮断回路を内蔵したスパッタリング用電源です。直流出力はもちろんのことパルス出力としても使用できます。シングル、デュアルタイプがあり用途にあった使い方が可能です。SiC素子を用いた弊社独自の回路により、アーク蓄積エネルギーを200μJ/kW以下にすることを実現しております。
+dc-kdc,プログラマブルDC電源（CVCC）,KDC series,/product/dc/images/pic_dc01.jpg,1U（44mm）サイズで最大1500Wの高出力直流安定化電源です。シンプルな設計で使いやすさを追求しています。マスタースレーブや通信機能はオプションで選択でき、幅広い分野や用途でお使いいただける直流安定化電源です。
+led-kddb3,バー型照明,KDDB3 series,/product/led/images/pic_led25.jpg,反射でも透過でも使用できるマルチな照明。
+led-kdhm3,フラット照明,KDHM3 series,/product/led/images/pic_led36.jpg,面均一度の高い薄型面照明。
+led-kdpb2,中照度ライン照明,KDPB2 series,/product/led/images/pic_led37.jpg,多種多様な使用が可能なライン照明。
+led-kdpl3,高照度ライン照明,KDPL3 series,/product/led/images/pic_led38.jpg,自然空冷で100万lxの高照度を実現。
+led-lfm-150,ファイバー引き出し型照明,LFM-150 series,/product/led/images/pic_led39.jpg,メタハラ250W相当の明るさ小型化を実現。
+led-xenon_to_led,,キセノン置き換えストロボ照明,/product/led/images/pic_led40.jpg,キセノンストロボ照明からの置換えをLEDで実現。
+led-rgb,,RGB照明,/product/led/images/pic_led20.jpg,RGB発光により、1個の照明で多種検査が可能。京都電機器なら、小型・高照度・高均一度での製作が可能です。
+led-kdpb,高輝度LEDライン照明,KDPB series,/product/led/images/pic_led21.jpg,蛍光灯からの置き換えに最適な照明。高均一性を実現。
+led-kdpl2_fan,高輝度LEDライン照明,KDPL2-FAN,/product/led/images/pic_led22.jpg,ファン冷却により、KDPL2の約2倍の照度を実現。 (発光面で約100万lx)
+led-kdfp,LEDフラットパネル照明,KDFP series,/product/led/images/pic_led23.jpg,薄型・軽量の均一フラットパネル照明。
+led-lfm-80w,ファイバー引き出し型照明,LFM-80W,/product/led/images/pic_led24.jpg,LED採用によりメンテナンスフリー。メタハラ200W相当の明るさ、小型化を実現。
+led-kdpl2,パワーライン照明,KDPL series,/product/led/images/pic_led01.jpg,KDPLは、パワーLEDを使用した超高輝度ライン照明です。100mm単位で個別調光が可能。また、発光面は集光タイプ・拡散板タイプをラインアップ。
+led-kddb2,バー型照明,KDDB2 series,/product/led/images/pic_led02.jpg,KDDB2は、砲弾型LEDを高密度に実装した、直射光の照明です。反射・透過と幅広い用途で活躍可能なマルチ照明。
+led-kddb2_q,4方向バー型照明,KDDB2-Q series,/product/led/images/pic_led03.jpg,KDDB2-Qは、バー照明を4方向に配置した照明です。各バー照明の角度調整及び照明毎の調光が可能。
+led-kddl3,反射集光型ライン照明,KDDL3 series,/product/led/images/pic_led04.jpg,KDDL3は、特許取得の独自の光学設計を用いた、ライン照明です。照明長は100mm単位で3000mm(標準)まで製作可能。
+led-kddr_p,パワーダイレクトリング照明,KDDR-P series,/product/led/images/pic_led05.jpg,KDDR-Pは、パワーLEDと独自の光学設計を用いることにより、従来のKDDR2シリーズの約5倍の照度を実現したリング照明です。
+led-kddr2,ダイレクトリング照明,KDDR2/KDDR2-F series,/product/led/images/pic_led06.jpg,KDDR2は、砲弾型LEDを基板に傾斜をつけ、中央に直射光を照射する照明です。KDDR2-Fは、LEDを平面に実装することにより、ダイレクト型のKDDR2よりも広範囲を照射可能。
+led-kddr2_la,ローアングルリング照明,KDDR2-LA/KDDR2-T series,/product/led/images/pic_led07.jpg,KDDR2-LAは、砲弾型LEDを大きく傾斜をつけた基板に実装することにより、ワークに近距離から照射が可能なリング照明です。KDDR2-Tは、砲弾型LEDを真横に実装したリング照明です。
+led-kdfv2,疑似同軸落射照明,KDFV2 series,/product/led/images/pic_led08.jpg,KDFV2は、ハーフミラーを用いることによって、カメラ軸と同軸上に配置することが可能な照明です。
+led-kddd2,ドーム照明,KDDD2 series,/product/led/images/pic_led09.jpg,KDDD2は、ドーム形状の反射板を利用することにより、凹凸や光沢面など、直射光で発生しやすかったワークに対し、ハレーションを抑えることのできる照明です。
+led-kdhm2,フラット面照明,KDHM2 series,/product/led/images/pic_led10.jpg,KDHM2は、LEDを高密度に実装したフラット照明です。高密度に実装することにより、高均一度を実現。ユニット化により、30mm単位での製作が可能。
+led-kdfl2,導光型面照明,KDFL2 series,/product/led/images/pic_led11.jpg,KDFL2は、導光板を使用したフラット照明です。導光板を使用し、LED数を少なくすることにより、省電力。独自の光学設計を用いた、高均一度タイプもラインナップ。
+led-pl_plh2_plh3,マクロ同軸照明,PL/PLH2/PLH3 series,/product/led/images/pic_led12.jpg,PLシリーズは、テレセントリックレンズに挿入して、同軸落射照明として使用頂けるスポット照明です。先端部の形状変更により、出射パターンの選択可能。
+led-pls2_pls3_plsf,スポット照明,PLS2/PLS3/PLSF series,/product/led/images/pic_led13.jpg,PLSシリーズは、離れたワークに対して平行光を照射可能なスポット照明です。
+led-lfm-15w,ファイバー引き出し型照明,LFM-15W series,/product/led/images/pic_led14.jpg,LFM-15Wはハロゲン100W相当の照度を実現した、ファイバー用の照明です。LEDの採用によりメンテナンスフリーを実現。
+led-luv,UVスポット照明,LUV series,/product/led/images/pic_led15.jpg,LUVは、UN接着やUV硬化に適したハイパワーなUV照明です。波長は365nmと385nmの2種類をラインナップ。用途に合わせて先端レンズの選択が可能。
+led-kduv_l,UVライン照明,KDUV series,/product/led/images/pic_led16.jpg,KDUVは、ハイパワーUVLEDを使用したUVライン照明です。フレキ基板等の接着範囲の広いワークのUV接着に適した照明です。
+led-ir,IR照明,IR Lighting,/product/led/images/pic_led17.jpg,当社照明全てにおいて、IRを搭載可能。IR照明は可視光では検出できないワークの検査に最適。850nmをはじめ、各種波長をラインナップ。
+led-uv,UV照明,UV Lighting,/product/led/images/pic_led18.jpg,UV照明は短波長で散乱率が高い為、表面検査に最適。365nmをはじめ、各種波長をラインナップ。
+led-r_box,抵抗BOX,Resistance Box,/product/led/images/pic_led19.jpg,マクロ同軸照明PLシリーズ、スポット照明PLSシリーズ用の抵抗BOXです。
+led-dla,DINレール取付LED点灯電源,DLA series,/product/led/images/pic_led31.jpg,DIN取付型4ch出力超小型電源。配線不要で最大8台（32ch）を連結可能。
+led-dcm,DINレール取付通信ユニット,DCM ディーコム,/product/led/images/pic_led32.jpg,電源DLAを最大4台（16ch）制御可能。
+led-lga_302,ストロボ制御点灯電源,LGA-302 series,/product/led/images/pic_led33.jpg,当社製12V照明を接続可能なストロボ発光用電源 通信機能搭載(オプション)
+led-lpa,マクロ同軸照明・スポット照明専用点灯電源,LPA series,/product/led/images/pic_led34.jpg,PLS2/PLS3/PLH2/PLH3専用電源。各種照明を抵抗BOX無でフリー接続可能。
+led-lek,PWM制御点灯電源,LEK series,/product/led/images/pic_led26.jpg,LEKは、PWM制御の電源です。電源容量は30W・50W・100Wをラインアップ。30W・50Wについては最大8chまで標準ラインアップ。オプションで各種通信機能も搭載可能。
+led-lda,定電流制御点灯電源,LDA series,/product/led/images/pic_led27.jpg,LDAは、定電流制御の電源です。電源容量は30W・50W・100Wをラインアップ。特許出願中の独自の機能により、当社12V照明を接続可能。オプションで各種通信機能も搭載可能。
+led-lfa,ストロボ制御点灯電源,LFA series,/product/led/images/pic_led28.jpg,LFAは、ストロボ点灯の電源です。発光時間が10μs〜1500μsの範囲で設定可能。また、定電流制御により調光も可能。
+led-lla,高出力型定電流制御点灯電源,LLA series,/product/led/images/pic_led29.jpg,LLAは、KDPL2シリーズ専用の定電流制御の電源です。照明長に合わせて3種類の容量をラインナップ。オプションで各種通信機能も搭載可能。
+led-lee,LED照明用点灯電源,LEE series,/product/led/images/pic_led35.jpg,
+uv-uv_led,,UV-LED 照射器,/product/uv/images/pic_uv01.jpg,UV硬化用のLED照射器。
+fluorescent-lst,蛍光灯灯具,LST series,/product/fluorescent/images/pic_fluorescent01.jpg,
+fluorescent-lsts,蛍光灯灯具,LSTS series,/product/fluorescent/images/pic_fluorescent02.jpg,
+fluorescent-ulst,蛍光灯灯具,ULST series,/product/fluorescent/images/pic_fluorescent03.jpg,
+fluorescent-hlst,蛍光灯灯具,HLST series,/product/fluorescent/images/pic_fluorescent04.jpg,
+fluorescent-lsj,高周波蛍光灯点灯電源,LSJ series,/product/fluorescent/images/pic_fluorescent06.jpg,
+fluorescent-lsc_da1,8bit D/A変換装置,LSC-DA1 series,/product/fluorescent/images/pic_fluorescent08.jpg,
+fluorescent-lsc_sn1,光量一定制御用センサーボード,LSC-SN1 series,/product/fluorescent/images/pic_fluorescent09.jpg,
+xenon-kfs_10_15f1,10・15W ビルトインタイプ,KFS-10・15F1 series,/product/xenon/images/pic_fluorescent01.jpg,
+xenon-kfs_30f1,30W ビルトインタイプ,KFS-30F1 series,/product/xenon/images/pic_fluorescent02.jpg,
+xenon-kfs_60f1,60W ビルトインタイプ,KFS-60F1 series,/product/xenon/images/pic_fluorescent03.jpg,
+xenon-kfs_l,セパレートタイプ,KFS-＊＊L series,/product/xenon/images/pic_fluorescent04.jpg,
+xenon-kfs,セパレートタイプ ランプハウス,KFS series,/product/xenon/images/pic_fluorescent05.jpg,

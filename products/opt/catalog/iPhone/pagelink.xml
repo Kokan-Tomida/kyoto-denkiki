@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pagelinks>
+  <Link Page="2" Title="画像処理用LED照明装置 LED lighting" URL="6" X="0" Y="38" W="143" H="122" Kind="0"/>
+  <Link Page="2" Title="画像処理用蛍光灯照明装置 Fluorescent lighting" URL="43" X="0" Y="166" W="143" H="122" Kind="0"/>
+  <Link Page="2" Title="キセノン管ストロボ照明装置 Xenon strobe lighting" URL="55" X="0" Y="294" W="143" H="122" Kind="0"/>
+  <Link Page="2" Title="設備・サポート" URL="4" X="47" Y="429" W="77" H="15" Kind="0"/>
+  <Link Page="2" Title="カスタム照明" URL="66" X="135" Y="429" W="83" H="15" Kind="0"/>
+  <Link Page="2" Title="技術資料" URL="70" X="226" Y="429" W="70" H="15" Kind="0"/>
+  <Link Page="7" Title="パワーライン照明 KDPL series" URL="8" X="78" Y="15" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="4方向バー型照明 KDDB2-Q series" URL="10" X="73" Y="46" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="パワーダイレクトリング照明 KDDR-P series" URL="13" X="68" Y="76" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="疑似同軸落射照明 KDFV2 series" URL="18" X="63" Y="107" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="フラット面照明 KDHM2 series" URL="20" X="59" Y="137" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="マクロ同軸照明 PL/PLH2/PLH3 series" URL="22" X="55" Y="168" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="ファイバー引き出し型照明 LFM-15W series" URL="24" X="50" Y="198" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="UVライン照明 KDUV-L series" URL="24" X="45" Y="229" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="UV照明 UV Lighting" URL="28" X="40" Y="259" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="PWM制御点灯電源 LEK series" URL="30" X="36" Y="290" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="ストロボ制御点灯電源 LFA series" URL="34" X="32" Y="321" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="LED照明用点灯電源 LEB・LEC series" URL="38" X="27" Y="351" W="115" H="27" Kind="0"/>
+  <Link Page="7" Title="バー型照明 KDDB2 series" URL="10" X="204" Y="15" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="反射集光型ライン照明 KDDL3 series" URL="12" X="199" Y="46" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="ダイレクトリング照明 KDDR2 series" URL="14" X="195" Y="76" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="ドーム照明 KDDD2 series" URL="19" X="190" Y="107" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="導光型面照明 KDFL2 series" URL="21" X="185" Y="137" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="スポット照明 PLS/PLS3/PLSF series" URL="23" X="181" Y="168" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="UVスポット照明 LUV series" URL="26" X="176" Y="199" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="IR照明 IR Lighting" URL="28" X="172" Y="229" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="抵抗BOX Resistance Box" URL="29" X="167" Y="260" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="定電流制御点灯電源 LDA series" URL="32" X="163" Y="290" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="高出力型定電流制御点灯電源 LLA series" URL="36" X="158" Y="321" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="生産中止予定品 LEI・LEE series" URL="39" X="154" Y="351" W="111" H="27" Kind="0"/>
+  <Link Page="7" Title="照明用延長ケーブル" URL="40" X="27" Y="383" W="85" H="11" Kind="0"/>
+  <Link Page="7" Title="偏光板" URL="42" X="27" Y="397" W="63" H="11" Kind="0"/>
+  <Link Page="7" Title="拡散板" URL="41" X="194" Y="383" W="64" H="11" Kind="0"/>
+  <Link Page="7" Title="レーザークラスについて" URL="42" X="169" Y="397" W="86" H="11" Kind="0"/>
+  <Link Page="43" Title="高周波蛍光灯点灯電源 LSJ series" URL="44" X="84" Y="15" W="115" H="28" Kind="0"/>
+  <Link Page="43" Title="高周波蛍光灯点灯電源 LSH series" URL="46" X="78" Y="46" W="116" H="28" Kind="0"/>
+  <Link Page="43" Title="8bit D/A変換装置 LSC-DA1 series" URL="47" X="74" Y="76" W="116" H="28" Kind="0"/>
+  <Link Page="43" Title="光量一定制御用センサーボード  LSC-SN1 series" URL="47" X="69" Y="107" W="116" H="28" Kind="0"/>
+  <Link Page="43" Title="蛍光灯灯具  LST series" URL="48" X="65" Y="138" W="116" H="28" Kind="0"/>
+  <Link Page="43" Title="蛍光灯灯具  LSTS series" URL="48" X="60" Y="168" W="116" H="28" Kind="0"/>
+  <Link Page="43" Title="蛍光灯灯具 ULST series" URL="49" X="56" Y="199" W="116" H="28" Kind="0"/>
+  <Link Page="43" Title="蛍光灯灯具 HLST series" URL="49" X="52" Y="229" W="116" H="28" Kind="0"/>
+  <Link Page="43" Title="フラット照明 FP series" URL="50" X="47" Y="259" W="116" H="28" Kind="0"/>
+  <Link Page="43" Title="高周波蛍光灯点灯電源 LSFC series" URL="52" X="42" Y="290" W="116" H="28" Kind="0"/>
+  <Link Page="43" Title="高周波蛍光灯点灯電源 LSF series" URL="52" X="38" Y="320" W="116" H="28" Kind="0"/>
+  <Link Page="43" Title="高周波蛍光灯点灯電源 LSC series" URL="53" X="33" Y="351" W="116" H="28" Kind="0"/>
+  <Link Page="43" Title="ケーブル" URL="54" X="34" Y="383" W="57" H="11" Kind="0"/>
+  <Link Page="55" Title="10・15W ビルトインタイプ KFS-10・15F1 series" URL="56" X="81" Y="33" W="115" H="27" Kind="0"/>
+  <Link Page="55" Title="30W ビルトインタイプ KFS-30F1 series" URL="58" X="76" Y="64" W="115" H="27" Kind="0"/>
+  <Link Page="55" Title="60W ビルトインタイプ KFS-60F1 series" URL="60" X="72" Y="95" W="115" H="27" Kind="0"/>
+  <Link Page="55" Title="セパレートタイプ KFS-**L series" URL="62" X="67" Y="125" W="115" H="27" Kind="0"/>
+  <Link Page="55" Title="セパレートタイプ ランプハウス KFS series" URL="63" X="62" Y="156" W="115" H="27" Kind="0"/>
+  <Link Page="55" Title="キセノンフラッシュランプ" URL="64" X="63" Y="187" W="88" H="11" Kind="0"/>
+  <Link Page="55" Title="ケーブル" URL="65" X="61" Y="201" W="57" H="11" Kind="0"/>
+</pagelinks>

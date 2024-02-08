@@ -1,0 +1,882 @@
+2024-02-07 09:16:24 106.186.215.106
+SELECT * FROM kdn_baseinfo WHERE admin_id = BINARY 'kdn' and admin_password = BINARY 'kdnhan1Nov'
+
+2024-02-07 09:16:24 106.186.215.106
+
+
+2024-02-07 09:16:24 106.186.215.106
+SELECT id,large_category_name FROM kdn_large_category ORDER BY  id asc
+
+2024-02-07 09:16:24 106.186.215.106
+
+
+2024-02-07 09:16:24 106.186.215.106
+SELECT  M.id,L.large_category_name,M.middle_category_name,M.series_name,M.image_path,M.order_of_row  FROM kdn_middle_category M left outer join kdn_large_category L on M.large_category_id=L.id ORDER BY  M.large_category_id ASC,M.order_of_row ASC
+
+2024-02-07 09:16:24 106.186.215.106
+
+
+2024-02-07 09:16:24 106.186.215.106
+SELECT  M.id,L.large_category_name,M.middle_category_name,M.series_name,M.image_path,M.order_of_row  FROM kdn_middle_category M left outer join kdn_large_category L on M.large_category_id=L.id ORDER BY  M.large_category_id ASC,M.order_of_row ASC LIMIT 0 , 15
+
+2024-02-07 09:16:24 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3650
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3650
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:27 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3649
+
+2024-02-07 09:16:27 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id WHERE  ((M.company_name like '%ニッコー・マテリアルズ株式会社%') or  (IH.company_name like '%ニッコー・マテリアルズ株式会社%')) ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id WHERE  ((M.company_name like '%ニッコー・マテリアルズ株式会社%') or  (IH.company_name like '%ニッコー・マテリアルズ株式会社%')) ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2866
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2866
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2866
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3203
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:30 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3203
+
+2024-02-07 09:16:30 106.186.215.106
+
+
+2024-02-07 09:16:32 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:32 106.186.215.106
+
+
+2024-02-07 09:16:32 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=3647 ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:16:32 106.186.215.106
+
+
+2024-02-07 09:16:32 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=3647 ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2024-02-07 09:16:32 106.186.215.106
+
+
+2024-02-07 09:16:33 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:16:33 106.186.215.106
+
+
+2024-02-07 09:16:33 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=3647 ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:16:33 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3650
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3650
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:24:40 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id WHERE  ((M.company_name like '%パナソニックプロダクションエンジニアリング%') or  (IH.company_name like '%パナソニックプロダクションエンジニアリング%')) ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id WHERE  ((M.company_name like '%パナソニックプロダクションエンジニアリング%') or  (IH.company_name like '%パナソニックプロダクションエンジニアリング%')) ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3648
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3648
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3643
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3643
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=1332
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3566
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3566
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3566
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3355
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3355
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3347
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3350
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3350
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3350
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:41 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3350
+
+2024-02-07 09:24:41 106.186.215.106
+
+
+2024-02-07 09:24:44 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3648
+
+2024-02-07 09:24:44 106.186.215.106
+
+
+2024-02-07 09:24:44 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=3648 ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:24:44 106.186.215.106
+
+
+2024-02-07 09:24:44 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=3648 ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2024-02-07 09:24:44 106.186.215.106
+
+
+2024-02-07 09:24:45 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3648
+
+2024-02-07 09:24:45 106.186.215.106
+
+
+2024-02-07 09:24:45 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=3648 ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:24:45 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3650
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3650
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:47 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 09:27:47 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id WHERE  ((M.company_name like '%エムディテクノス%') or  (IH.company_name like '%エムディテクノス%')) ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id WHERE  ((M.company_name like '%エムディテクノス%') or  (IH.company_name like '%エムディテクノス%')) ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=494
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:27:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:27:48 106.186.215.106
+
+
+2024-02-07 09:37:39 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:37:39 106.186.215.106
+
+
+2024-02-07 09:37:39 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=2043 ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:37:39 106.186.215.106
+
+
+2024-02-07 09:37:39 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=2043 ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2024-02-07 09:37:39 106.186.215.106
+
+
+2024-02-07 09:37:40 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 09:37:40 106.186.215.106
+
+
+2024-02-07 09:37:40 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=2043 ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 09:37:40 106.186.215.106
+
+
+2024-02-07 10:36:45 106.186.215.106
+SELECT * FROM kdn_baseinfo WHERE admin_id = BINARY 'kdn' and admin_password = BINARY 'kdnhan1Nov'
+
+2024-02-07 10:36:45 106.186.215.106
+
+
+2024-02-07 10:36:45 106.186.215.106
+SELECT id,large_category_name FROM kdn_large_category ORDER BY  id asc
+
+2024-02-07 10:36:45 106.186.215.106
+
+
+2024-02-07 10:36:45 106.186.215.106
+SELECT  M.id,L.large_category_name,M.middle_category_name,M.series_name,M.image_path,M.order_of_row  FROM kdn_middle_category M left outer join kdn_large_category L on M.large_category_id=L.id ORDER BY  M.large_category_id ASC,M.order_of_row ASC
+
+2024-02-07 10:36:45 106.186.215.106
+
+
+2024-02-07 10:36:45 106.186.215.106
+SELECT  M.id,L.large_category_name,M.middle_category_name,M.series_name,M.image_path,M.order_of_row  FROM kdn_middle_category M left outer join kdn_large_category L on M.large_category_id=L.id ORDER BY  M.large_category_id ASC,M.order_of_row ASC LIMIT 0 , 15
+
+2024-02-07 10:36:45 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT H.id,H.generate_date,H.generate_time,H.type,H.kdn_member_id,M.company_name,M.charge_name,M.pref,M.telno,M.email_address,M.status,IH.company_name as guest_company_name,IH.charge_name as guest_charge_name,IH.pref as guest_pref,IH.telno as guest_telno,IH.email_address as guest_email_address,H.note1,H.note2,H.note3,H.history_id,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id left outer join kdn_inquiry_history IH on H.history_id=IH.id ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3650
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3650
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=2043
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:46 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3647
+
+2024-02-07 10:36:46 106.186.215.106
+
+
+2024-02-07 10:36:48 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3650
+
+2024-02-07 10:36:48 106.186.215.106
+
+
+2024-02-07 10:36:48 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=3650 ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 10:36:48 106.186.215.106
+
+
+2024-02-07 10:36:48 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=3650 ORDER BY  H.generate_date desc, H.generate_time desc LIMIT 0 , 15
+
+2024-02-07 10:36:48 106.186.215.106
+
+
+2024-02-07 10:36:49 106.186.215.106
+SELECT * FROM kdn_member WHERE id=3650
+
+2024-02-07 10:36:49 106.186.215.106
+
+
+2024-02-07 10:36:49 106.186.215.106
+SELECT H.id, H.type, H.kdn_member_id, M.company_name, M.charge_name, H.generate_date, H.generate_time, H.note1, H.note2, H.note3, H.history_id ,H.history_admin_note FROM kdn_history H left outer join kdn_member M on H.kdn_member_id=M.id WHERE H.kdn_member_id=3650 ORDER BY  H.generate_date desc, H.generate_time desc
+
+2024-02-07 10:36:49 106.186.215.106
+
+
